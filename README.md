@@ -58,3 +58,19 @@ INSIGHTS
 BUSINESS RECOMMENDATIONS
 
 One thing I'd emphasize: don't try to learn every SQL cleaning function at once. As you encounter problems in this dataset—TRIM, inconsistent capitalization, mixed numeric/text values, NULLs, duplicates, dates, outliers, etc.—solve them one at a time
+
+Rule: Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
+Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid
+
+Finding Negative Values
+//SELECT area_sqft
+FROM `your_project.real_estate_analysis.raw_property_listings`
+WHERE SAFE_CAST(area_sqft AS FLOAT64) < 0;//
+
+replacing the negative values 
+//REPLACE(CAST(area_sqft AS STRING), '-', '')//
+//SELECT
+    area_sqft,
+    REPLACE(CAST(area_sqft AS STRING), '-', '') AS area_sqft_cleaned
+FROM `your_project.real_estate_analysis.raw_property_listings`
+WHERE area_sqft IN (-120, -500);//
