@@ -27,3 +27,34 @@ Are expensive properties necessarily larger?
 Which segments could represent an opportunity?
 
 # DATA CLEANING IN SQL
+We want to understand our property market, identify the most attractive locations and property types, understand pricing, and improve our sales strategy.
+
+Start data audit with command
+//SELECT *
+FROM `YOUR_PROJECT_ID.real_estate_analysis.raw_property_listings`
+LIMIT 20;//
+
+STAGES OF CLEANING
+RAW DATA
+   ↓
+raw_property_listings
+   ↓
+DATA QUALITY AUDIT
+   ↓
+stg_property_listings
+   ↓
+CLEANING & TRANSFORMATION
+   ↓
+clean_property_listings
+   ↓
+ANALYSIS
+   ↓
+SQL ANALYTICAL QUERIES
+   ↓
+POWER BI
+   ↓
+INSIGHTS
+   ↓
+BUSINESS RECOMMENDATIONS
+
+One thing I'd emphasize: don't try to learn every SQL cleaning function at once. As you encounter problems in this dataset—TRIM, inconsistent capitalization, mixed numeric/text values, NULLs, duplicates, dates, outliers, etc.—solve them one at a time
