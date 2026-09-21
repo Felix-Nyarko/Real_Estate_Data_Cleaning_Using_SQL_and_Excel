@@ -62,6 +62,20 @@ One thing I'd emphasize: don't try to learn every SQL cleaning function at once.
 Rule: Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
 Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid
 
+1. Standardizing the string columns such as location, property type, status, furnished, agent name and source
+```sql 
+SELECT
+TRIM(INITCAP(location)) as cleaned_location,
+TRIM(INITCAP(property_type)) as cleaned_property_type,
+TRIM(INITCAP(status)) as cleaned_status,
+TRIM(INITCAP(furnished)) as cleaned_furnished,
+TRIM(INITCAP(agent_name)) as cleaned_agent_name,
+TRIM(INITCAP(source)) as cleaned_source
+FROM
+`new-tutorials.Real_Estate_Data_Set.Real_Estate`;
+```
+
+
 Finding Negative Values
 //SELECT area_sqft
 FROM `your_project.real_estate_analysis.raw_property_listings`
