@@ -74,7 +74,24 @@ TRIM(INITCAP(source)) as cleaned_source
 FROM
 `new-tutorials.Real_Estate_Data_Set.Real_Estate`;
 ```
+The above code is not applicable in MYSQL Workbench
 
+Alternatively, the case statement can be applied to standardize the string columns;
+```sql
+SELECT
+property_type,
+CASE 
+WHEN lower(property_type) like '%ment%' THEN 'Apartment'
+WHEN lower(property_type) like '%house%' THEN 'House'
+WHEN lower(property_type) like '%penthouse%' THEN 'Penthouse'
+WHEN lower(property_type) like '%studio%' THEN 'Studio'
+WHEN lower(property_type) like '%town%' THEN 'Townhouse'
+ELSE 'other'
+END AS cleaned_property_type
+FROM
+real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+```
+it is applicable to workbench
 
 Finding Negative Values
 //SELECT area_sqft
