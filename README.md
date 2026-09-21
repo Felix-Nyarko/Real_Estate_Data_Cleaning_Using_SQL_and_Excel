@@ -93,6 +93,34 @@ real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 it is applicable to workbench
 
+2. Working on columns with integer
+
+3. Finding duplicates
+```sql
+SELECT property_id, location, property_type, bedrooms,
+row_number () OVER (
+partition by location, property_type
+order by property_id)
+as rn
+from 
+real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+```
+
+4. Finding and removing duplicates
+```sql
+SELECT *
+FROM 
+(SELECT property_id, location, property_type, bedrooms,
+row_number () OVER (
+partition by location, property_type
+order by property_id)
+as rn
+from 
+real_estate_sql_cleaning.messy_real_estate_listings_ghana) as rn
+where rn=1;
+```
+
+
 Finding Negative Values
 //SELECT area_sqft
 FROM `your_project.real_estate_analysis.raw_property_listings`
