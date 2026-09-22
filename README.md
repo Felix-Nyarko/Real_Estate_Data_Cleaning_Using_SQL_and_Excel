@@ -30,18 +30,14 @@ Which segments could represent an opportunity?
 We want to understand our property market, identify the most attractive locations and property types, understand pricing, and improve our sales strategy.
 
 Start data audit with command
-//SELECT *
+```sql
+SELECT *
 FROM `YOUR_PROJECT_ID.real_estate_analysis.raw_property_listings`
 LIMIT 20;//
+```
 
 STAGES OF CLEANING
-RAW DATA
-   ↓
-raw_property_listings
-   ↓
-DATA QUALITY AUDIT
-   ↓
-stg_property_listings
+
    ↓
 CLEANING & TRANSFORMATION
    ↓
@@ -56,8 +52,6 @@ POWER BI
 INSIGHTS
    ↓
 BUSINESS RECOMMENDATIONS
-
-One thing I'd emphasize: don't try to learn every SQL cleaning function at once. As you encounter problems in this dataset—TRIM, inconsistent capitalization, mixed numeric/text values, NULLs, duplicates, dates, outliers, etc.—solve them one at a time
 
 
 1. Standardizing the string columns such as location, property type, status, furnished, agent name and source
