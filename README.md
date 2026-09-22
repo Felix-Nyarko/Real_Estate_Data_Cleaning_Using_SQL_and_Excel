@@ -91,7 +91,13 @@ real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 it is applicable to workbench
 
-2. Working on columns with integer
+2. Working on the date column
+```sql
+SELECT 
+listing_date as original_date,
+str_to_date(listing_date, '%d/%m/%Y') as cleaned_date
+from real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+```
 
 3. Finding duplicates
 ```sql
