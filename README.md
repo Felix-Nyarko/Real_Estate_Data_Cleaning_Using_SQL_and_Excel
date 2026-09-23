@@ -148,6 +148,17 @@ An ideal approach to be dealing with the null are as follows;
       (i. Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
       (ii. Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid)
 
-# SQL ANALYTICAL QUERIES
+
+# SQL ANALYTICAL QUERIES (THE ANALYSIS)
+Each query is for this project is aimed at......
+The Market
+1. The locations that have the highest average property prices
+2. The locations that have the most listings
+3. The type of property that dominates the market
+4. What's the average price by bedroom count?
+5. What's the average price per sqft?
+6. Which locations offer the best?
+
+
 
 
