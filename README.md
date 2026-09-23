@@ -108,23 +108,23 @@ real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```sql
 SELECT *
 FROM 
-(SELECT property_id, location, property_type, bedrooms,
-row_number () OVER (
-partition by location, property_type
-order by property_id)
+   (SELECT property_id, location, property_type, bedrooms,
+   row_number () OVER (
+   partition by location, property_type
+   order by property_id)
 as rn
 from 
-real_estate_sql_cleaning.messy_real_estate_listings_ghana) as rn
+   real_estate_sql_cleaning.messy_real_estate_listings_ghana) as rn
 where rn=1;
 ```
 
 5. Finding and replacing negative values - Location
 ```sql
 SELECT
-TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
-count(*) as property_count
+   TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
+   count(*) as property_count
 FROM
-`new-tutorials.Real_Estate_Data_Set.Real_Estate`
+   `new-tutorials.Real_Estate_Data_Set.Real_Estate`
 GROUP BY location_cleaned
 ORDER BY property_count DESC;
 ```
@@ -159,19 +159,29 @@ To identify the locations that have the highest average property prices, I filte
 3. The locations that have the most listings
 ```sql
 SELECT
-TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
-count(*) as property_count
+   TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
+   count(*) as property_count
 FROM
-`new-tutorials.Real_Estate_Data_Set.Real_Estate`
+   `new-tutorials.Real_Estate_Data_Set.Real_Estate`
 GROUP BY location_cleaned
 ORDER BY property_count DESC;
 ```
 *table set-up*
 
 5. The type of property that dominates the market
-6. The average price by bedroom count
-7. The average price per sqft
-8. The locations that offers the best
+```sql
+SELECT
+   TRIM(INITCAP(property_type)) AS property_type_cleaned,
+   COUNT(*) AS property_frequency
+FROM
+   `new-tutorials.Real_Estate_Data_Set.Real_Estate`
+GROUP BY property_type_cleaned
+ORDER BY property_frequency DESC;
+```
+
+7. The average price by bedroom count
+8. The average price per sqft
+9. The locations that offers the best
 
 
 
