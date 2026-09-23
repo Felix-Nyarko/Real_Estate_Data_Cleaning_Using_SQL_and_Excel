@@ -153,11 +153,25 @@ An ideal approach to be dealing with the null are as follows;
 Each query is for this project is aimed at......
 The Market
 1. The locations that have the highest average property prices
-2. The locations that have the most listings
-3. The type of property that dominates the market
-4. The average price by bedroom count
-5. The average price per sqft
-6. The locations that offers the best
+To identify the locations that have the highest average property prices, I filtered....
+**YET TO SOLVE**
+
+3. The locations that have the most listings
+```sql
+SELECT
+TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
+count(*) as property_count
+FROM
+`new-tutorials.Real_Estate_Data_Set.Real_Estate`
+GROUP BY location_cleaned
+ORDER BY property_count DESC;
+```
+*table set-up*
+
+5. The type of property that dominates the market
+6. The average price by bedroom count
+7. The average price per sqft
+8. The locations that offers the best
 
 
 
