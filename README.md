@@ -155,9 +155,9 @@ The Market
 1. The locations that have the highest average property prices
 2. The locations that have the most listings
 3. The type of property that dominates the market
-4. What's the average price by bedroom count?
-5. What's the average price per sqft?
-6. Which locations offer the best?
+4. The average price by bedroom count
+5. The average price per sqft
+6. The locations that offers the best
 
 
 
