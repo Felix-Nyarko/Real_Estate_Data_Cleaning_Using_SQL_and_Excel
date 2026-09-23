@@ -181,11 +181,23 @@ ORDER BY property_frequency DESC;
 4. The average price by bedroom count
 5. The average price per sqft
 
+
 Sales
 1. The agents with the most listing is
-2. The agents that has the highest proportion of sold properties is
-3. The properties that have been sitting on the market longest are
-4. Does price appear related to days on the market?
+```sql
+SELECT
+  agent_name,
+  count(*) as number_of_listings
+FROM
+  `new-tutorials.Real_Estate_Data_Set.Real_Estate`
+GROUP BY agent_name
+ORDER BY number_of_listings desc;
+```
+*table set up*
+
+3. The agents that has the highest proportion of sold properties is
+4. The properties that have been sitting on the market longest are
+5. Does price appear related to days on the market?
 
 
 
