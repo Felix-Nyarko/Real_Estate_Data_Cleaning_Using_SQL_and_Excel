@@ -12,7 +12,6 @@ As a real estate marketing and sales executive, this project was born from a dat
 3. Which property types dominate the market?
 4. What's the average price by bedroom count?
 5. What's the average price per sqft?
-6. Which locations offer the best?
 
 ### Sales
 1. Which agents have the most listings?
