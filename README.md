@@ -155,7 +155,7 @@ The Market
 To identify the locations that have the highest average property prices, I filtered....
 **YET TO SOLVE**
 
-3. The locations that have the most listings
+2. The locations that have the most listings
 ```sql
 SELECT
    TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
@@ -167,7 +167,7 @@ ORDER BY property_count DESC;
 ```
 *table set-up*
 
-5. The type of property that dominates the market
+3. The type of property that dominates the market
 ```sql
 SELECT
    TRIM(INITCAP(property_type)) AS property_type_cleaned,
@@ -178,10 +178,14 @@ GROUP BY property_type_cleaned
 ORDER BY property_frequency DESC;
 ```
 
-7. The average price by bedroom count
-8. The average price per sqft
-9. The locations that offers the best
+4. The average price by bedroom count
+5. The average price per sqft
 
+Sales
+1. The agents with the most listing is
+2. The agents that has the highest proportion of sold properties is
+3. The properties that have been sitting on the market longest are
+4. Does price appear related to days on the market?
 
 
 
