@@ -240,7 +240,34 @@ ORDER BY Proportion_of_Sold_Properties DESC;
 ```
 
 3. The properties that have been sitting on the market longest are
-   
+```sql
+SELECT
+  Property_ID,
+  Location,
+  Property_Type,
+  Bedrooms,
+  Days_On_Market
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE Days_On_Market IS NOT NULL
+ORDER BY Days_On_Market DESC
+LIMIT 10;
+```
+
+or
+
+```sql
+SELECT
+  Property_type,
+  COUNT(Days_On_Market) AS Market_Period
+FROM
+`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE Property_type IS NOT NULL
+GROUP BY Property_id, Property_type
+ORDER BY Market_Period DESC;
+```
+
+
 7. Does price appear related to days on the market?
 
 
