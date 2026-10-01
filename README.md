@@ -153,9 +153,18 @@ Each query is for this project is aimed at......
 The Market
 1. The locations that have the highest average property prices
 To identify the locations that have the highest average property prices, I filtered....
-**YET TO SOLVE**
+```sql
+SELECT Location,
+   ROUND(AVG(` Price_GHS `), 0) AS Avg_Property_Price 
+FROM `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE Location IS NOT NULL
+AND ` Price_GHS ` IS NOT NULL
+GROUP BY Location
+ORDER BY Avg_Property_Price DESC
+LIMIT 10;
+```
 
-2. The locations that have the most listings
+3. The locations that have the most listings
 ```sql
 SELECT
    TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
@@ -179,7 +188,27 @@ ORDER BY property_frequency DESC;
 ```
 
 4. The average price by bedroom count
-5. The average price per sqft
+```sql
+SELECT
+  Bedrooms,
+  COUNT(Bedrooms) AS Bedroom_Count,
+  ROUND(AVG(` Price_GHS `),0) AS Avg_Price
+FROM 
+`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE Bedrooms IS NOT NULL
+AND ` Price_GHS ` IS NOT NULL
+GROUP BY Bedrooms
+ORDER BY Bedrooms ASC;
+```
+
+6. The average price per sqft
+```sql
+SELECT
+Area_ft,
+ROUND((` Price_GHS `/ Area_ft),0) AS Avg_Price_Per_Sqft
+FROM `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE Area_ft > 0;
+```
 
 
 Sales
