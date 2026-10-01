@@ -224,9 +224,24 @@ ORDER BY number_of_listings desc;
 ```
 *table set up*
 
-3. The agents that has the highest proportion of sold properties is
-4. The properties that have been sitting on the market longest are
-5. Does price appear related to days on the market?
+2. The agents that has the highest proportion of sold properties is
+```sql
+SELECT
+  Agent_Name,
+  COUNTIF(Status='Sold') AS Sold_Properties,
+  COUNT(*) AS Total_Properties,
+   ROUND(COUNTIF(Status='Sold')/COUNT(*), 2) * 100 AS Proportion_of_Sold_Properties
+FROM
+`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE 
+Agent_Name IS NOT NULL
+GROUP BY Agent_Name
+ORDER BY Proportion_of_Sold_Properties DESC;
+```
+
+3. The properties that have been sitting on the market longest are
+   
+7. Does price appear related to days on the market?
 
 
 
