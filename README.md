@@ -254,21 +254,29 @@ ORDER BY Days_On_Market DESC
 LIMIT 10;
 ```
 
-or
-
+4. Does price appear related to days on the market?
 ```sql
 SELECT
-  Property_type,
-  COUNT(Days_On_Market) AS Market_Period
-FROM
-`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
-WHERE Property_type IS NOT NULL
-GROUP BY Property_id, Property_type
-ORDER BY Market_Period DESC;
+  ` Price_GHS `,
+    Days_On_Market
+FROM `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE ` Price_GHS ` IS NOT NULL AND
+    Days_On_Market IS NOT NULL AND
+    ` Price_GHS ` > 0 AND
+    Days_On_Market > 0
+ORDER BY Days_On_Market DESC;
 ```
 
-
-7. Does price appear related to days on the market?
-
-
-
+To further determine the correlation between price and days on the market, we can use correlation.
+```sql
+SELECT
+  CORR(Price_GHS, Days_On_Market) AS price_days_correlation
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+  Price_GHS IS NOT NULL
+  AND Days_On_Market IS NOT NULL
+  AND Price_GHS > 0
+  AND Days_On_Market >= 0;
+```
+The correlation coefficient was -0.0233 signifying that there is no relationship that exist between price and days on the market about this dataset
