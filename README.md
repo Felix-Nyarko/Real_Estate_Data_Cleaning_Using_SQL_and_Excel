@@ -25,6 +25,12 @@ As a real estate marketing and sales executive, this project was born to explore
 3. Are expensive properties necessarily larger?
 4. Which segments could represent an opportunity?
 
+# Tools I used
+For my deep dive into the real estate synthetic data, I harnessed the power of several key tools;
+- **Google Big Query** : The backbone of my analysis allowing me to query the database and unearth critical insights
+- **My SQL Workbench** : The chosen database management system, used as a support to the Google Big Query 
+- **Github** : Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking
+
 # DATA CLEANING IN SQL
 We want to understand our property market, identify the most attractive locations and property types, understand pricing, and improve our sales strategy.
 
@@ -157,10 +163,12 @@ An ideal approach to be dealing with the null are as follows;
 
 
 # SQL ANALYTICAL QUERIES (THE ANALYSIS)
-Each query is for this project is aimed at......
+Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - The Market, Sales and Investment. 
+
 The Market
-1. The locations that have the highest average property prices
-To identify the locations that have the highest average property prices, I filtered....
+1. The locations that have the highest average property prices.
+To identify the locations that have the highest average property prices, I filtered locations by average property prices. This query highlights locations with high average property prices.
+
 ```sql
 SELECT Location,
    ROUND(AVG(` Price_GHS `), 0) AS Avg_Property_Price 
@@ -175,6 +183,13 @@ ORDER BY
    Avg_Property_Price DESC
 LIMIT 10;
 ```
+Here is a breakdown of the locations with high average prices for properties.
+| Location | Average Property Price (GHS) |
+|----------|----------------------|
+| Cantonments | 2,170,832|
+| Airport Residential | 1,972,919 |
+| Osu | 1,823,436|
+
 
 3. The locations that have the most listings
 ```sql
