@@ -280,3 +280,44 @@ WHERE
   AND Days_On_Market >= 0;
 ```
 The correlation coefficient was -0.0233 signifying that there is no relationship that exist between price and days on the market about this dataset
+The correlation between property price and days on market was -0.026, indicating a negligible negative linear relationship. This suggests that property price alone does not appear to have a meaningful linear association with how long a property remains on the market in this dataset.
+
+
+### Investment 
+1. Which locations appear attractive based on price/sqft?
+The locations that appear attractive based on price/sqft
+```sql
+SELECT
+    Location,
+    ROUND(AVG(` Price_GHS `/Area_ft), 2) as average_price_per_sqft
+  FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+  WHERE Location IS NOT NULL AND
+  ` Price_GHS ` IS NOT NULL AND
+  Area_ft IS NOT NULL
+  AND ` Price_GHS ` > 0
+  AND Area_ft > 0
+  GROUP BY Location
+  ORDER BY average_price_per_sqft DESC;
+```
+
+3. What property types command the highest premiums?
+```sql
+SELECT
+  Property_Type,
+  ROUND(AVG(` Price_GHS `/ Area_ft), 2) AS Average_Price_Per_Sqft
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+  Property_Type IS NOT NULL
+  AND ` Price_GHS ` IS NOT NULL
+  AND Area_ft IS NOT NULL
+  AND Area_ft > 0
+GROUP BY
+  Property_Type
+ORDER BY
+  Average_Price_Per_Sqft DESC;
+```
+
+5. Are expensive properties necessarily larger?
+6. Which segments could represent an opportunity?
