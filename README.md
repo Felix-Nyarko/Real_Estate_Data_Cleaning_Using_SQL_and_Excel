@@ -30,9 +30,11 @@ We want to understand our property market, identify the most attractive location
 
 Start data audit with command
 ```sql
-SELECT *
-FROM `YOUR_PROJECT_ID.real_estate_analysis.raw_property_listings`
-LIMIT 20;//
+SELECT
+      *
+FROM
+      `YOUR_PROJECT_ID.real_estate_analysis.raw_property_listings`
+LIMIT 20;
 ```
 
 STAGES OF CLEANING
@@ -56,65 +58,69 @@ BUSINESS RECOMMENDATIONS
 1. Standardizing the string columns such as location, property type, status, furnished, agent name and source
 ```sql 
 SELECT
-TRIM(INITCAP(location)) as cleaned_location,
-TRIM(INITCAP(property_type)) as cleaned_property_type,
-TRIM(INITCAP(status)) as cleaned_status,
-TRIM(INITCAP(furnished)) as cleaned_furnished,
-TRIM(INITCAP(agent_name)) as cleaned_agent_name,
-TRIM(INITCAP(source)) as cleaned_source
+      TRIM(INITCAP(location)) AS cleaned_location,
+      TRIM(INITCAP(property_type)) AS cleaned_property_type,
+      TRIM(INITCAP(status)) AS cleaned_status,
+      TRIM(INITCAP(furnished)) AS cleaned_furnished,
+      TRIM(INITCAP(agent_name)) AS cleaned_agent_name,
+      TRIM(INITCAP(source)) AS cleaned_source
 FROM
-`new-tutorials.Real_Estate_Data_Set.Real_Estate`;
+      `new-tutorials.Real_Estate_Data_Set.Real_Estate`;
 ```
 The above code is not applicable in MYSQL Workbench
 
 Alternatively, the case statement can be applied to standardize the string columns;
 ```sql
 SELECT
-property_type,
+      property_type,
 CASE 
-WHEN lower(property_type) like '%ment%' THEN 'Apartment'
-WHEN lower(property_type) like '%house%' THEN 'House'
-WHEN lower(property_type) like '%penthouse%' THEN 'Penthouse'
-WHEN lower(property_type) like '%studio%' THEN 'Studio'
-WHEN lower(property_type) like '%town%' THEN 'Townhouse'
-ELSE 'other'
-END AS cleaned_property_type
+      WHEN lower(property_type) like '%ment%' THEN 'Apartment'
+      WHEN lower(property_type) like '%house%' THEN 'House'
+      WHEN lower(property_type) like '%penthouse%' THEN 'Penthouse'
+      WHEN lower(property_type) like '%studio%' THEN 'Studio'
+      WHEN lower(property_type) like '%town%' THEN 'Townhouse'
+      ELSE 'other'
+      END AS cleaned_property_type
 FROM
-real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+      real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 it is applicable to workbench
 
 2. Working on the date column
 ```sql
 SELECT 
-listing_date as original_date,
-str_to_date(listing_date, '%d/%m/%Y') as cleaned_date
-from real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+      listing_date as original_date,
+      str_to_date(listing_date, '%d/%m/%Y') AS cleaned_date
+FROM
+      real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 
 3. Finding duplicates
 ```sql
-SELECT property_id, location, property_type, bedrooms,
-row_number () OVER (
-partition by location, property_type
-order by property_id)
-as rn
-from 
-real_estate_sql_cleaning.messy_real_estate_listings_ghana;
+SELECT
+   property_id, location, property_type, bedrooms,
+   row_number () OVER (
+   partition by location, property_type
+   order by property_id)
+   AS rn
+FROM 
+   real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 
 4. Finding and removing duplicates
 ```sql
-SELECT *
+SELECT
+   *
 FROM 
    (SELECT property_id, location, property_type, bedrooms,
    row_number () OVER (
    partition by location, property_type
    order by property_id)
-as rn
+   AS rn
 from 
-   real_estate_sql_cleaning.messy_real_estate_listings_ghana) as rn
-where rn=1;
+   real_estate_sql_cleaning.messy_real_estate_listings_ghana) AS rn
+where
+   rn=1;
 ```
 
 5. Finding and replacing negative values - Location
@@ -133,8 +139,10 @@ ORDER BY property_count DESC;
 SELECT
     area_sqft,
     REPLACE(area_sqft, '-', '') AS area_sqft_cleaned
-FROM real_estate_sql_cleaning.messy_real_estate_listings_ghana
-WHERE area_sqft IN (-120, -500);
+FROM
+   real_estate_sql_cleaning.messy_real_estate_listings_ghana
+WHERE
+   area_sqft IN (-120, -500);
 ```
 
 7. Handling null values
@@ -156,11 +164,15 @@ To identify the locations that have the highest average property prices, I filte
 ```sql
 SELECT Location,
    ROUND(AVG(` Price_GHS `), 0) AS Avg_Property_Price 
-FROM `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
-WHERE Location IS NOT NULL
-AND ` Price_GHS ` IS NOT NULL
-GROUP BY Location
-ORDER BY Avg_Property_Price DESC
+FROM
+   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+   Location IS NOT NULL
+   AND ` Price_GHS ` IS NOT NULL
+GROUP BY
+   Location
+ORDER BY
+   Avg_Property_Price DESC
 LIMIT 10;
 ```
 
@@ -171,8 +183,10 @@ SELECT
    count(*) as property_count
 FROM
    `new-tutorials.Real_Estate_Data_Set.Real_Estate`
-GROUP BY location_cleaned
-ORDER BY property_count DESC;
+GROUP BY
+   location_cleaned
+ORDER BY
+   property_count DESC;
 ```
 *table set-up*
 
@@ -183,8 +197,10 @@ SELECT
    COUNT(*) AS property_frequency
 FROM
    `new-tutorials.Real_Estate_Data_Set.Real_Estate`
-GROUP BY property_type_cleaned
-ORDER BY property_frequency DESC;
+GROUP BY
+   property_type_cleaned
+ORDER BY
+   property_frequency DESC;
 ```
 
 4. The average price by bedroom count
@@ -194,20 +210,24 @@ SELECT
   COUNT(Bedrooms) AS Bedroom_Count,
   ROUND(AVG(` Price_GHS `),0) AS Avg_Price
 FROM 
-`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
 WHERE Bedrooms IS NOT NULL
-AND ` Price_GHS ` IS NOT NULL
-GROUP BY Bedrooms
-ORDER BY Bedrooms ASC;
+   AND ` Price_GHS ` IS NOT NULL
+GROUP BY
+   Bedrooms
+ORDER BY
+   Bedrooms ASC;
 ```
 
 6. The average price per sqft
 ```sql
 SELECT
-Area_ft,
-ROUND((` Price_GHS `/ Area_ft),0) AS Avg_Price_Per_Sqft
-FROM `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
-WHERE Area_ft > 0;
+   Area_ft,
+   ROUND((` Price_GHS `/ Area_ft),0) AS Avg_Price_Per_Sqft
+FROM
+   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+   Area_ft > 0;
 ```
 
 
@@ -219,8 +239,10 @@ SELECT
   count(*) as number_of_listings
 FROM
   `new-tutorials.Real_Estate_Data_Set.Real_Estate`
-GROUP BY agent_name
-ORDER BY number_of_listings desc;
+GROUP BY
+   agent_name
+ORDER BY
+   number_of_listings desc;
 ```
 *table set up*
 
@@ -232,11 +254,13 @@ SELECT
   COUNT(*) AS Total_Properties,
    ROUND(COUNTIF(Status='Sold')/COUNT(*), 2) * 100 AS Proportion_of_Sold_Properties
 FROM
-`new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
 WHERE 
-Agent_Name IS NOT NULL
-GROUP BY Agent_Name
-ORDER BY Proportion_of_Sold_Properties DESC;
+   Agent_Name IS NOT NULL
+GROUP BY
+   Agent_Name
+ORDER BY
+   Proportion_of_Sold_Properties DESC;
 ```
 
 3. The properties that have been sitting on the market longest are
@@ -249,8 +273,10 @@ SELECT
   Days_On_Market
 FROM
   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
-WHERE Days_On_Market IS NOT NULL
-ORDER BY Days_On_Market DESC
+WHERE
+   Days_On_Market IS NOT NULL
+ORDER BY
+   Days_On_Market DESC
 LIMIT 10;
 ```
 
@@ -289,16 +315,18 @@ The locations that appear attractive based on price/sqft
 ```sql
 SELECT
     Location,
-    ROUND(AVG(` Price_GHS `/Area_ft), 2) as average_price_per_sqft
-  FROM
+    ROUND(AVG(` Price_GHS `/Area_ft), 2) AS average_price_per_sqft
+FROM
   `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
   WHERE Location IS NOT NULL AND
   ` Price_GHS ` IS NOT NULL AND
   Area_ft IS NOT NULL
   AND ` Price_GHS ` > 0
   AND Area_ft > 0
-  GROUP BY Location
-  ORDER BY average_price_per_sqft DESC;
+GROUP BY
+   Location
+ORDER BY
+   average_price_per_sqft DESC;
 ```
 
 3. What property types command the highest premiums?
