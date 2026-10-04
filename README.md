@@ -189,21 +189,46 @@ Here is a breakdown of the locations with high average prices for properties.
 | Cantonments | 2,170,832|
 | Airport Residential | 1,972,919 |
 | Osu | 1,823,436|
+|East Legon | 1,541,095 |
+| Labone | 142,659|
+| Dzorwulu | 1,131,718 |
+| Dansoman | 988,398 |
+| Spintex | 936,522|
+| Achimota | 881,988 |
+| Tema | 665,629 |
 
 
-3. The locations that have the most listings
+
+2. The locations that have the most listings
 ```sql
 SELECT
    TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
    count(*) as property_count
 FROM
    `new-tutorials.Real_Estate_Data_Set.Real_Estate`
+WHERE location IS NOT NULL
 GROUP BY
    location_cleaned
 ORDER BY
    property_count DESC;
 ```
-*table set-up*
+| Location | Number of listings |
+|----------|----------------------|
+| East Legon | 226|
+| Osu | 143 |
+| Airport Residential | 142 |
+| Spintex | 139 |
+| Tema | 138|
+| Adenta | 130 |
+| Cantonments | 128 |
+| Achimota | 106|
+| Labone | 102 |
+| Dzorwulu | 85 |
+| Dansoman | 83 |
+| Kasoa | 69 |
+
+
+
 
 3. The type of property that dominates the market
 ```sql
@@ -212,11 +237,20 @@ SELECT
    COUNT(*) AS property_frequency
 FROM
    `new-tutorials.Real_Estate_Data_Set.Real_Estate`
+WHERE property_type IS NOT NULL
 GROUP BY
    property_type_cleaned
 ORDER BY
    property_frequency DESC;
 ```
+| Property Type | Frequency |
+|----------|----------------------|
+| Apartment | 569|
+| Osu | 424 |
+| Airport Residential | 203 |
+| Spintex | 186 |
+| Tema | 125|
+
 
 4. The average price by bedroom count
 ```sql
@@ -233,6 +267,17 @@ GROUP BY
 ORDER BY
    Bedrooms ASC;
 ```
+| Bedroom(s) | Frequency | Average Price (GHS) |
+|----------|----------------------|--------|
+| 0 | 304 | 499,879 |
+| 1 | 234 | 1,050,163 |
+| 2 | 393 | 1,332,488 |
+| 3 | 312 | 1,598,011 |
+| 4 | 148|1,821,500 |
+| 5 | 55|2,158,473 |
+| 6 | 29| 2,870,207 |
+
+
 
 6. The average price per sqft
 ```sql
