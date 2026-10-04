@@ -306,12 +306,21 @@ SELECT
   count(*) as number_of_listings
 FROM
   `new-tutorials.Real_Estate_Data_Set.Real_Estate`
+WHERE agent_name IS NOT NULL
 GROUP BY
    agent_name
 ORDER BY
    number_of_listings desc;
 ```
-*table set up*
+
+| Agent Name | Number of Listings |
+|----------|----------------------|
+| Michael Asare | 245|
+| Nana Yaa | 216 |
+| Kofi Antwi | 209 |
+| Efua Addo | 209 |
+| Daniel Owusu | 204 |
+| Kwame Mensah | 194 |
 
 2. The agents that has the highest proportion of sold properties is
 ```sql
@@ -329,6 +338,16 @@ GROUP BY
 ORDER BY
    Proportion_of_Sold_Properties DESC;
 ```
+| Agent Name | Sold Properties | Total Properties | Proportion of Sold Properties |
+|----------|----------------------|--------|--------|
+| Daniel Owusu | 38 | 204 | 19.0 |
+| Kwame Mensah | 34 | 194 | 18.0 |
+| Kofi Antwi | 37 | 209 | 18.0 |
+| Michael Asare | 42 | 245 | 17.0 |
+| Ama Boateng | 35 | 222 | 16.0 |
+| Nana Yaa | 32 | 216 | 15.0 |
+| Efua Addo | 29 | 209 | 14.0 |
+
 
 3. The properties that have been sitting on the market longest are
 ```sql
