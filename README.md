@@ -289,7 +289,14 @@ FROM
 WHERE
    Area_ft > 0;
 ```
-
+In brief, it was discovered that the average price per area_sq differs regarding the various locations. Kindly find attached a table
+that briefly summarizes the findings
+| Location | Area_Sqft | Average Price (GHS) |
+|----------|----------------------|--------|
+| Achimota | 361 | 305.00 |
+| Adenta | 350 | 100.00 |
+| Airport Residential | 350 | 406.00 |
+| Cantonments | 381 | 1,016.00 |
 
 Sales
 1. The agents with the most listing is
