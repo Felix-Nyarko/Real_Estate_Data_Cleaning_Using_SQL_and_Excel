@@ -378,6 +378,13 @@ WHERE ` Price_GHS ` IS NOT NULL AND
     Days_On_Market > 0
 ORDER BY Days_On_Market DESC;
 ```
+| Price GHS | Days on the Market |
+|----------|----------------------|
+| 434,000 | 259|
+| 634,000 | 246 |
+| 956,000 | 241 |
+| 888,000 | 240 |
+| 1,719,000 | 236 |
 
 To further determine the correlation between price and days on the market, we can use correlation.
 ```sql
