@@ -422,7 +422,7 @@ ORDER BY
    average_price_per_sqft DESC
 LIMIT 5;
 ```
-| Location | Average Price Per Sqft |
+| Location | Average Price Per Sqft(GHS) |
 |----------|----------------------|
 | Dansoman | 1,918.51 |
 | Cantonments | 1,803.58 |
@@ -448,6 +448,12 @@ GROUP BY
 ORDER BY
   Average_Price_Per_Sqft DESC;
 ```
+| Property Type | Average Price Per Sqft(GHS) |
+|----------|----------------------|
+| Townhouse | 1,182.38 |
+| Penthouse | 1,149.56 |
+| Apartment | 791 |
+| Studio | 709.39 |
 
-5. Are expensive properties necessarily larger?
-6. Which segments could represent an opportunity?
+3. Are expensive properties necessarily larger?
+4. Which segments could represent an opportunity?
