@@ -419,10 +419,19 @@ FROM
 GROUP BY
    Location
 ORDER BY
-   average_price_per_sqft DESC;
+   average_price_per_sqft DESC
+LIMIT 5;
 ```
+| Location | Average Price Per Sqft |
+|----------|----------------------|
+| Dansoman | 1,918.51 |
+| Cantonments | 1,803.58 |
+| Airport Residential | 1,230.20 |
+| Osu | 1,173.45 |
+| East Legon | 1,043.45 |
 
-3. What property types command the highest premiums?
+
+2. What property types command the highest premiums?
 ```sql
 SELECT
   Property_Type,
