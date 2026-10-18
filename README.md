@@ -562,3 +562,12 @@ ORDER BY
 3. **Translating Data into Business Insights:** Learned how to interpret analytical results to identify pricing patterns, compare property market segments, evaluate relationships between variables, and highlight potential opportunities for data-driven real estate decisions.
 
 # Conclusions
+## Insights
+1. Market
+The analysis examined average property prices across locations, average price per square foot, and price differences among property types. It also investigated whether property size and price are related. The correlation between property price and days on the market was approximately -0.026, indicating a negligible negative linear relationship in the dataset. This suggests that property price alone does not meaningfully explain how long a property remains on the market.
+2. Sales
+The analysis explored agent sales performance by comparing the proportion of sold properties against total listings, alongside the length of time properties remained on the market. These metrics can help identify agents with stronger recorded sales conversion, properties experiencing longer marketing periods, etc.
+3. Investment
+By comparing average price per square foot across locations and property types, the project established a framework for identifying segments that may warrant further investment research. Locations with comparatively lower prices per square foot and property segments with potentially attractive pricing can be investigated further. Combining these indicators with market time, property characteristics, rental demand, and expected returns would provide a stronger basis for evaluating investment opportunities
+
+## Closing Thoughts
