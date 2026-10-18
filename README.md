@@ -170,9 +170,9 @@ An ideal approach to be dealing with the null are as follows;
 
 
 # SQL Analytical Queries (The Analysis)
-Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - The Market, Sales and Investment. 
+Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - *The Market, Sales and Investment*. 
 
-The Market
+# The Market
 ### 1. The locations that have the highest average property prices.
 To identify the locations that have the highest average property prices, I filtered locations by average property prices. This query highlights locations with high average property prices.
 
@@ -203,7 +203,6 @@ Here is a breakdown of the locations with high average prices for properties.
 | Spintex | 936,522|
 | Achimota | 881,988 |
 | Tema | 665,629 |
-
 
 
 ### 2. The locations that have the most listings
