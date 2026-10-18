@@ -336,7 +336,7 @@ ORDER BY
 
 *Table showing agents and their number of listings*
 
-### 2. The agents that has the highest proportion of sold properties is
+### 2. The agents with the highest proportion of sold properties
 ```sql
 SELECT
   Agent_Name,
@@ -364,7 +364,8 @@ ORDER BY
 
 *Table showing agents and proportion of properties sold*
 
-### 3. The properties that have been sitting on the market longest are
+### 3. Properties with the longest market sitting days
+This query shows the types of individual properties(property id) that have been on the market longest
 ```sql
 SELECT
   Property_ID,
@@ -382,6 +383,7 @@ LIMIT 10;
 ```
 
 ### 4. Does price appear related to days on the market?
+This question seeks to examine the relationship between price and days-on-the-market. *The solution was broken down into 2; finding the prices and days on the market and secondly the relationship that exist between them.*
 ```sql
 SELECT
   ` Price_GHS `,
