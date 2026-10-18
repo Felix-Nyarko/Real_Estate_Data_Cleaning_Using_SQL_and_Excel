@@ -419,8 +419,7 @@ The correlation between property price and days on market was -0.026, indicating
 
 
 # Investment 
-### 1. Which locations appear attractive based on price/sqft?
-The locations that appear attractive based on price/sqft
+### 1. Locations that appear attractive based on price/sqft
 ```sql
 SELECT
     Location,
@@ -446,8 +445,9 @@ LIMIT 5;
 | Osu | 1,173.45 |
 | East Legon | 1,043.45 |
 
+*Table showing locations that have attractive price per sqft*
 
-### 2. What property types command the highest premiums?
+### 2. Property types that highest premiums
 ```sql
 SELECT
   Property_Type,
@@ -470,6 +470,8 @@ ORDER BY
 | Penthouse | 1,149.56 |
 | Apartment | 791 |
 | Studio | 709.39 |
+
+*Table showing property types and their average price per sqft*
 
 ### 3. Are expensive properties necessarily larger?
 To determine whether expensive properties are necessarily larger, first we need to examine the relationship between property price and property area using correlation.
