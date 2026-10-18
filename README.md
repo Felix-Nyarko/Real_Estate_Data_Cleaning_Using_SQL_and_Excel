@@ -555,5 +555,10 @@ ORDER BY
 - *Lower average days on market*: properties may be moving more quickly.
 
 # What I learnt
+1. **Data Cleaning and Preparation:** Learned how to use Excel and SQL to standardize inconsistent data, handle missing values, identify potential duplicates, and investigate outliers to improve data quality.
+
+2. **SQL Analysis and Problem-Solving:** Strengthened my SQL skills by using aggregations, filtering, grouping, and correlation analysis to investigate property prices, price per square foot, agent performance, and days on the market.
+
+3. **Translating Data into Business Insights:** Learned how to interpret analytical results to identify pricing patterns, compare property market segments, evaluate relationships between variables, and highlight potential opportunities for data-driven real estate decisions.
 
 # Conclusions
