@@ -254,10 +254,10 @@ ORDER BY
 | Property Type | Frequency |
 |----------|----------------------|
 | Apartment | 569|
-| Osu | 424 |
-| Airport Residential | 203 |
-| Spintex | 186 |
-| Tema | 125|
+| House | 424 |
+| Studio | 203 |
+| Townhouse | 186 |
+| Penthouse | 125|
 
 *Table showing property types and its frequency*
 
