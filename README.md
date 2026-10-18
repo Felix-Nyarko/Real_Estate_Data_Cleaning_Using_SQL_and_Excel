@@ -550,7 +550,7 @@ ORDER BY
   Average_Price_Per_Sqft ASC,
   Average_Days_On_Market ASC;
 ```
-![File Nmae](Properties and Locations with Investment Opportunities.png)
+![File Nmae](https://github.com/Felix-Nyarko/Real_Estate_Data_Cleaning/blob/main/Properties%20and%20Locations%20with%20Investment%20Opportunities.png)
 - *Lower average price/sqft*: potentially more affordable segments relative to property size.
 - *Lower average days on market*: properties may be moving more quickly.
 
