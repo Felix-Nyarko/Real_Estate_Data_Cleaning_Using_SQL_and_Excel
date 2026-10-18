@@ -173,7 +173,7 @@ An ideal approach to be dealing with the null are as follows;
 Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - *The Market, Sales and Investment*. 
 
 # The Market
-### 1. The locations that have the highest average property prices.
+### 1. Locations with highest average property prices.
 To identify the locations that have the highest average property prices, I filtered locations by average property prices. This query highlights locations with high average property prices.
 
 ```sql
@@ -203,9 +203,10 @@ Here is a breakdown of the locations with high average prices for properties.
 | Spintex | 936,522|
 | Achimota | 881,988 |
 | Tema | 665,629 |
+**Table of locations with high average property prices **
 
-
-### 2. The locations that have the most listings
+### 2. Locations with most listings
+To identify locations with most listings, using Big Query, I selected the location and counted the number of properties in these locations and ordered them in descending order.
 ```sql
 SELECT
    TRIM(REPLACE(INITCAP(location),'-',' ')) AS location_cleaned,
@@ -232,7 +233,7 @@ ORDER BY
 | Dzorwulu | 85 |
 | Dansoman | 83 |
 | Kasoa | 69 |
-
+**Table of locations with most listings**
 
 
 
