@@ -415,12 +415,11 @@ WHERE
   AND Price_GHS > 0
   AND Days_On_Market >= 0;
 ```
-The correlation coefficient was -0.0233 signifying that there is no relationship that exist between price and days on the market about this dataset
 The correlation between property price and days on market was -0.026, indicating a negligible negative linear relationship. This suggests that property price alone does not appear to have a meaningful linear association with how long a property remains on the market in this dataset.
 
 
-### Investment 
-1. Which locations appear attractive based on price/sqft?
+# Investment 
+### 1. Which locations appear attractive based on price/sqft?
 The locations that appear attractive based on price/sqft
 ```sql
 SELECT
@@ -448,7 +447,7 @@ LIMIT 5;
 | East Legon | 1,043.45 |
 
 
-2. What property types command the highest premiums?
+### 2. What property types command the highest premiums?
 ```sql
 SELECT
   Property_Type,
@@ -472,7 +471,7 @@ ORDER BY
 | Apartment | 791 |
 | Studio | 709.39 |
 
-3. Are expensive properties necessarily larger?
+### 3. Are expensive properties necessarily larger?
 To determine whether expensive properties are necessarily larger, first we need to examine the relationship between property price and property area using correlation.
 ```sql
 SELECT
@@ -522,7 +521,7 @@ ORDER BY
 
 From the above table, to buttress the linear relationship that exist between price and property size, it is evident that as the size of the property increases, the average property price increases as well
 
-5. Which segments could represent an opportunity?
+### 4. Which segments could represent an opportunity?
 ```sql
 SELECT
   Location,
