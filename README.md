@@ -496,5 +496,11 @@ ORDER BY
     ELSE 4
   END;
 ```
+| Property Size | Number of Properties | Average Price |
+|----------|----------------------|
+| Small (<800 sqft) | 253 | 475,980.83 |
+| Medium (800 - 1499 sqft) | 482 | 1,065,780.47 |
+| Large (1500 - 2499 sqft) | 601 | 1,601,206.28 |
+| Extra Large (1500 - 2499 sqft) | 112 | 2,359,258.93 |
 
 5. Which segments could represent an opportunity?
