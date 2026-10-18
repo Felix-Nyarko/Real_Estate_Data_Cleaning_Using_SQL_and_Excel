@@ -262,6 +262,7 @@ ORDER BY
 *Table showing property types and its frequency*
 
 ### 4. The average price by bedroom count
+Thia query seeks to identify the number of bedrooms and its relatives prices from studio (0 bedroom) to 6 bedroom house.
 ```sql
 SELECT
   Bedrooms,
@@ -286,9 +287,11 @@ ORDER BY
 | 5 | 55|2,158,473 |
 | 6 | 29| 2,870,207 |
 
+*Table showing number of bedrooms, its frequency and its averages prices*
 
 
 ### 5. The average price per sqft
+This query seeks to find the average price per square feet.
 ```sql
 SELECT
    Area_ft,
@@ -298,14 +301,15 @@ FROM
 WHERE
    Area_ft > 0;
 ```
-In brief, it was discovered that the average price per area_sq differs regarding the various locations. Kindly find attached a table
-that briefly summarizes the findings
+In brief, it was discovered that the average price per area_sq differs regarding the various locations. Kindly find attached a table that briefly summarizes the findings
 | Location | Area_Sqft | Average Price (GHS) |
 |----------|----------------------|--------|
 | Achimota | 361 | 305.00 |
 | Adenta | 350 | 100.00 |
 | Airport Residential | 350 | 406.00 |
 | Cantonments | 381 | 1,016.00 |
+
+*Table showing various locations, average square area and its prices*
 
 Sales
 ### 1. The agents with the most listing is
