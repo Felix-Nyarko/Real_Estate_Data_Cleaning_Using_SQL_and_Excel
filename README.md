@@ -203,6 +203,7 @@ Here is a breakdown of the locations with high average prices for properties.
 | Spintex | 936,522|
 | Achimota | 881,988 |
 | Tema | 665,629 |
+
 **Table of locations with high average property prices **
 
 ### 2. Locations with most listings
@@ -233,6 +234,7 @@ ORDER BY
 | Dzorwulu | 85 |
 | Dansoman | 83 |
 | Kasoa | 69 |
+
 **Table of locations with most listings**
 
 
