@@ -550,5 +550,6 @@ ORDER BY
   Average_Price_Per_Sqft ASC,
   Average_Days_On_Market ASC;
 ```
+
 - *Lower average price/sqft*: potentially more affordable segments relative to property size.
 - *Lower average days on market*: properties may be moving more quickly.
