@@ -190,7 +190,6 @@ ORDER BY
    Avg_Property_Price DESC
 LIMIT 10;
 ```
-Here is a breakdown of the locations with high average prices for properties.
 | Location | Average Property Price (GHS) |
 |----------|----------------------|
 | Cantonments | 2,170,832|
@@ -204,7 +203,7 @@ Here is a breakdown of the locations with high average prices for properties.
 | Achimota | 881,988 |
 | Tema | 665,629 |
 
-**Table of locations with high average property prices **
+*Table of locations with high average property prices*
 
 ### 2. Locations with most listings
 To identify locations with most listings, using Big Query, I selected the location and counted the number of properties in these locations and ordered them in descending order.
@@ -235,7 +234,7 @@ ORDER BY
 | Dansoman | 83 |
 | Kasoa | 69 |
 
-**Table of locations with most listings**
+*Table of locations with most listings*
 
 
 
