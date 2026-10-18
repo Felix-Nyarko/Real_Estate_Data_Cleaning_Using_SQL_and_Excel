@@ -311,8 +311,8 @@ In brief, it was discovered that the average price per area_sq differs regarding
 
 *Table showing various locations, average square area and its prices*
 
-Sales
-### 1. The agents with the most listing is
+# Sales
+### 1. The agent with the most listings
 ```sql
 SELECT
   agent_name,
@@ -325,7 +325,6 @@ GROUP BY
 ORDER BY
    number_of_listings desc;
 ```
-
 | Agent Name | Number of Listings |
 |----------|----------------------|
 | Michael Asare | 245|
@@ -334,6 +333,8 @@ ORDER BY
 | Efua Addo | 209 |
 | Daniel Owusu | 204 |
 | Kwame Mensah | 194 |
+
+*Table showing agents and their number of listings*
 
 ### 2. The agents that has the highest proportion of sold properties is
 ```sql
