@@ -524,6 +524,7 @@ ORDER BY
 From the above table, to buttress the linear relationship that exist between price and property size, it is evident that as the size of the property increases, the average property price increases as well
 
 ### 4. Which segments could represent an opportunity?
+This query shows segments of property that requires investment consideration.
 ```sql
 SELECT
   Location,
@@ -549,3 +550,5 @@ ORDER BY
   Average_Price_Per_Sqft ASC,
   Average_Days_On_Market ASC;
 ```
+- *Lower average price/sqft*: potentially more affordable segments relative to property size.
+- *Lower average days on market*: properties may be moving more quickly.
