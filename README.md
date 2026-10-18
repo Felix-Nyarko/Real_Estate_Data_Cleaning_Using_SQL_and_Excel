@@ -565,9 +565,14 @@ ORDER BY
 ## Insights
 1. Market
 The analysis examined average property prices across locations, average price per square foot, and price differences among property types. It also investigated whether property size and price are related. The correlation between property price and days on the market was approximately -0.026, indicating a negligible negative linear relationship in the dataset. This suggests that property price alone does not meaningfully explain how long a property remains on the market.
+
 2. Sales
 The analysis explored agent sales performance by comparing the proportion of sold properties against total listings, alongside the length of time properties remained on the market. These metrics can help identify agents with stronger recorded sales conversion, properties experiencing longer marketing periods, etc.
+
 3. Investment
 By comparing average price per square foot across locations and property types, the project established a framework for identifying segments that may warrant further investment research. Locations with comparatively lower prices per square foot and property segments with potentially attractive pricing can be investigated further. Combining these indicators with market time, property characteristics, rental demand, and expected returns would provide a stronger basis for evaluating investment opportunities
 
 ## Closing Thoughts
+This project strengthened my ability to approach real-world business problems through data cleaning, SQL analysis, and critical thinking. It reinforced the importance of data quality and demonstrated how analytical findings can support better decisions in real estate sales and investment planning.
+
+By combining my interest in real estate with my developing data analytics skills, I have gained a deeper appreciation for the role of data in identifying trends, evaluating performance, and uncovering potential opportunities. This project represents another step in my journey toward becoming a data analyst who translates data into actionable business insights.
