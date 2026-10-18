@@ -237,8 +237,8 @@ ORDER BY
 *Table of locations with most listings*
 
 
-
 ### 3. The type of property that dominates the market
+To identify the property that dominates the market, I selected the property type and counted its total and ordered them in descending order.
 ```sql
 SELECT
    TRIM(INITCAP(property_type)) AS property_type_cleaned,
@@ -259,6 +259,7 @@ ORDER BY
 | Spintex | 186 |
 | Tema | 125|
 
+*Table showing property types and its frequency*
 
 ### 4. The average price by bedroom count
 ```sql
