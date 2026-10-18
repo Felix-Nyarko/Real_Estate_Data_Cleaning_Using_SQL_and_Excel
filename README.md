@@ -506,3 +506,28 @@ ORDER BY
 From the above table, to buttress the linear relationship that exist between price and property size, it is evident that as the size of the property increases, the average property price increases as well
 
 5. Which segments could represent an opportunity?
+```sql
+SELECT
+  Location,
+  Property_Type,
+  COUNT(*) AS Number_of_Properties,
+  ROUND(AVG(` Price_GHS `), 2) AS Average_Price_GHS,
+  ROUND(AVG(` Price_GHS ` / Area_ft), 2) AS Average_Price_Per_Sqft,
+  ROUND(AVG(Days_On_Market), 1) AS Average_Days_On_Market
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+  Location IS NOT NULL
+  AND Property_Type IS NOT NULL
+  AND ` Price_GHS ` > 0
+  AND Area_ft > 0
+  AND Days_On_Market >= 0
+GROUP BY
+  Location,
+  Property_Type
+HAVING
+  COUNT(*) >= 5
+ORDER BY
+  Average_Price_Per_Sqft ASC,
+  Average_Days_On_Market ASC;
+```
