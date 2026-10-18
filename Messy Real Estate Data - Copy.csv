@@ -1,0 +1,1546 @@
+﻿Property_id,Location,Property_type,Bedrooms,Bathrooms,Area_ft, Price_GHS ,Listing_Date,Status,Furnished,Year_Built,Days_On_Market,Agent_Name,Agent_Phone,Source,Last_Updated
+PROP-01496,Labone,Apartment,2,2,1209," 991,000 ",5/7/2024,For Sale,Furnished,2022,119,Ama Boateng,(20) 771-9921,Portal,2/15/2026
+PROP-00544,Achimota,Apartment,5,3.5,2963," 1,384,000 ",1/11/2026,For Sale,Furnished,2023,57,Ama Boateng,(24) 555-0182,,10/3/2026
+PROP-01269,East Legon,Apartment,2,2,1275," 1,861,000 ",9/12/2024,For Sale,Unfurnished,2025,97,Nana Yaa,(24) 555-0182,Facebook,
+PROP-00529,Dzorwulu,Apartment,3,2,2217," 1,465,000 ",8/25/2024,For Sale,Unfurnished,1999,88,Kofi Antwi,(20) 771-9921,Portal,1/10/2026
+PROP-01095,East Legon,Penthouse,4,3,2595," 3,984,000 ",5/23/2025,Available,Furnished,2011,45,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-00808,Dzorwulu,Townhouse,2,2,1256," 1,035,000 ",4/24/2025,Under Offer,Unfurnished,2000,47,Nana Yaa,,Portal,2/15/2026
+LIST-00797,Achimota,Apartment,5,5,2819," 1,276,000 ",5/20/2026,Sold,Unfurnished,2022,72,Kwame Mensah,,WhatsApp,10/3/2026
+LIST-00077,Dansoman,Studio,0,1,572," 35,000 ",3/14/2026,For Sale,,2021,24,Nana Yaa,(24) 555-0182,Agent Upload,
+PROP-01204,East Legon,Apartment,2,2,1363," 1,086,000 ",10/22/2025,For Sale,Furnished,2007,90,Daniel Owusu,(55) 120-3344,Portal,2/15/2026
+PROP-01175,Tema,Penthouse,4,,2192," 1,151,000 ",10/15/2024,For Sale,Unfurnished,2020,107,Kofi Antwi,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00429,Spintex,Townhouse,0,1,726," 390,000 ",6/15/2024,For Sale,Unfurnished,2024,1,Nana Yaa,,WhatsApp,1/10/2026
+PROP-01409,Spintex,Townhouse,2,2.5,1419," 989,000 ",2/12/2026,Under Offer,Furnished,2024,79,Ama Boateng,(55) 120-3344,Facebook,10/3/2026
+PROP-01293,Adenta,Studio,0,1,544," 80,000 ",5/12/2024,For Sale,Unfurnished,2015,118,Michael Asare,(55) 120-3344,Facebook,10/3/2026
+PROP-00317,Kasoa,Studio,0,1,1122," 309,000 ",3/15/2024,For Sale,Furnished,2015,65,Kofi Antwi,(20) 771-9921,Facebook,10/3/2026
+PROP-00031,East Legon,Apartment,1,1,967," 993,000 ",,Under Offer,Unfurnished,2019,82,Efua Addo,(55) 120-3344,Facebook,10/3/2026
+PROP-00969,Dansoman,Apartment,4,4,2131," 787,000 ",9/23/2025,For Sale,Furnished,1998,,Nana Yaa,,WhatsApp,
+PROP-00307,Airport Residential,Apartment,1,1.5,1135," 1,247,000 ",2/24/2024,Sold,Unfurnished,2013,1,Kofi Antwi,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00937,East Legon,Townhouse,3,2.5,1851," 1,976,000 ",4/3/2024,For Sale,furnished,2005,1,Kwame Mensah,,Agent Upload,
+PROP-00579,Tema,Townhouse,2,1.5,1597," 616,000 ",5/16/2026,For Sale,Unfurnished,2012,45,Kofi Antwi,(20) 771-9921,Portal,2/15/2026
+PROP-00340,Spintex,Townhouse,4,4.5,2248," 1,730,000 ",12/4/2025,Under Offer,Furnished,2017,15,Nana Yaa,(20) 771-9921,Portal,
+PROP-00480,Cantonments,Studio,0,1,954," 938,000 ",3/2/2024,Sold,Unfurnished,2006,104,Ama Boateng,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00678,Tema,Townhouse,,2,1605," 516,000 ",6/13/2025,For Sale,Unfurnished,2003,43,Kofi Antwi,,WhatsApp,10/3/2026
+PROP-00608,Spintex,Apartment,2,1.5,1186," 738,000 ",11/23/2024,For Sale,Unfurnished,1998,39,Efua Addo,(55) 120-3344,,2/15/2026
+PROP-00372,Spintex,Townhouse,4,3.5,2176," 1,492,000 ",10/3/2025,Sold,Furnished,2008,71,Kofi Antwi,(20) 771-9921,,2/15/2026
+PROP-00469,Osu,Townhouse,,2.5,1436," 1,292,000 ",6/12/2025,For Sale,Unfurnished,2010,84,Michael Asare,(24) 555-0182,Website,2/15/2026
+PROP-00276,East Legon,Apartment,1,1,1058," 1,068,000 ",5/5/2024,For Sale,Unfurnished,2017,13,Michael Asare,(55) 120-3344,Website,
+PROP-01048,Osu,Townhouse,5,4,2661," 2,191,000 ",11/13/2025,For Sale,Furnished,2003,75,Nana Yaa,(20) 771-9921,Portal,1/10/2026
+PROP-00933,Tema,Apartment,0,1,631," 260,000 ",8/6/2024,Under Offer,Furnished,2007,70,Ama Boateng,,Website,
+PROP-00702,Cantonments,Apartment,2,3,1297," 1,584,000 ",4/18/2024,For Sale,,2001,81,Kwame Mensah,(55) 120-3344,WhatsApp,
+PROP-00487,Adenta,Townhouse,2,2.5,1394," 688,000 ",1/24/2025,For Sale,furnished,2007,21,Efua Addo,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01173,Cantonments,Apartment,4,4,2249," 2,463,000 ",5/10/2025,Available,Furnished,2006,171,Efua Addo,(24) 555-0182,,1/10/2026
+PROP-01390,Cantonments,Apartment,4,,2613," 3,014,000 ",9/19/2024,Under Offer,Partly Furnished,2025,18,Efua Addo,,Agent Upload,1/10/2026
+PROP-00840,Dzorwulu,Townhouse,3,,1979," 1,603,000 ",10/31/2025,Available,Unfurnished,2002,1,Kofi Antwi,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01363,Tema,Townhouse,2,1.5,1491," 721,000 ",9/8/2025,Under Offer,Furnished,2026,31,Daniel Owusu,,Facebook,10/3/2026
+PROP-00100,Osu,Studio,0,1,669," 358,000 ",6/26/2026,Sold,Furnished,2021,151,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+PROP-00847,Labone,Penthouse,0,1,735," 776,000 ",3/11/2024,For Sale,Furnished,1998,12,Kwame Mensah,(24) 555-0182,Website,1/10/2026
+LIST-00908,Achimota,Apartment,4,4,2383," 1,069,000 ",,For Sale,Partly Furnished,2005,94,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-00463,Cantonments,Studio,0,1,25," 623,000 ",10/3/2026,Sold,Unfurnished,2011,52,Daniel Owusu,(24) 555-0182,Portal,
+PROP-00384,Adenta,Townhouse,4,,2368," 842,000 ",3/9/2024,Available,Unfurnished,2000,93,Efua Addo,(24) 555-0182,Facebook,
+PROP-00507,Airport Residential,Studio,0,1,700," 786,000 ",8/26/2025,For Sale,Unfurnished,2019,94,Ama Boateng,,WhatsApp,
+PROP-00484,Spintex,Townhouse,1,1.5,712," 242,000 ",3/26/2024,Under Offer,Unfurnished,2018,23,Kofi Antwi,,Website,2/15/2026
+PROP-00169,Adenta,Apartment,4,4,2287," 744,000 ",2/15/2024,For Sale,Unfurnished,2001,83,Kwame Mensah,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00060,Osu,Townhouse,6,5,3083," 2,604,000 ",10/30/2024,Sold,Unfurnished,2020,44,Kofi Antwi,(20) 771-9921,Agent Upload,
+PROP-00024,Spintex,Penthouse,4,3,2706," 2,725,000 ",1/7/2024,For Sale,Unfurnished,2007,28,Kofi Antwi,(24) 555-0182,Website,
+LIST-00427,Dzorwulu,Townhouse,2,1,1832," 1,221,000 ",9/30/2024,Under Offer,Furnished,2021,85,Efua Addo,(20) 771-9921,Portal,2/15/2026
+PROP-00345,Achimota,,3,2,1632," 846,000 ",6/22/2026,Available,Unfurnished,2018,104,Kofi Antwi,(20) 771-9921,Website,1/10/2026
+PROP-00050,Kasoa,Townhouse,2,2,120," 393,000 ",2/1/2026,Available,Unfurnished,1998,1,Kofi Antwi,(55) 120-3344,Facebook,
+PROP-01287,Cantonments,Studio,0,1,464," 490,000 ",8/7/2025,Available,Unfurnished,2014,1,Nana Yaa,(24) 555-0182,Portal,10/3/2026
+PROP-01023,Labone,Studio,0,1,930," 668,000 ",3/4/2024,For Sale,Unfurnished,2015,173,Kwame Mensah,(24) 555-0182,Facebook,
+PROP-00755,Dansoman,Penthouse,3,3,1997," 1,191,000 ",5/13/2026,Under Offer,Unfurnished,2015,99,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00515,Kasoa,Townhouse,3,3,1876,,4/2/2024,Available,Furnished,2004,108,Kwame Mensah,(24) 555-0182,,10/3/2026
+PROP-00221,Spintex,Apartment,2,2,1755," 988,000 ",,For Sale,Unfurnished,2013,90,Nana Yaa,(55) 120-3344,,
+PROP-01069,East Legon,Studio,0,1,433," 440,000 ",11/29/2025,Available,Partly Furnished,2009,11,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-01161,Cantonments,Apartment,2,3,1654," 1,838,000 ",3/30/2025,Available,Unfurnished,2010,46,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-00066,Kasoa,Townhouse,3,4,1744," 733,000 ",10/8/2024,For Sale,Unfurnished,2005,94,Michael Asare,(24) 555-0182,Agent Upload,
+PROP-00430,East Legon,Apartment,1,1,1229," 1,081,000 ",9/3/2024,For Sale,,2012,130,Kwame Mensah,,Agent Upload,2/15/2026
+PROP-00479,East Legon,Apartment,3,3,1876," 1,669,000 ",4/17/2026,Sold,Unfurnished,2020,79,Daniel Owusu,(24) 555-0182,Website,
+PROP-00637,Tema,Townhouse,2,2.5,1360," 926,000 ",3/13/2026,For Sale,Furnished,2025,16,Efua Addo,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00994,Adenta,Townhouse,0,1,447," 93,000 ",11/4/2025,Available,Partly Furnished,1999,35,Efua Addo,,Portal,2/15/2026
+PROP-01031,Dzorwulu,Townhouse,2,3,1500," 1,331,000 ",1/12/2025,For Sale,Furnished,2022,39,Michael Asare,(20) 771-9921,Facebook,2/15/2026
+PROP-00938,East Legon,Apartment,2,2,1503," 1,501,000 ",11/22/2025,For Sale,Furnished,2003,,Daniel Owusu,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00813,Cantonments,Apartment,2,,1165," 1,268,000 ",2/11/2026,For Sale,,2014,90,Kofi Antwi,(55) 120-3344,Facebook,
+PROP-00683,Spintex,Apartment,1,1.5,1021," 630,000 ",7/11/2024,Sold,furnished,2024,62,Kofi Antwi,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00240,Osu,Penthouse,2,2,"1,397"," 2,050,000 ",7/19/2026,For Sale,Unfurnished,2009,38,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00124,Airport Residential,Apartment,2,2,," 1,262,000 ",5/1/2025,For Sale,Unfurnished,2025,1,Kofi Antwi,(24) 555-0182,Website,
+PROP-00644,East Legon,Apartment,1,1.5,1046," 1,389,000 ",9/22/2025,For Sale,Unfurnished,2022,93,,(55) 120-3344,,10/3/2026
+PROP-00077,Dansoman,Studio,0,1,572," 35,000 ",3/14/2026,For Sale,Furnished,2021,24,Nana Yaa,(24) 555-0182,Website,2/15/2026
+PROP-00846,Achimota,Studio,0,1,562," 254,000 ",9/26/2024,For Sale,Unfurnished,2026,1,Nana Yaa,(24) 555-0182,Website,2/15/2026
+PROP-01275,Cantonments,Townhouse,3,2,1969," 3,191,000 ",10/6/2024,Under Offer,Furnished,2023,110,Kwame Mensah,,Facebook,2/15/2026
+PROP-00782,Achimota,Townhouse,2,2,1389," 902,000 ",11/10/2025,Available,Partly Furnished,2017,122,Kwame Mensah,(24) 555-0182,Website,2/15/2026
+PROP-00052,Cantonments,Townhouse,3,2,1679," 1,922,000 ",4/11/2026,Sold,,2026,41,Daniel Owusu,,WhatsApp,2/15/2026
+PROP-00071,Achimota,Townhouse,2,2,1417," 776,000 ",7/2/2026,Under Offer,Unfurnished,2008,43,Ama Boateng,,Portal,2/15/2026
+PROP-00434,Adenta,Apartment,4,3,2394," 644,000 ",7/16/2024,Under Offer,Furnished,1998,119,,(55) 120-3344,Portal,1/10/2026
+PROP-01286,Dzorwulu,Apartment,5,4.5,2923," 1,975,000 ",8/6/2024,For Sale,Unfurnished,2006,94,Efua Addo,(24) 555-0182,,2/15/2026
+PROP-00241,East Legon,Apartment,1,1,916," 1,179,000 ",3/10/2025,For Sale,Furnished,2023,85,Ama Boateng,,Portal,2/15/2026
+PROP-00125,Adenta,Apartment,,3,2182," 749,000 ",3/27/2025,Under Offer,Partly Furnished,2006,52,Efua Addo,(55) 120-3344,Portal,10/3/2026
+PROP-01102,Airport Residential,Studio,0,1,641," 418,000 ",6/8/2026,For Sale,Unfurnished,2011,70,Kofi Antwi,,WhatsApp,2/15/2026
+PROP-00375,Cantonments,Townhouse,0,1,445," 999,000 ",7/10/2026,Sold,Furnished,2010,1,Michael Asare,(55) 120-3344,Website,10/3/2026
+PROP-01400,Kasoa,Apartment,4,5,2423," 634,000 ",1/28/2025,For Sale,Unfurnished,2010,246,Kofi Antwi,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00980,Spintex,Apartment,2,2.5,1632," 949,000 ",5/7/2026,For Sale,Furnished,2003,1,Michael Asare,(24) 555-0182,Agent Upload,
+PROP-00975,Osu,Townhouse,3,2,2179," 2,110,000 ",2/4/2025,Sold,Unfurnished,2014,94,Nana Yaa,(55) 120-3344,Facebook,
+PROP-00333,Spintex,Apartment,2,1.5,1543," 804,000 ",7/6/2024,Available,Furnished,2018,87,Ama Boateng,(55) 120-3344,Facebook,2/15/2026
+PROP-01147,Airport Residential,Apartment,3,3.5,2003," 2,177,000 ",9/1/2025,For Sale,Furnished,2001,72,Michael Asare,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00260,Dzorwulu,Studio,0,1,722," 295,000 ",8/10/2025,For Sale,Furnished,2024,60,Kofi Antwi,,Website,1/10/2026
+PROP-00176,Cantonments,Apartment,2,2,1241," 1,353,000 ",9/9/2024,For Sale,Unfurnished,2017,106,Nana Yaa,(24) 555-0182,Website,2/15/2026
+PROP-01484,Kasoa,Townhouse,2,2.5,1202," 217,000 ",4/13/2025,For Sale,Furnished,2016,71,Nana Yaa,(24) 555-0182,Website,
+PROP-00716,Adenta,Townhouse,3,3,1952," 910,000 ",3/24/2025,For Sale,Unfurnished,2019,1,Kofi Antwi,(24) 555-0182,,2/15/2026
+PROP-00602,Cantonments,Townhouse,2,,1507," 2,454,000 ",3/26/2024,For Sale,Unfurnished,2013,36,Kofi Antwi,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00899,Osu,Apartment,2,2,1281," 897,000 ",1/27/2024,Sold,Unfurnished,2014,42,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01091,Dansoman,Townhouse,1,2,1004," 229,000 ",7/18/2026,For Sale,Unfurnished,2017,20,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01422,Tema,Townhouse,2,2,1562," 911,000 ",7/27/2025,For Sale,Unfurnished,2014,68,,(20) 771-9921,,1/10/2026
+PROP-01019,Adenta,,4,,," 1,303,000 ",4/24/2026,Available,Unfurnished,1999,42,Daniel Owusu,(24) 555-0182,Portal,1/10/2026
+PROP-01375,East Legon,Apartment,1,1,1254," 1,017,000 ",3/13/2025,Sold,Unfurnished,1998,34,Nana Yaa,(55) 120-3344,Website,1/10/2026
+PROP-01308,Tema,Apartment,3,,," 756,000 ",8/2/2024,Under Offer,Unfurnished,2016,81,Kwame Mensah,(20) 771-9921,Website,1/10/2026
+PROP-01337,Osu,Townhouse,3,3,1701," 1,222,000 ",7/16/2024,For Sale,Unfurnished,2026,94,Kwame Mensah,,Agent Upload,1/10/2026
+PROP-00486,Adenta,Townhouse,3,3,2004," 661,000 ",11/16/2024,Under Offer,Unfurnished,2010,91,Efua Addo,(24) 555-0182,,10/3/2026
+PROP-00353,Airport Residential,,2,1.5,1380," 1,638,000 ",4/17/2024,For Sale,furnished,2005,31,Ama Boateng,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00068,Airport Residential,Apartment,1,1,1060," 1,163,000 ",7/2/2025,Available,Furnished,2001,168,Michael Asare,,Website,1/10/2026
+PROP-00845,Airport Residential,Townhouse,3,2.5,1937," 2,661,000 ",2/4/2024,Sold,Unfurnished,2019,105,Kwame Mensah,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00907,East Legon,Apartment,3,3.5,2146," 2,090,000 ",4/25/2024,For Sale,Partly Furnished,2023,13,Efua Addo,(24) 555-0182,Website,2/15/2026
+PROP-00271,Cantonments,Penthouse,3,3,1958," 3,337,000 ",9/7/2025,For Sale,Furnished,2006,,Nana Yaa,(24) 555-0182,Portal,
+LIST-01489,Tema,Apartment,6,5,2940," 1,184,000 ",3/29/2026,Available,Unfurnished,2019,70,,(55) 120-3344,Website,
+PROP-00536,Dansoman,Apartment,3,3,1861,,5/9/2025,Available,Furnished,2019,125,Kwame Mensah,(20) 771-9921,Website,10/3/2026
+PROP-01442,Achimota,Apartment,4,5,2291," 1,152,000 ",8/4/2024,Available,Unfurnished,2025,1,Kwame Mensah,(24) 555-0182,Portal,10/3/2026
+LIST-00901,Kasoa,Apartment,3,2,," 505,000 ",8/24/2024,Available,Furnished,2014,127,Efua Addo,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00910,East Legon,Apartment,3,4,1962," 1,791,000 ",8/12/2025,Sold,Unfurnished,2005,63,Kwame Mensah,(24) 555-0182,Agent Upload,2/15/2026
+LIST-00497,Cantonments,Studio,0,1,930," 1,129,000 ",9/14/2025,For Sale,Partly Furnished,2016,1,Michael Asare,(55) 120-3344,Facebook,
+PROP-00811,Spintex,Apartment,5,4,2772," 1,706,000 ",3/31/2026,For Sale,Unfurnished,2019,171,Ama Boateng,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00966,Cantonments,Townhouse,1,1.5,948," 1,339,000 ",8/31/2025,For Sale,furnished,2001,149,Efua Addo,(20) 771-9921,Portal,
+PROP-00030,Adenta,Apartment,3,2,1964," 709,000 ",5/6/2025,For Sale,,2000,92,Kwame Mensah,,WhatsApp,10/3/2026
+PROP-00586,Kasoa,Townhouse,2,2.5,1285," 393,000 ",5/26/2025,For Sale,,2019,89,Michael Asare,(24) 555-0182,Website,2/15/2026
+PROP-00539,Dzorwulu,Penthouse,1,1,1291," 1,381,000 ",10/7/2024,Sold,Unfurnished,2001,39,Nana Yaa,(24) 555-0182,Facebook,10/3/2026
+PROP-01053,Airport Residential,Townhouse,3,2.5,1781," 2,680,000 ",1/2/2026,Sold,Furnished,2021,77,Kofi Antwi,,Website,10/3/2026
+PROP-01213,Dansoman,Apartment,2,1,1338," 243,000 ",4/28/2026,Sold,Furnished,2024,177,Michael Asare,(20) 771-9921,Agent Upload,2/15/2026
+PROP-00136,Achimota,Apartment,4,3.5,2515," 923,000 ",,For Sale,Unfurnished,2020,,Efua Addo,,WhatsApp,2/15/2026
+PROP-00680,Labone,Townhouse,3,3,1812," 2,308,000 ",2/6/2026,For Sale,Unfurnished,2025,112,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-00426,,Apartment,2,1.5,1668," 138,000 ",1/15/2024,Under Offer,Partly Furnished,2010,45,Michael Asare,,Website,
+PROP-00527,Achimota,Penthouse,3,2,2141," 1,669,000 ",3/25/2024,For Sale,Unfurnished,2022,58,Efua Addo,(24) 555-0182,Agent Upload,
+PROP-01094,Spintex,Townhouse,3,3.5,19183," 1,067,000 ",2/28/2024,For Sale,furnished,2023,70,Nana Yaa,(24) 555-0182,Facebook,10/3/2026
+PROP-01439,Cantonments,Apartment,4,3,2367," 2,806,000 ",4/22/2026,For Sale,Furnished,1999,1,Michael Asare,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00368,Airport Residential,Townhouse,3,2.5,1984," 2,148,000 ",6/3/2025,For Sale,Furnished,2006,1,Nana Yaa,(55) 120-3344,Website,2/15/2026
+PROP-00185,East Legon,Townhouse,4,3,2318," 2,591,000 ",6/9/2026,For Sale,Unfurnished,2009,82,Ama Boateng,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00245,Airport Residential,Townhouse,3,3,21881," 2,819,000 ",11/4/2025,Available,Furnished,2006,156,Kwame Mensah,(24) 555-0182,Website,
+PROP-01360,Achimota,Apartment,3,3,1993," 935,000 ",11/23/2024,For Sale,Unfurnished,2009,161,Daniel Owusu,,Facebook,2/15/2026
+PROP-00381,Labone,Apartment,6,4.5,3188," 2,690,000 ",10/11/2025,For Sale,Unfurnished,2011,71,Michael Asare,(24) 555-0182,Website,10/3/2026
+PROP-01358,Osu,Studio,0,1,608," 235,000 ",7/11/2025,For Sale,,2010,149,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+PROP-01334,Tema,Apartment,2,2,1257," 387,000 ",10/22/2025,For Sale,Unfurnished,2014,1,Nana Yaa,(24) 555-0182,,10/3/2026
+PROP-00842,Dzorwulu,Studio,0,1,407," 252,000 ",6/23/2026,Under Offer,Furnished,2009,1,Ama Boateng,(20) 771-9921,Portal,1/10/2026
+PROP-01108,East Legon,Townhouse,6,5,3276,,4/27/2025,Sold,Furnished,2001,1,Ama Boateng,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00382,Achimota,Studio,0,1,538," 218,000 ",4/3/2024,For Sale,furnished,2019,38,Kofi Antwi,(55) 120-3344,Website,
+PROP-00590,Dansoman,Apartment,2,2,1511," 320,000 ",6/16/2026,Available,Unfurnished,2006,57,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-00675,Osu,Apartment,6,5.5,3023," 2,237,000 ",7/24/2026,Under Offer,Unfurnished,2021,116,Kwame Mensah,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01106,Kasoa,Townhouse,3,3,1804," 600,000 ",2/21/2024,For Sale,Partly Furnished,2003,48,Kofi Antwi,(20) 771-9921,,
+PROP-00671,Cantonments,Studio,0,1,700," 656,000 ",7/3/2026,For Sale,Unfurnished,2007,4,Michael Asare,(24) 555-0182,Portal,
+PROP-00142,Cantonments,Apartment,1,1,1280," 1,480,000 ",7/1/2026,Sold,Unfurnished,2019,31,Efua Addo,(55) 120-3344,Agent Upload,1/10/2026
+PROP-01366,Adenta,Apartment,2,2,1458," 651,000 ",1/30/2026,Available,Unfurnished,2003,65,Efua Addo,(55) 120-3344,Agent Upload,2/15/2026
+PROP-01059,East Legon,Apartment,2,1.5,1433," 1,475,000 ",6/24/2026,Available,furnished,2003,18,Nana Yaa,(24) 555-0182,Portal,
+PROP-01244,Spintex,Apartment,2,2.5,1600," 806,000 ",9/16/2024,Sold,Unfurnished,1998,4,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00983,Spintex,Townhouse,6,5,3261," 2,064,000 ",10/21/2024,For Sale,Furnished,2015,76,Kofi Antwi,(55) 120-3344,WhatsApp,1/10/2026
+PROP-01243,Adenta,Apartment,1,1,893," 419,000 ",5/24/2024,Under Offer,Unfurnished,2026,48,Kwame Mensah,(55) 120-3344,Website,1/10/2026
+PROP-01474,Adenta,Studio,0,1,477," 92,000 ",3/31/2026,Under Offer,Furnished,2021,47,Nana Yaa,,Website,10/3/2026
+PROP-00325,Cantonments,Townhouse,2,1.5,1733," 3,314,000 ",1/26/2025,For Sale,Furnished,2016,72,Kofi Antwi,,Website,2/15/2026
+PROP-01054,Adenta,Townhouse,5,4.5,2775," 1,114,000 ",5/20/2024,Sold,Furnished,2008,,Kwame Mensah,(24) 555-0182,Facebook,10/3/2026
+PROP-00204,East Legon,Apartment,3,2.5,1500,,3/14/2026,Available,,2025,31,Kwame Mensah,,Facebook,
+PROP-00199,Osu,Studio,0,1,722," 555,000 ",5/10/2025,For Sale,Unfurnished,2008,93,Daniel Owusu,(55) 120-3344,Website,1/10/2026
+PROP-00045,Tema,Apartment,3,2.5,1972," 836,000 ",6/6/2024,Sold,Unfurnished,2018,119,Kofi Antwi,(24) 555-0182,Website,
+PROP-00927,Labone,Studio,0,1,1009," 663,000 ",9/16/2025,Under Offer,furnished,2003,98,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-00352,Spintex,Apartment,4,4,2266," 1,330,000 ",3/29/2024,Available,Furnished,2006,1,Kofi Antwi,(55) 120-3344,Website,
+PROP-00947,East Legon,Apartment,2,2,1519," 1,544,000 ",7/30/2024,For Sale,furnished,2025,167,Kwame Mensah,,Portal,2/15/2026
+PROP-01202,Achimota,,4,4.5,2313,,7/22/2024,For Sale,Unfurnished,2005,206,Efua Addo,(24) 555-0182,Portal,
+PROP-01259,Adenta,Studio,0,1,801," 356,000 ",4/6/2026,For Sale,Unfurnished,2019,26,Efua Addo,,Facebook,2/15/2026
+PROP-00116,Dzorwulu,Townhouse,2,2,1395," 1,193,000 ",7/12/2024,Under Offer,Unfurnished,2016,87,Nana Yaa,,,1/10/2026
+PROP-00572,Adenta,Studio,0,1,353," 244,000 ",1/17/2026,For Sale,Unfurnished,1999,34,Kwame Mensah,(20) 771-9921,Portal,
+PROP-01007,Kasoa,Townhouse,2,1.5,1488," 442,000 ",10/29/2024,For Sale,Unfurnished,2007,119,Nana Yaa,(55) 120-3344,Website,1/10/2026
+PROP-00809,Osu,Apartment,5,5,2800," 1,983,000 ",3/4/2026,Sold,,2009,7,Efua Addo,,Website,10/3/2026
+PROP-00355,Cantonments,Studio,0,1,468," 434,000 ",12/31/2024,Available,Furnished,2012,259,Michael Asare,,Facebook,10/3/2026
+PROP-01075,Osu,Townhouse,0,1,852,,,For Sale,Furnished,2004,62,Michael Asare,(24) 555-0182,Portal,2/15/2026
+LIST-01368,Osu,Penthouse,6,5,3279," 4,458,000 ",5/21/2025,For Sale,Furnished,1999,1,Ama Boateng,(24) 555-0182,Portal,10/3/2026
+PROP-00622,Adenta,Townhouse,1,1,1371," 418,000 ",2/4/2025,Sold,,2022,146,Efua Addo,,WhatsApp,2/15/2026
+PROP-00079,Kasoa,Apartment,2,2,1561," 441,000 ",8/20/2024,For Sale,Unfurnished,2003,124,Efua Addo,(55) 120-3344,Facebook,2/15/2026
+PROP-00310,Labone,Apartment,3,3,1902," 1,734,000 ",7/16/2025,For Sale,Furnished,2015,27,Kwame Mensah,(20) 771-9921,WhatsApp,
+PROP-01424,Adenta,Penthouse,0,1,716," 80,000 ",1/26/2025,For Sale,Furnished,2026,61,Michael Asare,(24) 555-0182,Facebook,1/10/2026
+PROP-00673,Kasoa,Apartment,3,3.5,1776," 456,000 ",12/14/2025,Under Offer,,2009,57,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-00868,Spintex,Studio,0,1,443," 45,000 ",12/3/2025,Available,Unfurnished,2010,94,Kofi Antwi,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01253,Tema,Apartment,3,3,1856," 635,000 ",6/1/2026,Under Offer,Unfurnished,2007,76,Kofi Antwi,(55) 120-3344,Facebook,10/3/2026
+PROP-00552,East Legon,Apartment,2,2,1686," 1,667,000 ",6/2/2025,For Sale,Furnished,2009,148,Nana Yaa,(55) 120-3344,Facebook,2/15/2026
+PROP-00016,Kasoa,Studio,0,1,576," 190,000 ",11/30/2025,Under Offer,Unfurnished,,93,Kwame Mensah,,,10/3/2026
+PROP-01433,Spintex,Studio,0,1,780," 331,000 ",3/21/2024,For Sale,Unfurnished,2014,29,Ama Boateng,,Facebook,
+PROP-00797,Achimota,Apartment,5,5,2819," 1,276,000 ",5/20/2026,Sold,Unfurnished,2022,72,Kwame Mensah,,,1/10/2026
+PROP-01162,Kasoa,Townhouse,1,1.5,1047," 365,000 ",10/1/2024,Under Offer,Unfurnished,2026,86,Nana Yaa,(24) 555-0182,WhatsApp,
+PROP-01231,Airport Residential,Townhouse,4,3.5,2229," 3,377,000 ",2/2/2024,Available,Unfurnished,2024,99,Kofi Antwi,(24) 555-0182,WhatsApp,
+PROP-01205,East Legon,Apartment,4,4.5,2310," 2,251,000 ",8/23/2025,For Sale,Unfurnished,2021,72,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-00498,Achimota,Apartment,2,1.5,1830," 879,000 ",8/15/2024,For Sale,Unfurnished,2002,101,Efua Addo,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01324,Tema,Townhouse,2,2.5,1239," 382,000 ",6/27/2026,Sold,furnished,1998,1,Efua Addo,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00553,Cantonments,Townhouse,1,1.5,988," 1,560,000 ",9/10/2024,For Sale,Furnished,1998,52,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-00186,Tema,Townhouse,1,,1184," 593,000 ",7/9/2025,Sold,Unfurnished,2015,224,Daniel Owusu,(24) 555-0182,,
+PROP-01132,East Legon,Apartment,4,4.5,2520," 2,334,000 ",4/21/2026,Sold,Furnished,2020,64,Efua Addo,,WhatsApp,1/10/2026
+PROP-01262,Achimota,Apartment,4,3,2254," 1,068,000 ",5/9/2024,Available,Furnished,2007,146,,(55) 120-3344,Facebook,1/10/2026
+PROP-01377,Airport Residential,Apartment,1,1.5,1116," 1,540,000 ",8/29/2024,Sold,Furnished,2008,98,Ama Boateng,(55) 120-3344,Agent Upload,
+PROP-00775,Cantonments,Apartment,3,,1702," 1,940,000 ",5/5/2026,Available,,2003,59,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-01038,,Townhouse,3,2.5,1601," 538,000 ",6/25/2026,Available,Partly Furnished,2015,109,Efua Addo,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00901,,Apartment,3,2,1922," 505,000 ",8/24/2024,Available,Furnished,2014,127,Efua Addo,(24) 555-0182,Facebook,
+PROP-01068,Achimota,Townhouse,2,2.5,1493," 7,129,595 ",6/13/2025,Available,Unfurnished,2009,60,Ama Boateng,(55) 120-3344,Agent Upload,2/15/2026
+PROP-01421,Tema,Studio,0,1,," 135,000 ",7/6/2025,For Sale,Unfurnished,2010,162,Kwame Mensah,(20) 771-9921,Facebook,
+PROP-01049,Labone,Townhouse,2,2,1660," 1,904,000 ",11/2/2024,For Sale,Unfurnished,2003,21,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00584,Achimota,Townhouse,5,5.5,2812," 1,233,000 ",7/1/2024,Available,Furnished,2003,72,Kwame Mensah,(24) 555-0182,,1/10/2026
+PROP-00746,Achimota,Townhouse,,1,1286," 668,000 ",10/31/2025,Available,Furnished,2009,58,Ama Boateng,,WhatsApp,2/15/2026
+PROP-00665,Kasoa,Townhouse,3,3,1805," 615,000 ",8/31/2024,For Sale,Furnished,2010,100,Kofi Antwi,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00057,,Studio,0,1,579," 379,000 ",5/7/2024,For Sale,Furnished,2007,161,Kwame Mensah,(20) 771-9921,,10/3/2026
+PROP-01014,Osu,Townhouse,3,2.5,1850," 21,770,142 ",7/12/2025,For Sale,Unfurnished,1998,80,Nana Yaa,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01214,Adenta,Studio,0,1,625," 142,000 ",10/3/2024,Available,Furnished,1999,120,Michael Asare,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01186,Osu,Townhouse,4,4,1954," 1,682,000 ",5/30/2024,Sold,Furnished,2004,121,Ama Boateng,(24) 555-0182,Portal,1/10/2026
+PROP-01471,East Legon,Apartment,1,1,626," 953,000 ",11/20/2024,Under Offer,Furnished,2003,102,Kofi Antwi,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00238,Airport Residential,Penthouse,3,3,2048," 4,272,000 ",6/24/2026,Available,Unfurnished,2011,56,Nana Yaa,(24) 555-0182,Portal,
+PROP-00044,Achimota,Penthouse,2,1.5,1219," 510,000 ",3/3/2025,Under Offer,Unfurnished,1998,203,Efua Addo,(55) 120-3344,WhatsApp,
+PROP-01320,East Legon,Apartment,1,1.5,1183," 1,747,000 ",6/8/2025,For Sale,Partly Furnished,2025,61,Kwame Mensah,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00383,East Legon,Townhouse,3,3,1853," 2,863,000 ",6/30/2024,Sold,Unfurnished,,28,Kwame Mensah,(20) 771-9921,,2/15/2026
+PROP-00905,Airport Residential,Studio,0,1,831," 635,000 ",3/9/2024,For Sale,,2016,,Efua Addo,(55) 120-3344,Agent Upload,
+PROP-00662,Dzorwulu,Studio,0,1,766," 292,000 ",10/3/2025,For Sale,Unfurnished,2009,53,Kofi Antwi,(20) 771-9921,Portal,10/3/2026
+PROP-00102,Osu,Townhouse,4,4,2395," 1,754,000 ",3/3/2025,Available,furnished,2005,1,Efua Addo,(24) 555-0182,Website,
+PROP-00452,Dansoman,Townhouse,2,2,1689," 544,000 ",9/2/2024,For Sale,Unfurnished,2009,33,Efua Addo,(24) 555-0182,Portal,10/3/2026
+PROP-00591,East Legon,Apartment,1,1,460," 396,000 ",2/9/2025,For Sale,Furnished,2008,121,Michael Asare,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00108,Osu,Townhouse,3,3,1879," 1,521,000 ",12/30/2024,For Sale,furnished,2008,153,Daniel Owusu,(20) 771-9921,Website,
+PROP-00367,Airport Residential,Apartment,1,1.5,1026," 1,096,000 ",8/1/2024,For Sale,Unfurnished,2006,147,Efua Addo,(20) 771-9921,WhatsApp,2/15/2026
+PROP-01079,Adenta,Townhouse,2,2,2016," 1,241,000 ",1/16/2026,Under Offer,Unfurnished,2012,,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00332,Adenta,Studio,0,1,751," 202,000 ",7/29/2026,For Sale,Unfurnished,1999,13,,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00421,Labone,Townhouse,0,1,740," 922,000 ",7/7/2024,Under Offer,Unfurnished,2004,75,Ama Boateng,,Agent Upload,
+PROP-00275,Airport Residential,Studio,0,1,574," 433,000 ",4/4/2025,For Sale,Furnished,2003,53,Daniel Owusu,(55) 120-3344,Portal,1/10/2026
+PROP-01203,Adenta,Studio,0,1,350," 35,000 ",2/16/2024,Under Offer,Unfurnished,2026,57,Nana Yaa,,Facebook,10/3/2026
+PROP-00814,Osu,Apartment,1,1,1403," 1,110,000 ",2/15/2024,For Sale,Partly Furnished,1998,11,Kofi Antwi,,WhatsApp,1/10/2026
+PROP-00737,Airport Residential,Apartment,1,1.5,1018," 1,165,000 ",1/19/2026,Sold,Unfurnished,1998,39,Kofi Antwi,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00129,Cantonments,Apartment,2,2,1291," 1,543,000 ",12/11/2025,For Sale,Unfurnished,2014,109,Nana Yaa,(24) 555-0182,Agent Upload,
+PROP-00272,East Legon,Apartment,1,1.5,1191,,6/17/2026,Available,Unfurnished,2013,88,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-00863,Adenta,Townhouse,1,1.5,1134," 306,000 ",8/7/2026,For Sale,Unfurnished,2013,165,,(24) 555-0182,Website,2/15/2026
+PROP-00343,East Legon,Apartment,1,1.5,844," 821,000 ",11/3/2024,For Sale,furnished,2003,85,Michael Asare,(20) 771-9921,Portal,
+PROP-00719,,Townhouse,2,2,," 2,359,000 ",3/14/2024,Sold,Partly Furnished,2004,50,Michael Asare,(55) 120-3344,Agent Upload,10/3/2026
+PROP-01410,Osu,Townhouse,2,1.5,1559," 1,098,000 ",1/17/2026,Under Offer,Furnished,2002,1,Efua Addo,,Website,
+PROP-00514,Airport Residential,Apartment,2,2,1780," 1,987,000 ",10/16/2025,Available,Furnished,2025,1,Efua Addo,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01270,Achimota,Townhouse,3,4,1808," 674,000 ",5/31/2026,For Sale,Furnished,2011,1,Daniel Owusu,(24) 555-0182,Website,10/3/2026
+PROP-00533,Tema,Studio,0,1,687," 258,000 ",10/8/2024,For Sale,Unfurnished,,69,Daniel Owusu,(20) 771-9921,,
+PROP-01404,Kasoa,Townhouse,2,1.5,1732," 552,000 ",9/22/2025,Available,Unfurnished,2012,,Nana Yaa,(24) 555-0182,Website,1/10/2026
+PROP-00304,Airport Residential,Apartment,5,5,," 3,129,000 ",11/20/2024,Available,Unfurnished,2008,79,Ama Boateng,(55) 120-3344,Facebook,
+PROP-01109,East Legon,Apartment,1,1.5,802," 898,000 ",5/2/2026,Available,Unfurnished,2017,27,Ama Boateng,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01285,,Townhouse,2,3,1365," 2,178,000 ",5/2/2026,Under Offer,,2005,102,Nana Yaa,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00248,Dansoman,Penthouse,1,1.5,998," 466,000 ",5/13/2025,For Sale,Unfurnished,2021,93,Michael Asare,,Agent Upload,10/3/2026
+PROP-00033,Labone,Studio,0,1,1068," 688,000 ",4/25/2024,For Sale,Furnished,2001,158,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+LIST-01484,Kasoa,Townhouse,2,2.5,1202," 217,000 ",4/13/2025,For Sale,Furnished,2016,71,,(24) 555-0182,Portal,10/3/2026
+PROP-00616,Osu,,4,4,2457," 1,666,000 ",2/21/2025,Sold,Unfurnished,2017,38,Nana Yaa,(24) 555-0182,Portal,1/10/2026
+PROP-01085,East Legon,Studio,0,1,1118," 1,086,000 ",3/7/2024,Under Offer,Furnished,2023,44,Nana Yaa,(24) 555-0182,Portal,2/15/2026
+PROP-00555,Cantonments,Apartment,3,3.5,1939," 2,168,000 ",7/14/2024,Under Offer,Furnished,2015,22,Michael Asare,(24) 555-0182,Website,
+PROP-00491,Cantonments,Townhouse,0,1,600," 1,089,000 ",11/10/2025,For Sale,Partly Furnished,2011,71,Ama Boateng,(20) 771-9921,,1/10/2026
+PROP-00362,Kasoa,Townhouse,4,4,2427," 927,000 ",2/15/2026,For Sale,Unfurnished,2015,4,Daniel Owusu,(24) 555-0182,,
+PROP-00262,Adenta,Townhouse,3,2.5,1946," 766,000 ",2/1/2026,For Sale,Unfurnished,2018,98,Kwame Mensah,(24) 555-0182,Facebook,1/10/2026
+PROP-01466,Dzorwulu,Townhouse,5,5,3013," 2,887,000 ",5/31/2025,For Sale,Furnished,2010,19,Ama Boateng,(55) 120-3344,Website,
+PROP-00923,East Legon,Apartment,2,2.5,1519," 2,621,000 ",3/31/2026,For Sale,,2001,97,Nana Yaa,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00232,Dzorwulu,Townhouse,3,3,1754," 1,226,000 ",1/26/2024,For Sale,,2021,8,Nana Yaa,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01207,Dansoman,Apartment,2,2,1312," 480,000 ",2/3/2026,For Sale,Furnished,2012,70,Kwame Mensah,,WhatsApp,
+PROP-01321,Airport Residential,Studio,0,1,761," 1,055,000 ",,For Sale,Unfurnished,2009,31,Ama Boateng,,Portal,2/15/2026
+PROP-00483,Osu,Townhouse,2,2.5,991," 1,163,000 ",8/18/2024,For Sale,Furnished,2022,94,Ama Boateng,(55) 120-3344,,2/15/2026
+PROP-00164,Airport Residential,Penthouse,4,3.5,2306," 5,145,000 ",,Under Offer,,2010,71,Ama Boateng,,Portal,1/10/2026
+PROP-00630,Airport Residential,Apartment,1,1.5,1181," 1,442,000 ",11/15/2024,Under Offer,,2009,64,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01491,Osu,Townhouse,2,2,1549," 1,485,000 ",2/27/2026,Available,Unfurnished,2026,51,Nana Yaa,(20) 771-9921,Portal,2/15/2026
+PROP-01312,Airport Residential,Studio,0,1,618," 1,063,000 ",7/28/2024,For Sale,Unfurnished,2002,100,Kofi Antwi,,WhatsApp,10/3/2026
+PROP-00756,Achimota,Apartment,0,1,600," 263,000 ",3/28/2024,For Sale,Unfurnished,2020,111,Daniel Owusu,(20) 771-9921,,
+PROP-01497,Spintex,Townhouse,5,4,2737," 2,067,000 ",12/17/2025,For Sale,,2009,113,Efua Addo,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00612,Osu,Townhouse,2,3,1565," 1,207,000 ",11/22/2025,For Sale,Unfurnished,2006,19,Kofi Antwi,,Facebook,1/10/2026
+PROP-01380,Labone,Townhouse,0,1,778," 952,000 ",5/11/2024,Sold,Unfurnished,2012,80,Daniel Owusu,,Portal,2/15/2026
+PROP-00354,Dansoman,Townhouse,1,1.5,1015," 308,000 ",8/11/2025,Available,Furnished,2000,16,Kofi Antwi,(20) 771-9921,Website,2/15/2026
+PROP-01223,Cantonments,Penthouse,0,1,755," 1,629,000 ",5/11/2025,For Sale,,2023,1,Efua Addo,(24) 555-0182,Agent Upload,
+PROP-00472,East Legon,Apartment,2,2.5,1269," 1,721,000 ",2/19/2024,For Sale,Partly Furnished,2000,92,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-00193,,Townhouse,2,1.5,1205," 435,000 ",11/24/2025,For Sale,Unfurnished,2025,12,Efua Addo,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00711,Achimota,Townhouse,1,1.5,1035," 628,000 ",5/15/2025,For Sale,,2016,79,Kofi Antwi,(24) 555-0182,Facebook,1/10/2026
+PROP-00351,Osu,Studio,0,1,512," 186,000 ",3/17/2024,Sold,Unfurnished,2004,1,Nana Yaa,,Facebook,
+PROP-00979,Tema,Apartment,2,1.5,500," 578,000 ",2/17/2026,Sold,Furnished,2009,1,Daniel Owusu,(55) 120-3344,Agent Upload,10/3/2026
+PROP-01399,East Legon,Apartment,2,2,1854," 1,871,000 ",9/15/2025,For Sale,Furnished,2001,76,Ama Boateng,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00064,Kasoa,Apartment,2,2,1588," 373,000 ",3/26/2024,For Sale,Furnished,2007,85,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00722,Labone,Apartment,2,2.5,1704," 1,490,000 ",12/26/2024,For Sale,Partly Furnished,2017,99,Nana Yaa,(24) 555-0182,Website,2/15/2026
+PROP-01092,Labone,Apartment,1,1,1032," 873,000 ",5/26/2026,Sold,,2002,18,Nana Yaa,,Website,10/3/2026
+PROP-00949,Dansoman,Townhouse,2,,935," 711,000 ",7/25/2024,For Sale,Unfurnished,2026,129,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-00844,Airport Residential,Townhouse,3,2.5,1906," 2,141,000 ",5/3/2025,Under Offer,furnished,2014,,Kofi Antwi,,Portal,
+PROP-00290,Tema,Apartment,4,4,2328," 847,000 ",8/25/2025,Under Offer,Unfurnished,2017,104,Ama Boateng,,Website,10/3/2026
+PROP-00433,Tema,Townhouse,4,3,2527," 1,005,000 ",4/23/2025,For Sale,,1998,54,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00589,Tema,Studio,0,1,676," 89,000 ",3/7/2026,For Sale,Unfurnished,,64,Daniel Owusu,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00219,Adenta,Townhouse,3,2,2273," 873,000 ",11/29/2024,Sold,Unfurnished,1999,64,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01339,Tema,Townhouse,3,2.5,1884," 912,000 ",8/20/2024,Under Offer,Unfurnished,2011,96,Michael Asare,(20) 771-9921,Facebook,
+PROP-01247,Labone,Apartment,3,4,1841," 1,650,000 ",9/2/2024,For Sale,Unfurnished,2017,80,Michael Asare,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01413,Cantonments,Townhouse,2,2,1179," 1,541,000 ",11/8/2024,Under Offer,Furnished,2024,131,Ama Boateng,(24) 555-0182,Portal,1/10/2026
+PROP-00629,Dzorwulu,Townhouse,2,2,,,6/28/2024,Available,Furnished,2006,2,Efua Addo,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01097,East Legon,Studio,0,1,593," 634,000 ",5/26/2025,Under Offer,Unfurnished,2008,74,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01273,Osu,Townhouse,0,1,690," 564,000 ",4/21/2025,For Sale,Unfurnished,2026,82,Daniel Owusu,(55) 120-3344,Website,2/15/2026
+PROP-01103,,Studio,0,1,685," 344,000 ",3/30/2024,Under Offer,Unfurnished,2020,16,Efua Addo,(24) 555-0182,,10/3/2026
+PROP-00428,Tema,Studio,0,1,588," 230,000 ",10/23/2025,Available,Unfurnished,2015,72,Kwame Mensah,(20) 771-9921,,
+PROP-00655,Achimota,Apartment,5,5,2970," 1,131,000 ",11/16/2024,For Sale,Furnished,2010,62,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-01033,Dansoman,Apartment,4,4,2247," 704,000 ",5/25/2026,Under Offer,Unfurnished,2016,,Kofi Antwi,(24) 555-0182,WhatsApp,
+PROP-00561,Airport Residential,Townhouse,3,3,2099," 3,077,000 ",8/18/2025,Available,Unfurnished,1999,162,Efua Addo,(20) 771-9921,Agent Upload,2/15/2026
+PROP-00298,Labone,Townhouse,2,3,1148," 1,518,000 ",5/20/2024,Available,Unfurnished,2004,1,Kwame Mensah,(55) 120-3344,Website,10/3/2026
+PROP-00959,Labone,Apartment,3,3,1830," 1,550,000 ",1/6/2024,Under Offer,furnished,2017,37,Daniel Owusu,(55) 120-3344,Portal,2/15/2026
+PROP-00611,,Townhouse,3,3.5,1839," 651,000 ",1/17/2026,For Sale,Unfurnished,2021,71,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-00299,Spintex,Studio,0,1,653," 233,000 ",6/24/2024,For Sale,Unfurnished,2023,123,Efua Addo,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01090,Labone,Apartment,2,1.5,1486," 1,246,000 ",3/3/2026,Available,,2005,54,Michael Asare,,Website,1/10/2026
+PROP-00661,Labone,Townhouse,,5,2541," 3,378,000 ",4/28/2025,Sold,Furnished,1998,1,Kofi Antwi,(55) 120-3344,Portal,2/15/2026
+PROP-01444,Airport Residential,Townhouse,2,2.5,1775," 2,050,000 ",4/23/2025,For Sale,Furnished,2026,19,Ama Boateng,(20) 771-9921,Website,1/10/2026
+PROP-00412,Kasoa,Townhouse,2,2,1487," 575,000 ",9/15/2025,For Sale,furnished,2017,1,Daniel Owusu,(24) 555-0182,,10/3/2026
+PROP-00620,Spintex,Townhouse,1,1.5,867," 560,000 ",2/27/2025,For Sale,Unfurnished,2025,134,Michael Asare,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01240,Labone,Studio,0,1,750," 601,000 ",5/2/2026,For Sale,Unfurnished,2014,58,Michael Asare,,Website,
+PROP-00278,East Legon,Studio,0,1,806," 711,000 ",1/16/2026,Available,Unfurnished,2018,100,Nana Yaa,(24) 555-0182,Portal,
+PROP-01200,Cantonments,Townhouse,2,2,1507," 2,602,000 ",9/11/2024,For Sale,Furnished,2015,192,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00880,Spintex,Townhouse,1,1,974," 651,000 ",8/29/2024,Available,,2020,54,Daniel Owusu,,WhatsApp,
+LIST-01143,Spintex,Studio,0,1,382," 64,000 ",8/16/2025,Available,Unfurnished,2008,135,Kofi Antwi,(20) 771-9921,Portal,2/15/2026
+PROP-00237,East Legon,Apartment,2,2,1604," 2,119,000 ",2/21/2024,Sold,Furnished,2015,31,Kofi Antwi,(24) 555-0182,Facebook,2/15/2026
+PROP-01281,Cantonments,Townhouse,4,3,2144," 3,404,000 ",2/27/2024,For Sale,furnished,2006,10,Kwame Mensah,(24) 555-0182,Portal,1/10/2026
+PROP-01353,Adenta,Penthouse,1,1.5,1320,,5/19/2026,For Sale,furnished,2004,13,Michael Asare,(24) 555-0182,Portal,10/3/2026
+PROP-01489,Tema,Apartment,6,5,," 1,184,000 ",3/29/2026,Available,Unfurnished,2019,70,Nana Yaa,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00906,Dansoman,Apartment,1,1,1095," 208,000 ",5/31/2026,Available,Unfurnished,,44,Kwame Mensah,(55) 120-3344,WhatsApp,
+PROP-01230,Spintex,Studio,0,1,796," 292,000 ",3/4/2025,For Sale,Unfurnished,2011,11,Michael Asare,(55) 120-3344,Agent Upload,
+PROP-00209,Dansoman,Townhouse,1,1.5,886," 420,000 ",2/1/2026,For Sale,Furnished,2021,15,Daniel Owusu,,Facebook,2/15/2026
+PROP-00395,Adenta,Studio,0,1,783," 213,000 ",5/21/2024,For Sale,Unfurnished,2008,100,Nana Yaa,,Agent Upload,1/10/2026
+PROP-00427,Dzorwulu,Townhouse,2,1,1832," 1,221,000 ",9/30/2024,Under Offer,Furnished,2021,85,Efua Addo,(20) 771-9921,Facebook,1/10/2026
+LIST-01285,,Townhouse,2,3,1365," 2,178,000 ",5/2/2026,Under Offer,Unfurnished,2005,102,,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00059,Spintex,,3,3,1672," 1,007,000 ",5/27/2024,For Sale,Furnished,2003,201,Nana Yaa,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00900,Dzorwulu,Townhouse,1,1,1190," 1,149,000 ",6/8/2025,Sold,Unfurnished,2012,130,Michael Asare,,WhatsApp,10/3/2026
+PROP-01492,East Legon,Townhouse,3,3.5,2107," 2,429,000 ",1/19/2024,Available,Unfurnished,2018,1,Efua Addo,(24) 555-0182,Website,10/3/2026
+PROP-00495,Cantonments,Apartment,5,4,2771," 3,259,000 ",7/18/2025,Sold,Unfurnished,2014,37,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00766,Tema,Apartment,2,2.5,1278," 246,000 ",7/2/2024,Sold,Unfurnished,1999,66,Kwame Mensah,,,10/3/2026
+PROP-01226,Adenta,Apartment,2,1.5,," 626,000 ",9/8/2024,For Sale,Unfurnished,2016,119,Nana Yaa,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00757,Labone,Apartment,1,1,," 1,049,000 ",3/3/2024,For Sale,,1998,77,Daniel Owusu,(55) 120-3344,Website,2/15/2026
+PROP-01246,Labone,Apartment,4,4,2155," 1,947,000 ",8/1/2025,Under Offer,Unfurnished,2026,32,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00753,Airport Residential,Apartment,2,2,1785," 2,141,000 ",7/13/2026,Under Offer,Unfurnished,2001,50,Kofi Antwi,(24) 555-0182,Portal,2/15/2026
+PROP-00870,Kasoa,Townhouse,3,3.5,2138," 812,000 ",7/3/2025,Sold,Furnished,2017,119,Michael Asare,(20) 771-9921,Facebook,10/3/2026
+PROP-00482,Tema,Apartment,3,3,1606," 578,000 ",8/22/2024,Sold,Furnished,2020,137,Daniel Owusu,,WhatsApp,10/3/2026
+PROP-00530,Tema,Apartment,2,1.5,1671," 507,000 ",3/29/2024,Sold,Unfurnished,2011,82,Daniel Owusu,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01189,Spintex,Apartment,2,2,1500," 767,000 ",11/29/2025,For Sale,Unfurnished,2022,81,Daniel Owusu,(24) 555-0182,Website,1/10/2026
+PROP-00860,Airport Residential,Townhouse,4,4,2154," 2,390,000 ",5/1/2024,For Sale,,2020,138,Efua Addo,,Agent Upload,10/3/2026
+PROP-01141,Cantonments,Penthouse,1,1,1010," 1,770,000 ",1/24/2026,Under Offer,Furnished,2002,126,Efua Addo,,Portal,1/10/2026
+PROP-00234,East Legon,Apartment,3,2,1942," 1,772,000 ",7/3/2025,Sold,Unfurnished,2001,49,Nana Yaa,,,2/15/2026
+PROP-00652,Adenta,Townhouse,1,1.5,997," 474,000 ",4/16/2026,For Sale,Unfurnished,2009,41,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00197,East Legon,Studio,0,1,859," 902,000 ",3/30/2026,For Sale,Furnished,2026,28,Kwame Mensah,,Portal,10/3/2026
+PROP-00585,East Legon,Apartment,1,1.5,900," 1,072,000 ",11/29/2025,Sold,Furnished,2023,,Kofi Antwi,(24) 555-0182,Facebook,
+PROP-01493,Tema,Apartment,3,2.5,1607," 637,000 ",2/14/2026,For Sale,Unfurnished,2018,77,Nana Yaa,,,10/3/2026
+PROP-00082,Kasoa,Apartment,3,3,1845," 489,000 ",5/15/2024,Under Offer,Furnished,2001,1,Daniel Owusu,(20) 771-9921,Agent Upload,1/10/2026
+PROP-01446,East Legon,Studio,0,1,823," 500,000 ",7/10/2024,For Sale,Unfurnished,1998,117,Kofi Antwi,(55) 120-3344,Portal,10/3/2026
+PROP-00951,Spintex,Studio,0,1,814," 326,000 ",10/17/2024,Under Offer,Furnished,2001,70,Kofi Antwi,(24) 555-0182,Website,1/10/2026
+PROP-01191,Osu,Studio,0,1,15951," 292,000 ",2/17/2026,Under Offer,Partly Furnished,2015,138,Daniel Owusu,(55) 120-3344,Website,1/10/2026
+PROP-00112,Airport Residential,Townhouse,2,2,1206," 1,266,000 ",6/3/2026,Available,Unfurnished,2005,6,Michael Asare,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01315,Dansoman,Townhouse,2,3,1347," 341,000 ",4/4/2025,For Sale,Furnished,1999,10,Kofi Antwi,(24) 555-0182,Website,10/3/2026
+PROP-00865,Labone,Penthouse,2,2,1425," 3,044,000 ",10/21/2024,For Sale,,,13,Efua Addo,(55) 120-3344,WhatsApp,1/10/2026
+PROP-01305,Spintex,Townhouse,3,2,2229," 1,460,000 ",9/21/2024,Under Offer,Furnished,,1,Michael Asare,(20) 771-9921,Portal,10/3/2026
+PROP-00417,Kasoa,Apartment,2,2,1333," 338,000 ",6/29/2024,For Sale,Furnished,2014,51,Kwame Mensah,(24) 555-0182,Website,2/15/2026
+PROP-01304,Airport Residential,Studio,0,1.5,833," 963,000 ",9/26/2025,Under Offer,Unfurnished,2000,73,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-01477,Labone,Apartment,1,1,1228," 1,212,000 ",3/15/2025,For Sale,Partly Furnished,2026,55,Michael Asare,(20) 771-9921,WhatsApp,10/3/2026
+PROP-01290,Osu,Penthouse,2,1.5,1686," 1,619,000 ",1/28/2026,For Sale,,2002,78,Daniel Owusu,(55) 120-3344,Portal,10/3/2026
+PROP-00311,Dzorwulu,Apartment,3,3,1972," 1,255,000 ",9/28/2025,Sold,,2004,35,Efua Addo,(24) 555-0182,WhatsApp,
+PROP-00783,Dzorwulu,Townhouse,0,1,468," 119,000 ",10/13/2025,Under Offer,Partly Furnished,2004,123,Kofi Antwi,(20) 771-9921,Website,
+PROP-00423,Osu,Townhouse,1,1,949," 944,000 ",2/22/2024,Under Offer,Unfurnished,2012,17,Ama Boateng,(20) 771-9921,Agent Upload,1/10/2026
+PROP-00567,Labone,Townhouse,2,2.5,1594," 1,407,000 ",4/24/2025,Available,Furnished,2000,130,Efua Addo,(24) 555-0182,Facebook,
+PROP-00465,Adenta,Townhouse,2,2,1274," 636,000 ",,For Sale,Furnished,2023,35,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-01282,Labone,Apartment,4,3.5,2231," 2,039,000 ",2/14/2025,Sold,furnished,2015,61,Daniel Owusu,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00406,Cantonments,Apartment,3,2.5,2313,,10/30/2024,For Sale,Furnished,2009,48,Kwame Mensah,,Portal,2/15/2026
+PROP-01088,Osu,Townhouse,3,3,"1,953"," 1,764,000 ",11/6/2024,For Sale,Unfurnished,2020,183,Efua Addo,(24) 555-0182,Portal,1/10/2026
+LIST-01385,Osu,Apartment,3,3,1663," 1,045,000 ",7/19/2024,Under Offer,Furnished,2018,92,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01056,Cantonments,Studio,0,1,748," 713,000 ",3/4/2025,Available,Unfurnished,2011,1,Efua Addo,(24) 555-0182,Facebook,2/15/2026
+PROP-00440,Achimota,Townhouse,4,4,2271," 1,075,000 ",11/9/2024,Available,Furnished,2005,95,Kofi Antwi,,Agent Upload,
+LIST-01403,East Legon,Studio,0,1,749," 556,000 ",8/6/2026,For Sale,Furnished,2018,37,Kofi Antwi,(24) 555-0182,Agent Upload,
+PROP-00888,Kasoa,Studio,0,1,657," 112,000 ",2/13/2024,For Sale,Unfurnished,2008,157,Ama Boateng,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00535,East Legon,Townhouse,3,3.5,1673," 1,715,000 ",7/16/2024,For Sale,Furnished,2007,68,Nana Yaa,(24) 555-0182,Portal,1/10/2026
+PROP-00781,East Legon,Apartment,2,2,1657," 1,976,000 ",8/15/2025,Sold,Partly Furnished,1999,92,Daniel Owusu,(24) 555-0182,Portal,1/10/2026
+PROP-01252,Spintex,Townhouse,3,3,2092," 1,047,000 ",7/20/2025,For Sale,,2026,18,Efua Addo,(24) 555-0182,Facebook,
+PROP-01314,East Legon,Studio,0,1,641," 555,000 ",3/9/2024,Sold,Unfurnished,2015,133,Ama Boateng,(24) 555-0182,WhatsApp,
+PROP-01193,Osu,Penthouse,2,2.5,1400," 1,611,000 ",,For Sale,Unfurnished,,147,Michael Asare,(55) 120-3344,Website,1/10/2026
+PROP-01037,Tema,Townhouse,2,2,1589," 501,000 ",12/23/2024,Available,Furnished,2003,145,Daniel Owusu,(55) 120-3344,Website,10/3/2026
+PROP-00799,Airport Residential,Apartment,1,2,1197," 1,358,000 ",7/21/2025,For Sale,furnished,1998,78,Michael Asare,(20) 771-9921,Agent Upload,
+PROP-01114,East Legon,Apartment,1,1.5,1191," 1,136,000 ",3/13/2024,For Sale,Furnished,2017,109,Kwame Mensah,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00255,Achimota,Apartment,1,1.5,947," 634,000 ",1/5/2024,Available,Unfurnished,2024,126,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-00323,Adenta,Studio,0,1,350," 61,000 ",2/6/2025,Sold,,2013,86,Daniel Owusu,(20) 771-9921,Portal,2/15/2026
+PROP-01125,,Studio,0,1,775," 686,000 ",12/17/2024,For Sale,Unfurnished,2002,49,Ama Boateng,(20) 771-9921,Website,2/15/2026
+PROP-01166,Dzorwulu,Apartment,3,3.5,1467," 792,000 ",1/15/2024,For Sale,,2010,48,Efua Addo,,,10/3/2026
+PROP-01099,East Legon,Studio,0,1,774," 495,000 ",1/7/2024,Under Offer,Unfurnished,2021,40,Efua Addo,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00705,Labone,Apartment,2,2,1327," 1,342,000 ",6/7/2025,Available,,2006,46,Ama Boateng,(20) 771-9921,Portal,10/3/2026
+PROP-00571,Spintex,Apartment,4,5,2769," 1,259,000 ",9/1/2024,For Sale,Furnished,2001,30,Daniel Owusu,(24) 555-0182,Website,2/15/2026
+PROP-00889,Dansoman,Townhouse,2,2,1314," 518,000 ",10/10/2025,Under Offer,Unfurnished,2003,1,Kwame Mensah,(55) 120-3344,Facebook,2/15/2026
+PROP-00366,Tema,Apartment,2,2,1346," 559,000 ",1/20/2025,Available,Furnished,2026,133,Kofi Antwi,(20) 771-9921,Facebook,10/3/2026
+PROP-00964,Cantonments,Studio,0,1,504," 413,000 ",1/29/2025,For Sale,Unfurnished,2006,133,Kwame Mensah,(20) 771-9921,Website,10/3/2026
+PROP-00087,Spintex,Townhouse,2,2.5,1479," 744,000 ",,For Sale,Furnished,2018,104,Kwame Mensah,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01463,Kasoa,Apartment,2,1.5,1659," 360,000 ",3/9/2024,For Sale,,2004,80,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00266,Dansoman,Apartment,3,3,2078," 597,000 ",2/1/2026,Available,,2026,170,Michael Asare,(55) 120-3344,Portal,2/15/2026
+PROP-00288,Adenta,Townhouse,1,1,1081," 611,000 ",6/19/2024,Available,,2007,25,Nana Yaa,(24) 555-0182,WhatsApp,2/15/2026
+LIST-00751,Cantonments,Studio,0,1,846," 691,000 ",10/10/2024,For Sale,Unfurnished,2001,85,Kwame Mensah,(55) 120-3344,Facebook,1/10/2026
+PROP-00359,East Legon,Apartment,3,2.5,1981," 1,830,000 ",7/24/2024,Sold,Furnished,2026,,Michael Asare,(24) 555-0182,Portal,
+PROP-00454,East Legon,Studio,0,1,913," 590,000 ",5/26/2026,Sold,Partly Furnished,2011,67,Kofi Antwi,,Website,
+PROP-01434,Cantonments,Studio,0,1,483," 189,000 ",4/19/2024,For Sale,furnished,2000,91,Efua Addo,,,2/15/2026
+PROP-00562,Osu,Apartment,2,2,1603," 1,123,000 ",8/25/2024,For Sale,Furnished,2016,45,Kwame Mensah,(20) 771-9921,Facebook,2/15/2026
+PROP-01435,Dzorwulu,Apartment,,1.5,1333," 862,000 ",12/14/2024,For Sale,Unfurnished,2008,206,Nana Yaa,(24) 555-0182,,1/10/2026
+PROP-00773,Dansoman,Townhouse,3,2.5,1806," 628,000 ",5/13/2026,For Sale,Unfurnished,2020,187,Daniel Owusu,(24) 555-0182,WhatsApp,
+PROP-00222,Achimota,Apartment,3,3.5,1992," 1,006,000 ",11/18/2024,Under Offer,Furnished,2004,74,Kwame Mensah,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00114,Cantonments,Penthouse,0,1,864," 1,684,000 ",1/20/2026,Available,Furnished,2006,68,Michael Asare,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00603,Dansoman,Townhouse,2,2,1457," 838,000 ",1/17/2026,Sold,Unfurnished,2026,44,Michael Asare,,Website,10/3/2026
+PROP-00614,Adenta,Townhouse,1,1,1130," 455,000 ",11/21/2025,Available,Unfurnished,2024,106,Efua Addo,(20) 771-9921,Facebook,1/10/2026
+PROP-00175,Dzorwulu,Apartment,2,2,1608," 1,006,000 ",1/7/2025,Under Offer,Furnished,2009,110,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-01113,Adenta,Townhouse,4,4.5,2535," 1,430,000 ",6/15/2024,Available,Partly Furnished,2023,58,Daniel Owusu,(20) 771-9921,Portal,1/10/2026
+PROP-01354,Kasoa,Studio,0,1,731," 152,000 ",9/1/2025,Under Offer,Unfurnished,2006,126,Nana Yaa,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01081,Adenta,Townhouse,4,4,2025," 1,212,000 ",2/27/2024,Available,Unfurnished,2014,143,Michael Asare,(24) 555-0182,Website,
+PROP-01211,Airport Residential,Apartment,2,2.5,1595," 1,712,000 ",3/22/2025,Under Offer,Unfurnished,2017,59,Michael Asare,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00019,Tema,Apartment,1,1,1011," 495,000 ",9/21/2025,Available,Unfurnished,2012,143,Daniel Owusu,(20) 771-9921,Agent Upload,
+PROP-01034,Adenta,Apartment,,3,1366," 273,000 ",10/18/2024,Available,Furnished,2011,38,Efua Addo,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00286,Tema,Townhouse,0,1,755," 429,000 ",12/16/2024,For Sale,Unfurnished,2001,55,Efua Addo,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00916,Kasoa,Townhouse,2,2,1715," 465,000 ",2/5/2024,For Sale,Unfurnished,2017,153,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-01011,East Legon,Townhouse,6,5,3165," 4,312,000 ",4/12/2026,For Sale,Unfurnished,2005,10,Michael Asare,(24) 555-0182,Portal,
+PROP-01232,Adenta,Apartment,3,,2021," 444,000 ",12/26/2025,For Sale,Furnished,2018,215,Efua Addo,(55) 120-3344,Portal,
+PROP-00032,Cantonments,Apartment,1,1,1047," 1,373,000 ",6/20/2026,Sold,Furnished,2008,29,Michael Asare,(20) 771-9921,Facebook,2/15/2026
+PROP-01220,East Legon,Apartment,3,3,1833," 1,646,000 ",11/6/2024,Under Offer,Unfurnished,2000,99,Daniel Owusu,(55) 120-3344,Facebook,10/3/2026
+PROP-00211,Dansoman,Studio,0,1,541," 35,000 ",4/1/2024,For Sale,Furnished,2005,1,Efua Addo,(24) 555-0182,Facebook,2/15/2026
+PROP-00830,Dzorwulu,Apartment,3,3.5,2116," 1,300,000 ",10/4/2024,For Sale,Furnished,2007,1,Efua Addo,,,10/3/2026
+PROP-01419,Adenta,Apartment,1,1.5,1167," 375,000 ",10/11/2025,For Sale,Partly Furnished,2019,17,Kofi Antwi,(24) 555-0182,Website,2/15/2026
+PROP-01119,Spintex,Apartment,3,3.5,1822," 927,000 ",1/23/2026,For Sale,Unfurnished,,,Ama Boateng,(55) 120-3344,Agent Upload,10/3/2026
+PROP-01344,Osu,Townhouse,1,1.5,888," 828,000 ",11/11/2024,For Sale,,2020,120,Nana Yaa,(24) 555-0182,Facebook,
+PROP-01157,Osu,Apartment,1,1,847," 678,000 ",1/19/2026,Under Offer,Unfurnished,2007,44,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-00985,East Legon,Townhouse,3,3,1906," 2,231,000 ",9/8/2025,Available,Furnished,2023,24,Kwame Mensah,(55) 120-3344,,1/10/2026
+PROP-00944,East Legon,Apartment,1,1,1273," 1,317,000 ",3/20/2025,Available,Furnished,2003,131,Michael Asare,,Website,
+PROP-01359,Dzorwulu,Townhouse,1,1.5,1087," 646,000 ",9/8/2024,For Sale,Furnished,2011,113,Nana Yaa,(20) 771-9921,Portal,10/3/2026
+PROP-00189,Labone,Apartment,2,2,1343," 1,125,000 ",1/3/2026,For Sale,,2026,74,Michael Asare,(24) 555-0182,Facebook,
+PROP-00414,Dansoman,Townhouse,3,3,1865," 875,000 ",8/10/2025,For Sale,,2015,1,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-00989,Kasoa,Studio,0,1,747," 194,000 ",3/6/2025,For Sale,,2025,110,Daniel Owusu,(24) 555-0182,,
+PROP-00528,Airport Residential,Penthouse,5,4,2763," 5,481,000 ",9/1/2025,Available,Unfurnished,2018,100,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+LIST-01411,Achimota,Studio,0,1,361," 110,000 ",6/28/2025,Available,Unfurnished,2005,28,Michael Asare,(55) 120-3344,Portal,
+PROP-00416,,Townhouse,3,2.5,2276," 2,490,000 ",5/2/2025,For Sale,Unfurnished,2007,136,Daniel Owusu,,Agent Upload,2/15/2026
+PROP-01138,Airport Residential,Apartment,,2.5,1925," 9,426,803 ",7/31/2024,For Sale,Partly Furnished,2010,90,Daniel Owusu,(55) 120-3344,Facebook,2/15/2026
+PROP-00084,Adenta,Townhouse,6,5,3336,,1/18/2026,Available,Unfurnished,2010,54,Ama Boateng,,Website,10/3/2026
+PROP-00708,Dansoman,Apartment,0,1,677," 277,000 ",3/27/2025,Available,furnished,2002,29,Daniel Owusu,,Portal,1/10/2026
+PROP-00049,Spintex,Penthouse,2,2,1330," 1,420,000 ",8/22/2025,For Sale,Furnished,2016,27,Daniel Owusu,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01322,East Legon,Studio,0,1,457," 399,000 ",5/4/2026,Under Offer,Furnished,2017,134,Michael Asare,,WhatsApp,
+PROP-00156,Airport Residential,Studio,0,1,350," 142,000 ",11/28/2024,For Sale,Unfurnished,2020,85,Michael Asare,(20) 771-9921,Website,
+PROP-01101,Osu,Studio,0,1,779," 385,000 ",9/28/2024,Under Offer,Unfurnished,2000,67,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-01174,Tema,Apartment,2,,1313," 462,000 ",12/19/2024,For Sale,Unfurnished,2009,185,Nana Yaa,,WhatsApp,1/10/2026
+PROP-00439,Cantonments,Apartment,2,2,1475," 1,675,000 ",4/7/2024,For Sale,Furnished,2013,96,Nana Yaa,(24) 555-0182,Portal,
+PROP-01084,Cantonments,Townhouse,5,5,3019," 4,994,000 ",9/15/2025,Under Offer,Partly Furnished,2006,154,Daniel Owusu,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00853,East Legon,Apartment,3,2,2222," 2,158,000 ",4/22/2024,For Sale,Furnished,2017,26,Nana Yaa,(24) 555-0182,Portal,1/10/2026
+PROP-01266,Achimota,Apartment,3,3,1809," 716,000 ",8/16/2025,Available,,2010,48,,(24) 555-0182,Facebook,1/10/2026
+LIST-00988,Osu,Townhouse,3,3,2248," 1,617,000 ",1/18/2026,Sold,,2020,9,Kofi Antwi,(20) 771-9921,Facebook,1/10/2026
+PROP-01176,East Legon,Apartment,2,2.5,1517," 2,156,000 ",6/19/2025,For Sale,Partly Furnished,2009,74,Daniel Owusu,,Facebook,
+PROP-00180,Spintex,Townhouse,2,2.5,1603," 1,145,000 ",11/9/2025,Under Offer,Unfurnished,2024,75,Kwame Mensah,,Portal,
+PROP-01369,Spintex,Studio,0,1,453," 146,000 ",,Under Offer,Unfurnished,2016,58,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-01284,Dansoman,Townhouse,2,2,1542," 617,000 ",3/26/2024,For Sale,Unfurnished,2013,1,Kofi Antwi,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00577,East Legon,Studio,0,1,815," 568,000 ",10/22/2025,For Sale,Unfurnished,2018,1,Nana Yaa,(24) 555-0182,Facebook,2/15/2026
+PROP-00545,Osu,Townhouse,3,2.5,2055," 1,543,000 ",2/12/2024,For Sale,,2008,23,Daniel Owusu,(24) 555-0182,Agent Upload,
+PROP-00862,Labone,Apartment,3,3.5,1765," 1,328,000 ",1/17/2025,Available,Unfurnished,2022,93,Daniel Owusu,,Agent Upload,2/15/2026
+PROP-00364,East Legon,Apartment,3,2.5,1774," 1,694,000 ",11/22/2025,Available,Unfurnished,2021,68,Nana Yaa,(24) 555-0182,Website,
+PROP-01212,Spintex,Townhouse,1,1,1209," 977,000 ",8/15/2024,Sold,Unfurnished,2005,61,Nana Yaa,(55) 120-3344,Portal,1/10/2026
+PROP-01234,Labone,Townhouse,5,5,2782," 3,758,000 ",5/1/2025,Under Offer,Unfurnished,2021,,Kofi Antwi,,Facebook,1/10/2026
+PROP-00347,Dzorwulu,Townhouse,3,2.5,1878," 1,227,000 ",3/26/2025,For Sale,furnished,2012,64,Kwame Mensah,(55) 120-3344,Facebook,
+PROP-01118,Airport Residential,Apartment,2,2.5,1292," 1,398,000 ",1/10/2024,Under Offer,Partly Furnished,2000,37,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-00494,East Legon,Apartment,2,2.5,1427," 2,551,000 ",9/11/2024,Sold,Partly Furnished,2020,160,Kwame Mensah,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00721,Adenta,Apartment,1,1.5,1194," 350,000 ",11/21/2025,For Sale,,2023,106,Michael Asare,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00693,Tema,Studio,0,1,614," 175,000 ",4/10/2024,For Sale,Unfurnished,2014,103,Daniel Owusu,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01331,Dzorwulu,Studio,0,1,552,,2/10/2025,Under Offer,Unfurnished,2010,150,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00621,East Legon,Apartment,1,1,868," 865,000 ",8/1/2026,For Sale,Unfurnished,2018,93,Michael Asare,,Facebook,10/3/2026
+PROP-00599,Tema,Penthouse,5,4,2530," 1,530,000 ",1/28/2026,For Sale,furnished,2010,,Daniel Owusu,(55) 120-3344,Agent Upload,1/10/2026
+PROP-01086,Airport Residential,Apartment,3,3,2153," 2,342,000 ",6/26/2024,Available,Furnished,2021,92,Efua Addo,(20) 771-9921,Website,
+PROP-00244,Labone,Studio,0,1,619," 490,000 ",1/22/2025,Sold,Unfurnished,2010,101,Michael Asare,(55) 120-3344,Facebook,1/10/2026
+PROP-00850,Osu,Townhouse,2,2,1820," 1,842,000 ",3/16/2024,Under Offer,Unfurnished,1999,18,Kofi Antwi,(55) 120-3344,Agent Upload,
+PROP-00568,Labone,Apartment,3,3,2001," 1,731,000 ",4/18/2024,Available,Furnished,2022,40,Nana Yaa,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00650,East Legon,Townhouse,5,4.5,2536," 2,588,000 ",5/15/2025,Under Offer,,,17,Ama Boateng,(24) 555-0182,Agent Upload,
+PROP-00807,Achimota,Studio,0,1,612," 262,000 ",10/7/2024,For Sale,Unfurnished,2020,24,Ama Boateng,,Portal,2/15/2026
+PROP-00940,Tema,Townhouse,3,1.5,2095," 1,350,000 ",5/17/2026,For Sale,,2006,127,Efua Addo,(55) 120-3344,Portal,10/3/2026
+PROP-00848,Cantonments,Apartment,5,4,2742," 3,361,000 ",8/28/2025,Sold,Unfurnished,2002,39,Ama Boateng,(24) 555-0182,Facebook,
+PROP-00436,East Legon,Studio,0,1,391," 429,000 ",10/30/2024,For Sale,Unfurnished,1998,86,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-01462,Adenta,Townhouse,2,2,994," 371,000 ",8/2/2026,For Sale,,2006,102,,(55) 120-3344,Agent Upload,
+PROP-00576,Kasoa,Studio,0,1,641," 232,000 ",7/15/2026,For Sale,Furnished,2021,131,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00309,Labone,Townhouse,2,2.5,1413," 1,532,000 ",6/24/2024,Available,,2000,123,Daniel Owusu,(55) 120-3344,Website,2/15/2026
+PROP-00431,Osu,Studio,0,1,859," 522,000 ",2/29/2024,For Sale,Partly Furnished,2000,67,Daniel Owusu,(24) 555-0182,Portal,
+PROP-00931,Spintex,Townhouse,0,,350," 295,000 ",1/20/2026,For Sale,Furnished,2026,1,Ama Boateng,(24) 555-0182,Portal,
+PROP-00399,Kasoa,Townhouse,2,2.5,1352," 479,000 ",6/25/2025,Available,Partly Furnished,2000,124,Michael Asare,(24) 555-0182,Facebook,1/10/2026
+PROP-00424,Kasoa,Townhouse,3,3,1905," 687,000 ",6/14/2026,Available,,2002,24,Michael Asare,(24) 555-0182,Facebook,
+PROP-00371,Adenta,Apartment,3,2,," 597,000 ",1/29/2024,Under Offer,Unfurnished,2006,127,Kofi Antwi,(24) 555-0182,Website,2/15/2026
+PROP-00055,Adenta,Apartment,2,3,1300," 224,000 ",11/26/2024,Sold,Partly Furnished,2013,210,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-01215,Adenta,Apartment,2,2,1372," 494,000 ",6/17/2026,For Sale,Furnished,2015,62,Ama Boateng,(24) 555-0182,Website,2/15/2026
+PROP-01280,East Legon,Studio,0,1,970," 808,000 ",5/9/2025,For Sale,Unfurnished,2003,25,Michael Asare,(55) 120-3344,Facebook,2/15/2026
+PROP-00600,Spintex,Apartment,2,,1434," 688,000 ",12/8/2024,For Sale,,2003,74,Kofi Antwi,,Website,
+PROP-00313,Osu,Penthouse,3,3,2209," 3,080,000 ",5/11/2026,Available,Furnished,2004,1,Michael Asare,(55) 120-3344,,2/15/2026
+PROP-00974,Adenta,Townhouse,1,1,1055," 453,000 ",9/26/2024,Sold,furnished,2017,33,Nana Yaa,(24) 555-0182,Portal,10/3/2026
+PROP-01197,Osu,Apartment,6,5,3291," 2,395,000 ",2/7/2026,Sold,Furnished,2004,12,Kofi Antwi,(24) 555-0182,Portal,2/15/2026
+PROP-00110,Kasoa,Townhouse,3,3,1842," 655,000 ",8/8/2025,For Sale,furnished,2021,71,Kofi Antwi,(20) 771-9921,Website,
+PROP-00882,Tema,Apartment,2,2,1500," 652,000 ",8/24/2024,For Sale,Furnished,2007,48,Kofi Antwi,(55) 120-3344,Website,2/15/2026
+PROP-00728,Osu,Apartment,2,2,1415," 987,000 ",10/26/2025,For Sale,Unfurnished,2020,124,Kwame Mensah,(20) 771-9921,Agent Upload,
+PROP-00101,Adenta,Apartment,3,3,2352," 1,021,000 ",1/26/2024,Sold,Unfurnished,2011,50,Michael Asare,(55) 120-3344,,2/15/2026
+PROP-00501,Adenta,Townhouse,2,2.5,1663," 826,000 ",12/25/2024,Sold,Furnished,2009,125,Nana Yaa,(20) 771-9921,,1/10/2026
+PROP-00706,East Legon,Apartment,,4,2300," 2,138,000 ",1/23/2025,Sold,Furnished,2015,46,Efua Addo,(55) 120-3344,Website,
+PROP-01417,East Legon,Apartment,2,2,1446," 1,422,000 ",3/19/2026,For Sale,Partly Furnished,2021,1,,(20) 771-9921,Facebook,10/3/2026
+PROP-00267,Tema,Studio,0,1,839," 240,000 ",4/26/2025,Under Offer,Unfurnished,1999,111,Ama Boateng,,WhatsApp,2/15/2026
+PROP-00715,Dansoman,Apartment,1,,790," 407,000 ",,Sold,Unfurnished,2022,68,Efua Addo,,Portal,10/3/2026
+PROP-00297,East Legon,Apartment,1,1.5,1333," 1,362,000 ",10/15/2024,Under Offer,Unfurnished,2004,57,Nana Yaa,(20) 771-9921,Agent Upload,
+PROP-00875,Kasoa,Townhouse,1,1,1135," 311,000 ",11/1/2025,Sold,furnished,2024,71,Kofi Antwi,(24) 555-0182,WhatsApp,
+PROP-00462,Labone,Apartment,6,4.5,3121," 2,899,000 ",9/28/2024,For Sale,Unfurnished,2011,1,Nana Yaa,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01122,Airport Residential,Apartment,1,1.5,863," 1,730,000 ",5/11/2026,For Sale,Unfurnished,2001,79,Michael Asare,(24) 555-0182,Facebook,1/10/2026
+PROP-01036,East Legon,Penthouse,3,2.5,1825," 2,804,000 ",4/21/2025,For Sale,Furnished,2003,,Ama Boateng,(20) 771-9921,,
+PROP-01182,Kasoa,Apartment,4,5,2509," 888,000 ",3/10/2025,Available,,2014,240,,(24) 555-0182,Portal,10/3/2026
+PROP-00378,,Apartment,3,3,1604," 768,000 ",9/5/2025,For Sale,Unfurnished,2003,62,,(55) 120-3344,Website,2/15/2026
+PROP-00287,Adenta,Apartment,2,2,1295,,1/17/2026,For Sale,Unfurnished,1999,112,Efua Addo,(20) 771-9921,Website,1/10/2026
+PROP-01482,Cantonments,Apartment,3,2,2236," 2,802,000 ",1/7/2025,For Sale,Furnished,2018,55,Nana Yaa,(24) 555-0182,Portal,10/3/2026
+PROP-00768,Airport Residential,Apartment,1,1.5,," 1,246,000 ",4/17/2024,For Sale,Unfurnished,2001,1,Michael Asare,(55) 120-3344,Agent Upload,
+PROP-00127,Tema,Townhouse,1,1.5,1272,,4/29/2026,Available,,2004,61,Kwame Mensah,,WhatsApp,2/15/2026
+PROP-00328,Adenta,Penthouse,4,4.5,2275," 1,745,000 ",6/7/2025,For Sale,Unfurnished,2008,66,Daniel Owusu,(20) 771-9921,Facebook,
+PROP-00293,Dzorwulu,Townhouse,3,3,2210," 1,931,000 ",7/12/2025,Sold,Partly Furnished,2006,67,,(24) 555-0182,Website,1/10/2026
+PROP-00788,Adenta,Townhouse,1,1,819," 548,000 ",2/3/2026,For Sale,Furnished,,11,Michael Asare,(20) 771-9921,Portal,2/15/2026
+PROP-00765,Spintex,Apartment,3,3,1823," 978,000 ",2/17/2025,Under Offer,furnished,2015,118,Ama Boateng,(20) 771-9921,Facebook,1/10/2026
+PROP-01008,Spintex,Apartment,3,3,1732," 891,000 ",12/11/2025,For Sale,Unfurnished,2018,1,Michael Asare,(55) 120-3344,Portal,10/3/2026
+PROP-00356,Osu,Townhouse,3,2,1838," 2,073,000 ",9/23/2024,For Sale,Furnished,2022,23,Nana Yaa,(20) 771-9921,Portal,
+PROP-01256,Achimota,Townhouse,4,4,2283," 1,191,000 ",6/21/2026,Under Offer,furnished,2021,94,Kofi Antwi,,Agent Upload,2/15/2026
+PROP-00171,Achimota,Apartment,2,2,1525," 617,000 ",2/4/2025,For Sale,Unfurnished,2022,1,Efua Addo,(24) 555-0182,Website,10/3/2026
+PROP-00890,Airport Residential,Apartment,6,6,3312," 3,751,000 ",3/12/2026,Available,Unfurnished,2015,59,Efua Addo,(55) 120-3344,Facebook,2/15/2026
+PROP-01156,Spintex,Penthouse,2,1.5,1584," 1,599,000 ",1/20/2026,Under Offer,Unfurnished,2026,96,Michael Asare,(55) 120-3344,,
+PROP-00987,Airport Residential,Townhouse,3,3.5,1767," 2,061,000 ",4/9/2025,Under Offer,Unfurnished,2007,139,Ama Boateng,(20) 771-9921,Facebook,2/15/2026
+PROP-00817,Dansoman,Studio,0,1,465," 35,000 ",3/13/2024,Available,Furnished,2022,158,Kofi Antwi,(24) 555-0182,Portal,
+PROP-01306,Osu,Apartment,2,1.5,1438," 993,000 ",10/24/2025,For Sale,Partly Furnished,2014,78,Ama Boateng,(55) 120-3344,Facebook,
+PROP-00210,Dzorwulu,Townhouse,2,2,2000," 1,696,000 ",4/17/2025,Under Offer,Unfurnished,2024,112,Efua Addo,(24) 555-0182,Agent Upload,
+PROP-01192,Osu,Apartment,2,3,1832," 1,320,000 ",1/29/2026,Sold,Furnished,2014,99,Efua Addo,(20) 771-9921,Portal,1/10/2026
+PROP-00549,Dansoman,Townhouse,3,3,1661," 720,000 ",5/20/2025,For Sale,Unfurnished,1998,56,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-00141,Cantonments,Townhouse,3,2.5,2105," 2,918,000 ",4/12/2026,Sold,,1999,58,Efua Addo,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01111,Spintex,Studio,0,1,643," 93,000 ",8/16/2024,Available,Unfurnished,2006,135,Michael Asare,(24) 555-0182,,
+PROP-01032,Spintex,Apartment,3,3.5,1937," 943,000 ",11/10/2025,Under Offer,Partly Furnished,2004,75,Kofi Antwi,(20) 771-9921,Portal,2/15/2026
+PROP-00819,East Legon,Apartment,3,3.5,1787," 1,670,000 ",9/19/2025,For Sale,Partly Furnished,2008,,Nana Yaa,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01224,Achimota,Townhouse,3,3.5,2028," 1,206,000 ",6/1/2025,Available,Furnished,2003,41,Michael Asare,(20) 771-9921,Website,2/15/2026
+PROP-00723,Osu,Apartment,2,2,1545," 1,190,000 ",2/24/2024,For Sale,Unfurnished,2004,8,Daniel Owusu,(55) 120-3344,,1/10/2026
+PROP-00701,Osu,Townhouse,1,1,1157," 1,008,000 ",1/23/2025,Available,Unfurnished,2010,59,Nana Yaa,(24) 555-0182,,1/10/2026
+PROP-00651,Spintex,Apartment,2,,1656," 940,000 ",8/15/2024,For Sale,Furnished,2026,116,Nana Yaa,,Website,10/3/2026
+PROP-00200,Labone,Apartment,4,4,2509," 2,111,000 ",2/18/2025,For Sale,Furnished,2005,,Kwame Mensah,(24) 555-0182,Portal,10/3/2026
+PROP-00939,East Legon,Studio,0,1,350," 233,000 ",,For Sale,Unfurnished,2022,159,Kwame Mensah,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01277,Cantonments,Apartment,0,1,706," 721,000 ",10/29/2024,For Sale,furnished,2026,70,Kwame Mensah,,Website,1/10/2026
+PROP-00745,East Legon,Apartment,2,1.5,1436," 1,337,000 ",1/14/2026,For Sale,Unfurnished,2003,114,,,Portal,
+PROP-01064,Spintex,Apartment,1,1,1129," 743,000 ",7/24/2024,For Sale,Furnished,2017,57,Efua Addo,,Website,2/15/2026
+PROP-00731,Labone,Apartment,2,3,1454," 1,332,000 ",5/25/2025,For Sale,Partly Furnished,2019,110,Efua Addo,(20) 771-9921,Facebook,10/3/2026
+PROP-00011,Adenta,Townhouse,3,2.5,1949," 1,026,000 ",,For Sale,Furnished,2017,150,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-00148,Spintex,Apartment,5,5,2654," 1,527,000 ",5/6/2024,For Sale,Furnished,2008,1,Daniel Owusu,(24) 555-0182,WhatsApp,2/15/2026
+LIST-00599,Tema,Penthouse,5,4,2530," 1,530,000 ",1/28/2026,For Sale,furnished,2010,110,Daniel Owusu,(55) 120-3344,Portal,10/3/2026
+PROP-00283,Spintex,Townhouse,2,1.5,1400," 1,058,000 ",4/28/2026,Sold,Furnished,1998,37,Efua Addo,(24) 555-0182,Website,
+PROP-00292,Osu,Townhouse,2,1.5,1443," 1,238,000 ",10/6/2024,Available,,2026,91,Daniel Owusu,(55) 120-3344,Website,1/10/2026
+PROP-00583,Spintex,Apartment,3,3,1628," 1,051,000 ",6/22/2026,Under Offer,Unfurnished,2022,127,Kwame Mensah,,Agent Upload,1/10/2026
+PROP-01047,Spintex,Penthouse,3,3,1933," 1,718,000 ",12/11/2025,For Sale,Furnished,2012,62,Daniel Owusu,(24) 555-0182,Website,10/3/2026
+PROP-00130,Labone,Apartment,,1,1482," 1,500,000 ",12/13/2024,For Sale,Unfurnished,2004,77,Michael Asare,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00324,,Penthouse,2,2,1248," 2,566,000 ",7/28/2024,Sold,Unfurnished,2015,129,Ama Boateng,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00818,Cantonments,Townhouse,2,1.5,1389," 2,154,000 ",3/19/2024,Under Offer,Unfurnished,2019,1,Nana Yaa,(55) 120-3344,Portal,2/15/2026
+PROP-00523,East Legon,Studio,0,1,591," 364,000 ",2/11/2025,For Sale,Unfurnished,2011,165,Kofi Antwi,,Portal,10/3/2026
+PROP-00592,Spintex,Townhouse,2,1.5,1734," 885,000 ",8/28/2024,Sold,Furnished,2006,95,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00670,Dansoman,Townhouse,3,3,2089," 694,000 ",10/9/2024,For Sale,Partly Furnished,2015,157,Michael Asare,(24) 555-0182,Facebook,1/10/2026
+LIST-01073,East Legon,Townhouse,3,4,1969," 2,339,000 ",,For Sale,Furnished,2011,93,Kwame Mensah,,Portal,1/10/2026
+PROP-00694,Cantonments,Townhouse,5,4.5,2516," 2,880,000 ",2/13/2024,For Sale,Furnished,2008,58,Kwame Mensah,(24) 555-0182,WhatsApp,
+PROP-01427,East Legon,Apartment,2,2,1206," 1,809,000 ",5/29/2026,Under Offer,,2009,85,Nana Yaa,(55) 120-3344,Portal,2/15/2026
+PROP-00159,Labone,Apartment,1,1,834," 528,000 ",12/22/2025,For Sale,Unfurnished,2001,8,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00618,East Legon,Apartment,2,1.5,1286," 1,230,000 ",5/6/2024,For Sale,Furnished,,47,Kofi Antwi,,Portal,1/10/2026
+PROP-00998,Dansoman,Townhouse,3,3.5,1914," 620,000 ",3/11/2025,Under Offer,furnished,2017,50,Kwame Mensah,,Facebook,
+PROP-01104,Airport Residential,Apartment,2,2.5,1834," 2,038,000 ",7/16/2026,Under Offer,Furnished,2026,55,Nana Yaa,(20) 771-9921,Facebook,2/15/2026
+PROP-00196,Airport Residential,Townhouse,2,2,1688," 2,407,000 ",7/18/2024,Sold,Unfurnished,2004,89,Nana Yaa,(20) 771-9921,Portal,2/15/2026
+PROP-01278,Dzorwulu,Apartment,3,3,1778," 1,251,000 ",4/10/2024,Under Offer,Furnished,2015,81,Efua Addo,(24) 555-0182,Website,2/15/2026
+PROP-01388,Dansoman,Apartment,3,3,1923," 638,000 ",1/4/2025,For Sale,Unfurnished,2021,1,Daniel Owusu,(20) 771-9921,Website,10/3/2026
+PROP-00411,Dzorwulu,Apartment,1,1.5,2041," 1,317,000 ",6/13/2026,For Sale,Furnished,2024,21,Efua Addo,(24) 555-0182,Website,10/3/2026
+PROP-00097,Airport Residential,Apartment,1,1.5,892," 1,444,000 ",2/18/2025,For Sale,furnished,2000,57,Kwame Mensah,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00615,Cantonments,Apartment,0,1,899," 1,096,000 ",12/31/2024,For Sale,,2023,104,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00157,Dansoman,Studio,0,1,788," 284,000 ",5/17/2025,For Sale,Unfurnished,2008,21,Daniel Owusu,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00420,Cantonments,Townhouse,2,2,1409," 2,090,000 ",11/3/2024,Available,Partly Furnished,,71,Efua Addo,(20) 771-9921,Portal,2/15/2026
+PROP-01416,Airport Residential,Townhouse,4,5,2679," 3,025,000 ",6/7/2026,For Sale,Furnished,2001,55,Efua Addo,,Agent Upload,2/15/2026
+PROP-00478,Kasoa,Penthouse,0,1,722," 237,000 ",1/16/2025,For Sale,Unfurnished,2010,126,Ama Boateng,,Facebook,1/10/2026
+PROP-01346,Tema,Townhouse,2,1.5,1568," 910,000 ",5/12/2026,For Sale,Unfurnished,2022,51,Michael Asare,(24) 555-0182,Website,2/15/2026
+PROP-00681,East Legon,Apartment,2,2,1415," 1,461,000 ",7/28/2025,Sold,,2019,160,Ama Boateng,(24) 555-0182,,
+PROP-00988,Osu,Townhouse,3,3,2248," 1,617,000 ",1/18/2026,Sold,,2020,9,Kofi Antwi,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00448,Tema,Townhouse,3,3,1918," 720,000 ",1/10/2026,Sold,Unfurnished,2000,90,Michael Asare,(20) 771-9921,Portal,10/3/2026
+PROP-00179,Cantonments,Apartment,2,1,1325," 1,591,000 ",1/24/2024,For Sale,,2015,6,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-00391,Osu,Apartment,3,3,1683," 1,268,000 ",10/18/2024,Sold,furnished,2011,87,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-01328,East Legon,Studio,0,1,," 731,000 ",4/21/2026,Sold,furnished,2016,40,Daniel Owusu,,Website,10/3/2026
+PROP-00894,Tema,Apartment,2,2,1344," 461,000 ",6/17/2025,Available,Unfurnished,2012,17,Michael Asare,,WhatsApp,1/10/2026
+PROP-01279,Kasoa,Apartment,3,2.5,2149," 701,000 ",5/1/2025,Under Offer,Furnished,1999,89,Ama Boateng,,Facebook,2/15/2026
+PROP-01472,Spintex,Apartment,1,1,1090," 656,000 ",5/2/2024,Under Offer,Unfurnished,2011,68,Daniel Owusu,(24) 555-0182,,1/10/2026
+PROP-01074,East Legon,Studio,0,1,952," 651,000 ",11/27/2025,For Sale,Furnished,2005,24,,(20) 771-9921,Website,2/15/2026
+PROP-00669,Airport Residential,Studio,0,1,717," 629,000 ",10/29/2025,For Sale,Unfurnished,1998,16,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-01272,Airport Residential,Townhouse,3,3,1909," 2,525,000 ",2/3/2024,Under Offer,Unfurnished,,196,Daniel Owusu,(20) 771-9921,,
+PROP-01143,Spintex,Studio,0,1,382," 64,000 ",8/16/2025,Available,Unfurnished,2008,135,Kofi Antwi,(20) 771-9921,Facebook,2/15/2026
+PROP-00902,Cantonments,Townhouse,3,2,1928," 3,013,000 ",3/18/2026,For Sale,Partly Furnished,1998,47,Michael Asare,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01089,Tema,Townhouse,2,1.5,1335," 494,000 ",4/12/2024,Available,,2013,43,Daniel Owusu,(24) 555-0182,Website,
+PROP-00295,Spintex,Penthouse,3,3,2052," 1,929,000 ",5/22/2026,Sold,Furnished,2010,75,Michael Asare,(24) 555-0182,Website,10/3/2026
+PROP-00835,Spintex,Townhouse,1,1,1108," 424,000 ",11/5/2025,For Sale,Furnished,2012,1,Kwame Mensah,(20) 771-9921,Facebook,1/10/2026
+PROP-00919,Airport Residential,Townhouse,3,2.5,1944," 2,957,000 ",7/29/2024,For Sale,Unfurnished,2023,1,Kofi Antwi,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00089,Cantonments,Townhouse,4,3.5,1950," 3,017,000 ",8/30/2024,For Sale,,2019,69,Daniel Owusu,(20) 771-9921,Website,10/3/2026
+PROP-00042,Achimota,Townhouse,2,3,1530," 1,220,000 ",3/18/2026,Available,Unfurnished,2007,101,Ama Boateng,(55) 120-3344,Website,
+PROP-01327,,Studio,0,1,354," 98,000 ",12/20/2024,For Sale,,1998,74,Daniel Owusu,,Portal,2/15/2026
+PROP-00632,Cantonments,Apartment,3,4,1661," 1,856,000 ",4/17/2026,Sold,Unfurnished,2017,,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00695,Tema,Apartment,1,1,759," 367,000 ",9/25/2025,For Sale,Unfurnished,2010,1,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01429,Osu,Townhouse,0,1,585," 441,000 ",2/5/2025,For Sale,,2015,20,Kofi Antwi,,Portal,
+PROP-01443,Airport Residential,Apartment,1,1,1237," 1,649,000 ",12/6/2024,Under Offer,Unfurnished,2003,148,Michael Asare,(24) 555-0182,,2/15/2026
+PROP-01461,East Legon,Apartment,1,1,1070," 1,418,000 ",12/10/2024,For Sale,,2015,79,Ama Boateng,(20) 771-9921,Website,1/10/2026
+PROP-00291,East Legon,Apartment,2,2,1566," 1,474,000 ",1/23/2026,For Sale,,2000,1,Daniel Owusu,(55) 120-3344,WhatsApp,2/15/2026
+LIST-01102,Airport Residential,Studio,0,1,641," 418,000 ",6/8/2026,For Sale,,2011,70,Kofi Antwi,,Agent Upload,1/10/2026
+PROP-00627,East Legon,Studio,0,1,681," 446,000 ",4/21/2025,Available,Unfurnished,2000,3,Ama Boateng,,WhatsApp,1/10/2026
+PROP-00349,Spintex,Apartment,4,3.5,1931," 1,045,000 ",1/18/2025,Available,,2026,61,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-00598,East Legon,Penthouse,3,3,"2,166"," 3,340,000 ",1/28/2024,Sold,Partly Furnished,2020,149,Kofi Antwi,,Website,1/10/2026
+PROP-01454,Kasoa,Townhouse,3,3,2136," 463,000 ",3/4/2026,For Sale,Furnished,2019,28,Ama Boateng,(55) 120-3344,Facebook,1/10/2026
+PROP-01168,Airport Residential,Studio,0,1,567," 614,000 ",4/8/2025,Under Offer,Unfurnished,2019,106,Ama Boateng,,WhatsApp,2/15/2026
+PROP-00874,Cantonments,Apartment,6,6,3070," 3,351,000 ",8/4/2024,For Sale,Unfurnished,2010,167,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-00679,Tema,Apartment,5,4,2686," 888,000 ",12/23/2024,Sold,Furnished,2008,27,Michael Asare,,Portal,
+PROP-00459,Tema,Apartment,1,1.5,921," 359,000 ",11/28/2024,For Sale,Unfurnished,2009,1,Kofi Antwi,(55) 120-3344,WhatsApp,
+PROP-00376,Dzorwulu,Apartment,3,3,1841," 1,168,000 ",7/20/2024,Sold,Furnished,2005,103,Kwame Mensah,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00334,Spintex,Townhouse,1,1,815," 244,000 ",5/7/2024,For Sale,,2002,104,Nana Yaa,,Website,2/15/2026
+PROP-01313,Cantonments,Apartment,5,4,2621,,4/20/2026,Sold,Furnished,2017,66,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01362,East Legon,Apartment,2,2,1301," 1,284,000 ",3/29/2025,Under Offer,Unfurnished,2026,1,Efua Addo,(20) 771-9921,Portal,10/3/2026
+PROP-01201,East Legon,Studio,0,1,653," 388,000 ",5/31/2024,For Sale,Partly Furnished,2016,83,Kofi Antwi,(20) 771-9921,Portal,
+LIST-00182,Osu,Apartment,,2,1443," 1,038,000 ",3/29/2026,Sold,Unfurnished,,75,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01431,Dansoman,Apartment,3,4,," 543,000 ",4/9/2026,Sold,Partly Furnished,2019,67,Nana Yaa,,Agent Upload,2/15/2026
+PROP-00597,Osu,Townhouse,1,1.5,940," 779,000 ",11/6/2025,Available,furnished,2005,57,Daniel Owusu,(24) 555-0182,Website,1/10/2026
+PROP-00329,Spintex,Townhouse,2,1.5,1875," 1,204,000 ",6/16/2025,Under Offer,,2007,85,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-00319,Airport Residential,Townhouse,3,3,2030," 2,465,000 ",7/15/2024,Available,,2005,22,Ama Boateng,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01188,Adenta,Townhouse,4,4,2310," 1,284,000 ",4/16/2024,For Sale,,2025,6,Ama Boateng,(55) 120-3344,Portal,2/15/2026
+PROP-01005,Dansoman,Apartment,1,1,1053," 206,000 ",6/26/2026,Under Offer,Furnished,2017,37,,(20) 771-9921,WhatsApp,
+PROP-00013,Spintex,Townhouse,2,1.5,1379," 1,070,000 ",5/1/2026,For Sale,Furnished,1998,61,Nana Yaa,(55) 120-3344,Agent Upload,
+PROP-00172,Adenta,Townhouse,2,2,1394," 720,000 ",12/14/2024,For Sale,Unfurnished,1998,45,Nana Yaa,(24) 555-0182,Portal,2/15/2026
+PROP-00261,Airport Residential,Studio,0,1,428," 382,000 ",6/26/2024,For Sale,Unfurnished,2010,96,Daniel Owusu,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00866,Dansoman,Apartment,4,4,2744," 784,000 ",12/22/2024,For Sale,Unfurnished,1998,61,Kofi Antwi,(55) 120-3344,Portal,10/3/2026
+PROP-00908,Achimota,Apartment,4,4,2383," 1,069,000 ",8/17/2024,For Sale,Partly Furnished,2005,94,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-01495,Kasoa,Apartment,2,2,1370," 342,000 ",12/27/2024,For Sale,furnished,2017,8,Efua Addo,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00139,Achimota,Studio,0,1,," 225,000 ",6/15/2026,Sold,Unfurnished,1998,99,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-00550,Osu,Townhouse,5,5,2567," 1,971,000 ",11/22/2024,For Sale,Unfurnished,2016,62,Nana Yaa,(24) 555-0182,Facebook,2/15/2026
+PROP-01378,Achimota,Townhouse,6,5,3175," 1,400,000 ",6/28/2024,Sold,Unfurnished,2007,1,Kofi Antwi,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00893,Airport Residential,Townhouse,2,1,1675," 2,468,000 ",10/5/2024,For Sale,Partly Furnished,2023,76,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00821,East Legon,Studio,0,1,890," 1,062,000 ",10/17/2025,For Sale,Furnished,2012,1,Nana Yaa,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00559,,Apartment,2,2.5,1681," 840,000 ",3/4/2025,For Sale,Unfurnished,2015,103,Kofi Antwi,(24) 555-0182,Website,
+PROP-00140,East Legon,Apartment,3,3.5,1944," 1,945,000 ",3/9/2024,For Sale,Furnished,2009,1,Kofi Antwi,,,
+PROP-01348,Dzorwulu,Studio,0,1,484," 212,000 ",2/2/2024,For Sale,,2018,41,Efua Addo,,,10/3/2026
+PROP-01233,Adenta,Apartment,3,3.5,1758," 489,000 ",4/26/2025,For Sale,,2002,51,Nana Yaa,,Portal,1/10/2026
+PROP-00225,Osu,Townhouse,3,3,"1,771"," 1,771,000 ",1/30/2026,For Sale,Partly Furnished,2016,154,Ama Boateng,(55) 120-3344,Portal,1/10/2026
+PROP-00619,Kasoa,Apartment,2,2.5,1607," 390,000 ",11/1/2024,For Sale,Furnished,2002,59,Nana Yaa,(24) 555-0182,Facebook,
+PROP-00410,Tema,Townhouse,1,1,1007," 626,000 ",4/19/2026,Sold,,2005,87,Kofi Antwi,(20) 771-9921,,2/15/2026
+PROP-00326,Tema,Studio,0,1,351," 35,000 ",2/4/2025,For Sale,Furnished,2010,116,Efua Addo,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00300,Dzorwulu,Apartment,3,2,1738," 1,101,000 ",5/13/2024,Under Offer,Unfurnished,2012,,Efua Addo,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00941,East Legon,Studio,0,1,476," 348,000 ",8/13/2024,Available,Unfurnished,2025,173,Ama Boateng,(20) 771-9921,Facebook,2/15/2026
+PROP-01487,Airport Residential,Studio,0,1,906," 735,000 ",6/23/2024,For Sale,Unfurnished,2018,33,Kwame Mensah,(20) 771-9921,Portal,
+PROP-00707,Cantonments,Apartment,2,2.5,1415," 1,678,000 ",4/14/2024,Sold,Furnished,2006,18,Kofi Antwi,,WhatsApp,1/10/2026
+PROP-01432,,Apartment,3,3,1976," 843,000 ",7/24/2025,Under Offer,Unfurnished,2013,84,Nana Yaa,(24) 555-0182,Portal,10/3/2026
+PROP-00999,Achimota,Townhouse,1,1.5,1102," 741,000 ",12/7/2024,For Sale,,2012,13,Nana Yaa,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01227,Osu,Townhouse,2,2,1467,,4/17/2024,For Sale,Furnished,2025,217,Nana Yaa,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00574,Airport Residential,Studio,0,1,," 355,000 ",3/30/2025,Available,Unfurnished,2001,44,Nana Yaa,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00504,East Legon,Apartment,4,4.5,2533," 2,351,000 ",9/3/2025,Sold,Unfurnished,2001,67,Kwame Mensah,,Agent Upload,
+PROP-00606,Dzorwulu,Townhouse,2,2.5,1658," 1,250,000 ",3/15/2026,Under Offer,Partly Furnished,2011,92,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00803,Achimota,Penthouse,4,3.5,2283," 1,939,000 ",4/2/2024,For Sale,Unfurnished,2011,32,Michael Asare,(24) 555-0182,,1/10/2026
+PROP-00004,Airport Residential,Townhouse,2,2,1587," 2,399,000 ",5/3/2026,For Sale,furnished,2011,76,Michael Asare,(24) 555-0182,Facebook,
+PROP-00977,Tema,Studio,0,1,591," 208,000 ",1/5/2024,For Sale,Unfurnished,2011,1,Daniel Owusu,(24) 555-0182,Facebook,10/3/2026
+PROP-00468,Dansoman,Townhouse,2,2.5,1602," 815,000 ",5/17/2026,Available,Partly Furnished,2018,61,Michael Asare,,WhatsApp,1/10/2026
+PROP-00322,Adenta,Townhouse,2,1.5,1723," 834,000 ",12/5/2024,Under Offer,Partly Furnished,2011,60,Nana Yaa,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00006,Spintex,Townhouse,3,3,2052," 1,099,000 ",7/22/2026,For Sale,,2011,44,Kofi Antwi,,Website,10/3/2026
+PROP-00223,Dzorwulu,Studio,0,1,501," 337,000 ",1/9/2025,Available,,,1,Kwame Mensah,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00548,Cantonments,Penthouse,0,1,398,,5/2/2024,For Sale,Unfurnished,2023,175,Kwame Mensah,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00789,Dansoman,Apartment,0,1,350," 69,000 ",5/11/2024,For Sale,Unfurnished,2013,33,Michael Asare,(24) 555-0182,Portal,1/10/2026
+PROP-00040,Spintex,Townhouse,2,1.5,1518," 1,203,000 ",1/15/2025,Available,Unfurnished,,88,Ama Boateng,(20) 771-9921,WhatsApp,
+PROP-00543,Dzorwulu,Apartment,4,3,2008," 1,143,000 ",7/11/2025,For Sale,Partly Furnished,2004,90,Daniel Owusu,(20) 771-9921,Facebook,10/3/2026
+PROP-00243,,Apartment,1,2,770," 975,000 ",3/25/2024,For Sale,Partly Furnished,2019,123,Ama Boateng,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00137,East Legon,Apartment,3,3,1732," 1,587,000 ",3/31/2025,Available,furnished,2010,1,Michael Asare,(24) 555-0182,,1/10/2026
+PROP-01222,Dzorwulu,Townhouse,4,4,2575," 2,269,000 ",1/19/2026,For Sale,Unfurnished,2018,24,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00635,Dansoman,Townhouse,2,2,1149," 424,000 ",4/23/2026,Available,Unfurnished,2025,114,Michael Asare,(20) 771-9921,WhatsApp,10/3/2026
+LIST-00615,Cantonments,Apartment,0,1,899," 1,096,000 ",12/31/2024,For Sale,Unfurnished,2023,104,Kwame Mensah,(24) 555-0182,,1/10/2026
+PROP-00712,East Legon,Apartment,1,1,1171," 1,135,000 ",8/21/2024,Sold,,1998,1,Daniel Owusu,(24) 555-0182,Facebook,2/15/2026
+PROP-01098,Kasoa,Studio,0,1,796," 44,000 ",3/17/2025,Under Offer,Unfurnished,2009,,Kofi Antwi,(20) 771-9921,Portal,
+PROP-00793,Airport Residential,Townhouse,2,1.5,1263," 1,574,000 ",12/12/2024,Under Offer,Furnished,2024,30,Nana Yaa,(55) 120-3344,WhatsApp,
+PROP-01407,Kasoa,Penthouse,3,3.5,1909," 1,051,000 ",9/20/2025,Under Offer,furnished,2012,32,Kofi Antwi,(24) 555-0182,Website,
+PROP-00582,Osu,Apartment,2,1.5,1228," 816,000 ",2/19/2025,For Sale,Furnished,2018,110,Kofi Antwi,(20) 771-9921,Agent Upload,10/3/2026
+LIST-01378,Achimota,Townhouse,6,5,3175,,6/28/2024,Sold,Unfurnished,2007,1,Kofi Antwi,(55) 120-3344,WhatsApp,2/15/2026
+PROP-01499,Osu,Apartment,4,4,2292," 1,571,000 ",3/20/2024,For Sale,Unfurnished,2000,147,Ama Boateng,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01430,Cantonments,Townhouse,3,2.5,1960," 3,422,000 ",1/27/2026,For Sale,Unfurnished,2012,184,Nana Yaa,,Agent Upload,2/15/2026
+PROP-00377,Labone,Townhouse,2,2.5,1501," 1,712,000 ",3/13/2025,For Sale,Unfurnished,2020,67,Daniel Owusu,,Portal,10/3/2026
+PROP-00315,Dzorwulu,Apartment,1,1,785," 511,000 ",3/17/2025,For Sale,Unfurnished,2016,1,,(24) 555-0182,,1/10/2026
+PROP-00443,Spintex,Apartment,3,3,2311," 1,349,000 ",12/25/2025,For Sale,,2025,46,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00320,Adenta,Townhouse,5,5.5,"2,731"," 1,254,000 ",10/21/2024,For Sale,Unfurnished,2002,104,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01035,Dansoman,Studio,0,1,531," 98,000 ",6/30/2024,For Sale,,2019,44,Kwame Mensah,(24) 555-0182,Agent Upload,
+PROP-00837,Labone,Apartment,2,1.5,1437," 1,007,000 ",4/1/2025,For Sale,Furnished,2008,1,Michael Asare,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01165,Dansoman,Townhouse,2,2,1712," 1,041,000 ",9/6/2025,Sold,Furnished,2025,100,Nana Yaa,(20) 771-9921,Facebook,
+PROP-00425,Osu,Apartment,2,2,1370," 1,042,000 ",2/19/2024,For Sale,Furnished,2008,43,Daniel Owusu,,Website,1/10/2026
+PROP-00554,East Legon,Studio,0,1,824," 562,000 ",8/18/2025,Sold,Partly Furnished,2010,111,Ama Boateng,(55) 120-3344,Website,
+PROP-00595,Spintex,Apartment,1,2,991," 475,000 ",2/5/2026,Available,furnished,2020,59,Daniel Owusu,,Website,1/10/2026
+PROP-00945,Cantonments,Studio,0,1,916," 735,000 ",6/4/2024,Sold,Unfurnished,2022,113,Nana Yaa,,Portal,2/15/2026
+PROP-01335,Achimota,Townhouse,1,1,1179," 722,000 ",9/10/2025,For Sale,Furnished,2002,47,Kwame Mensah,(24) 555-0182,Portal,10/3/2026
+PROP-00812,Tema,Apartment,2,2.5,1369," 507,000 ",11/27/2024,For Sale,Furnished,2003,1,Ama Boateng,,Website,
+PROP-01254,Labone,Townhouse,4,4.5,2407," 3,054,000 ",5/30/2026,For Sale,Unfurnished,2022,16,Ama Boateng,(24) 555-0182,,2/15/2026
+PROP-00922,Dansoman,Townhouse,2,2,"1,554"," 548,000 ",1/31/2026,Under Offer,Unfurnished,2006,43,Michael Asare,(55) 120-3344,Portal,1/10/2026
+PROP-00228,Airport Residential,Townhouse,5,3.5,2981," 4,178,000 ",1/18/2025,For Sale,Unfurnished,2004,37,Nana Yaa,(20) 771-9921,Portal,
+PROP-01300,Achimota,Apartment,2,2,1301," 724,000 ",11/8/2025,For Sale,Unfurnished,2025,71,Efua Addo,,Website,2/15/2026
+PROP-00856,Tema,Penthouse,3,3.5,1986," 1,089,000 ",2/18/2025,For Sale,Unfurnished,1999,108,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-01028,Spintex,Townhouse,0,1,594,,5/20/2024,Under Offer,Unfurnished,2017,1,Michael Asare,(24) 555-0182,WhatsApp,
+PROP-00725,Osu,Apartment,2,2,1289," 960,000 ",3/10/2025,For Sale,Unfurnished,2010,78,Michael Asare,(24) 555-0182,Portal,10/3/2026
+PROP-00067,East Legon,Apartment,2,1.5,1259," 1,355,000 ",12/2/2025,For Sale,Partly Furnished,2006,144,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00394,Dansoman,,2,2,1642," 875,000 ",3/11/2024,For Sale,Furnished,2020,53,Nana Yaa,(24) 555-0182,Facebook,1/10/2026
+PROP-00580,Spintex,Townhouse,3,3,1796," 1,180,000 ",9/6/2024,Under Offer,Unfurnished,2018,67,Nana Yaa,(20) 771-9921,Website,1/10/2026
+PROP-00025,Dzorwulu,Apartment,4,3.5,2411," 1,456,000 ",1/31/2026,Available,Furnished,2007,84,Michael Asare,(55) 120-3344,Facebook,10/3/2026
+PROP-00212,Spintex,Apartment,1,1.5,1072," 546,000 ",7/3/2026,Sold,Unfurnished,2004,46,Kofi Antwi,,Website,1/10/2026
+PROP-01194,Achimota,Studio,0,1,," 332,000 ",9/26/2025,For Sale,,2024,62,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00825,East Legon,Apartment,3,3,2126," 2,191,000 ",9/18/2025,For Sale,Unfurnished,2025,162,Nana Yaa,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00537,Airport Residential,Penthouse,3,2.5,1995," 3,145,000 ",1/22/2024,For Sale,Unfurnished,2024,6,Daniel Owusu,,Facebook,1/10/2026
+PROP-00963,Spintex,Apartment,2,1.5,1162," 656,000 ",10/13/2024,For Sale,Unfurnished,2004,1,Kwame Mensah,(55) 120-3344,Website,10/3/2026
+PROP-01133,Airport Residential,Apartment,1,1,1251," 1,254,000 ",9/22/2024,For Sale,Furnished,2005,81,Efua Addo,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00086,Osu,Studio,0,1,563," 368,000 ",11/9/2025,For Sale,,1999,151,Daniel Owusu,(20) 771-9921,,
+PROP-01481,Osu,Studio,0,1,1062," 499,000 ",7/31/2024,Under Offer,Furnished,2022,162,Michael Asare,,Portal,10/3/2026
+PROP-00273,East Legon,Apartment,2,2.5,1629," 1,796,000 ",9/14/2024,Under Offer,Furnished,2009,104,Kwame Mensah,(24) 555-0182,Website,2/15/2026
+PROP-00968,Adenta,Penthouse,2,2,," 733,000 ",6/1/2024,For Sale,Partly Furnished,,132,Ama Boateng,,Website,
+PROP-00744,East Legon,Apartment,1,1,1109," 1,500,000 ",10/30/2025,Under Offer,Unfurnished,2016,146,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-01392,East Legon,Studio,0,1,722," 788,000 ",12/21/2024,For Sale,,1998,127,Efua Addo,(20) 771-9921,Website,10/3/2026
+PROP-00631,Dansoman,Apartment,3,4,1808," 547,000 ",2/21/2024,Under Offer,Unfurnished,2005,137,Kwame Mensah,(20) 771-9921,Facebook,2/15/2026
+PROP-01387,Tema,Apartment,4,3,2450," 783,000 ",2/7/2024,For Sale,Furnished,2008,54,Kofi Antwi,(24) 555-0182,Portal,2/15/2026
+PROP-01441,Cantonments,Penthouse,1,1,1008," 1,998,000 ",11/8/2025,For Sale,Unfurnished,1999,64,Daniel Owusu,(20) 771-9921,Website,10/3/2026
+PROP-00506,Osu,Townhouse,0,1,674," 789,000 ",11/11/2025,For Sale,Unfurnished,2004,72,Kwame Mensah,,Agent Upload,2/15/2026
+PROP-00274,Cantonments,Townhouse,0,1,519," 21,117,150 ",4/19/2025,For Sale,Furnished,2000,1,Daniel Owusu,,Portal,
+PROP-00760,Tema,Apartment,4,4,2237," 1,017,000 ",3/21/2026,For Sale,Furnished,2017,150,Kofi Antwi,(24) 555-0182,,
+PROP-00363,Tema,Penthouse,4,3.5,2157," 1,870,000 ",3/7/2024,Sold,Unfurnished,2017,81,Kwame Mensah,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00623,Tema,Studio,0,1,760," 483,000 ",10/25/2024,For Sale,,2016,101,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-00003,Airport Residential,Studio,0,1,1035," 1,357,000 ",12/17/2024,Under Offer,Furnished,2024,103,Ama Boateng,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00007,Airport Residential,Apartment,2,2,1413," 1,577,000 ",9/23/2025,For Sale,Furnished,2026,52,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00312,Dansoman,Townhouse,4,4.5,2460," 919,000 ",6/6/2024,Available,Unfurnished,2019,34,Michael Asare,,Portal,10/3/2026
+PROP-01030,Osu,Townhouse,2,2,1572," 1,773,000 ",1/11/2024,For Sale,furnished,2023,225,Efua Addo,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00666,Tema,Townhouse,1,1,870," 594,000 ",12/31/2024,Available,Furnished,2005,10,Nana Yaa,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00991,Spintex,Studio,0,1,786," 322,000 ",5/23/2025,Available,Furnished,2016,15,Nana Yaa,(24) 555-0182,Website,1/10/2026
+LIST-01104,,Apartment,2,2.5,1834," 2,038,000 ",7/16/2026,Under Offer,Furnished,2026,55,Nana Yaa,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00216,Osu,Apartment,1,1.5,1092," 722,000 ",3/27/2025,Under Offer,Unfurnished,2015,70,Ama Boateng,(55) 120-3344,Website,2/15/2026
+PROP-01453,Achimota,Apartment,4,3,2281," 1,192,000 ",2/23/2025,Sold,,2004,1,Nana Yaa,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00028,Achimota,Townhouse,3,3,1697," 1,228,000 ",6/23/2026,Available,Furnished,2016,73,Michael Asare,(55) 120-3344,Facebook,2/15/2026
+PROP-01121,Kasoa,Apartment,2,1.5,1195," 216,000 ",3/12/2024,Available,,2011,1,Ama Boateng,(20) 771-9921,,
+PROP-00915,Kasoa,Studio,0,1,823," 147,000 ",1/4/2025,Sold,Unfurnished,2023,179,Daniel Owusu,(24) 555-0182,Facebook,
+PROP-00713,Spintex,Townhouse,5,5,2604," 1,819,000 ",4/10/2024,For Sale,,1998,1,Daniel Owusu,(20) 771-9921,Portal,1/10/2026
+PROP-00639,,Townhouse,5,4,2691," 3,163,000 ",10/31/2025,For Sale,Furnished,2015,34,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-01139,Dzorwulu,Apartment,1,1.5,959," 428,000 ",6/8/2025,For Sale,Furnished,2015,39,Kofi Antwi,(24) 555-0182,,
+PROP-00692,Kasoa,Apartment,3,2,," 694,000 ",4/30/2026,For Sale,Unfurnished,2025,22,,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01050,Tema,Penthouse,1,1,," 812,000 ",3/21/2025,Sold,Unfurnished,2010,60,Kofi Antwi,(24) 555-0182,Website,1/10/2026
+PROP-00625,Achimota,Townhouse,1,2,916," 519,000 ",4/1/2025,For Sale,Unfurnished,1999,84,Daniel Owusu,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01146,Cantonments,Apartment,4,4.5,2365," 2,548,000 ",12/17/2024,For Sale,Unfurnished,2008,90,Kofi Antwi,,Facebook,10/3/2026
+PROP-00257,Adenta,Townhouse,,3,1949," 1,066,000 ",8/20/2024,For Sale,Unfurnished,2002,66,Daniel Owusu,,Website,
+PROP-00026,Spintex,Townhouse,4,4,"2,361"," 1,542,000 ",6/5/2024,For Sale,Unfurnished,2001,1,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-00337,Spintex,Apartment,2,1,1231," 605,000 ",10/26/2024,Under Offer,Unfurnished,2010,111,Efua Addo,(20) 771-9921,Portal,
+PROP-00573,Airport Residential,Studio,0,1,578," 459,000 ",11/16/2024,For Sale,Furnished,1998,115,Daniel Owusu,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00048,Achimota,Apartment,2,2.5,1559," 765,000 ",10/16/2025,Sold,Unfurnished,2017,86,Nana Yaa,,WhatsApp,10/3/2026
+PROP-00107,Spintex,Townhouse,5,4.5,2607," 1,773,000 ",7/2/2024,Under Offer,Partly Furnished,2004,155,Kofi Antwi,(20) 771-9921,Facebook,2/15/2026
+PROP-00350,Dansoman,Apartment,3,3.5,2064," 679,000 ",6/23/2024,Under Offer,Furnished,2018,49,Kofi Antwi,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00056,Cantonments,Studio,0,1,381," 387,000 ",8/29/2025,For Sale,Unfurnished,2009,182,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-01178,Spintex,Apartment,2,2.5,1542," 842,000 ",11/24/2024,For Sale,Furnished,2014,145,Daniel Owusu,(20) 771-9921,Website,
+PROP-00214,Labone,Apartment,2,2,," 1,273,000 ",6/6/2025,Available,Unfurnished,2010,28,Kwame Mensah,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00121,Dansoman,Apartment,2,2,1702," 521,000 ",5/25/2024,For Sale,Unfurnished,2008,42,Ama Boateng,(24) 555-0182,Facebook,
+PROP-00918,East Legon,Townhouse,5,5,2855," 3,966,000 ",,Available,Unfurnished,2013,95,Michael Asare,(20) 771-9921,Portal,
+PROP-01158,East Legon,Townhouse,3,3.5,2190," 2,423,000 ",10/24/2024,For Sale,Unfurnished,2012,68,Michael Asare,(20) 771-9921,Facebook,
+PROP-00073,Dzorwulu,Townhouse,1,1.5,"1,009"," 846,000 ",12/24/2024,Sold,Unfurnished,2026,166,Kofi Antwi,(55) 120-3344,Agent Upload,2/15/2026
+PROP-01169,Achimota,Apartment,0,1,507," 213,000 ",6/15/2026,For Sale,Partly Furnished,2011,1,Kofi Antwi,(24) 555-0182,Facebook,
+PROP-00758,East Legon,Townhouse,4,4.5,2528," 3,546,000 ",2/21/2025,Sold,Unfurnished,2009,91,Nana Yaa,,Website,10/3/2026
+PROP-00046,Dansoman,Apartment,2,2.5,1513," 518,000 ",5/22/2026,For Sale,Furnished,2022,156,Ama Boateng,,Facebook,10/3/2026
+PROP-01302,East Legon,Studio,0,1,535," 478,000 ",4/5/2025,Under Offer,Unfurnished,2005,159,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00524,East Legon,Apartment,1,1,1096," 1,234,000 ",6/24/2024,For Sale,Furnished,2016,149,Nana Yaa,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00917,Tema,Studio,0,1,466,,7/26/2024,Sold,furnished,2007,40,Kofi Antwi,(55) 120-3344,Website,1/10/2026
+PROP-01180,Dansoman,Penthouse,2,2.5,1521," 1,359,000 ",,For Sale,Unfurnished,2024,35,Kwame Mensah,(20) 771-9921,Facebook,2/15/2026
+PROP-01112,Spintex,Studio,0,1,928," 370,000 ",1/29/2026,For Sale,Unfurnished,2026,73,Efua Addo,(20) 771-9921,Facebook,1/10/2026
+PROP-00839,East Legon,Townhouse,3,3,2013," 2,377,000 ",8/4/2026,For Sale,Unfurnished,1999,1,Kwame Mensah,(24) 555-0182,Facebook,2/15/2026
+PROP-00534,Dzorwulu,Townhouse,3,2.5,1856," 1,793,000 ",2/1/2025,For Sale,Partly Furnished,2018,33,Kofi Antwi,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01170,,Townhouse,5,4,2413," 1,083,000 ",11/11/2024,For Sale,Unfurnished,2005,1,Efua Addo,(24) 555-0182,Website,
+PROP-00604,Tema,,2,1,1853," 680,000 ",4/30/2025,Available,Furnished,1999,77,Efua Addo,(24) 555-0182,Website,2/15/2026
+PROP-00466,Labone,Apartment,1,1.5,901," 723,000 ",6/24/2025,Sold,,2024,37,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-01126,Achimota,Townhouse,2,1.5,1321," 839,000 ",5/20/2025,For Sale,Unfurnished,2001,194,Michael Asare,(55) 120-3344,Agent Upload,1/10/2026
+PROP-01316,Tema,Studio,0,1,443," 325,000 ",8/28/2024,Available,Furnished,2022,97,Nana Yaa,(55) 120-3344,Facebook,10/3/2026
+PROP-00820,Labone,Apartment,4,3,2400," 2,120,000 ",7/20/2024,Available,Furnished,2004,120,Ama Boateng,(24) 555-0182,,10/3/2026
+PROP-01000,Cantonments,Apartment,3,3,1854," 2,146,000 ",5/8/2026,For Sale,Furnished,2004,114,Nana Yaa,,Agent Upload,1/10/2026
+PROP-00061,East Legon,Studio,0,1,476," 268,000 ",5/5/2025,For Sale,Furnished,2005,131,Kwame Mensah,(55) 120-3344,Portal,10/3/2026
+PROP-00953,Adenta,Apartment,2,2,1499," 575,000 ",11/1/2025,For Sale,Unfurnished,2018,56,Daniel Owusu,(20) 771-9921,Agent Upload,2/15/2026
+PROP-00093,Achimota,Penthouse,1,1,1028," 467,000 ",5/26/2024,For Sale,Unfurnished,2025,142,Michael Asare,(24) 555-0182,Website,10/3/2026
+PROP-00667,East Legon,,4,5,2290,,1/13/2025,For Sale,,2017,50,Kofi Antwi,(55) 120-3344,,1/10/2026
+PROP-00742,Airport Residential,Apartment,2,1.5,1604," 1,841,000 ",3/8/2026,For Sale,Unfurnished,2005,49,Nana Yaa,(55) 120-3344,WhatsApp,
+PROP-00195,Cantonments,Apartment,3,3,1984,,1/18/2025,For Sale,,1998,119,Ama Boateng,(24) 555-0182,Website,10/3/2026
+PROP-00281,,Apartment,4,2,2322," 1,252,000 ",1/25/2026,Sold,Unfurnished,2022,129,Efua Addo,,Website,1/10/2026
+PROP-00696,East Legon,Apartment,1,1.5,869," 684,000 ",7/11/2026,For Sale,Unfurnished,2007,111,Kofi Antwi,(24) 555-0182,Portal,10/3/2026
+PROP-00360,East Legon,Townhouse,3,2.5,1542," 2,042,000 ",,Under Offer,,1999,1,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-00520,East Legon,Apartment,2,2.5,1553," 1,528,000 ",12/23/2024,For Sale,Unfurnished,2022,109,Daniel Owusu,(20) 771-9921,Portal,
+PROP-01235,,Townhouse,2,2,," 2,664,000 ",3/13/2024,Under Offer,Unfurnished,2020,95,Ama Boateng,(55) 120-3344,Website,
+PROP-00810,Kasoa,Penthouse,2,2,1572," 528,000 ",8/23/2024,Under Offer,Unfurnished,2026,138,Kwame Mensah,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00183,Spintex,Townhouse,1,1,1467," 959,000 ",2/21/2026,Under Offer,Furnished,2012,75,Kofi Antwi,(20) 771-9921,Agent Upload,1/10/2026
+PROP-01055,Tema,Townhouse,4,4,2264," 1,181,000 ",10/29/2025,Sold,Unfurnished,2019,,Efua Addo,,Facebook,10/3/2026
+PROP-00111,East Legon,Townhouse,4,4.5,2340," 2,230,000 ",11/10/2024,Sold,Unfurnished,,68,Daniel Owusu,(24) 555-0182,Portal,1/10/2026
+PROP-00043,Cantonments,Penthouse,2,2,1685," 3,149,000 ",11/13/2024,Under Offer,Furnished,2014,53,Daniel Owusu,,Agent Upload,10/3/2026
+PROP-00747,Tema,Townhouse,3,,2132," 1,082,000 ",7/3/2026,Under Offer,Partly Furnished,2018,73,Daniel Owusu,,Portal,2/15/2026
+PROP-00967,Labone,Apartment,3,2,1878," 1,536,000 ",10/30/2025,Under Offer,,2025,99,Ama Boateng,(24) 555-0182,,1/10/2026
+PROP-00205,Tema,,2,2,1200," 682,000 ",12/19/2025,For Sale,Furnished,2017,1,Ama Boateng,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01051,Cantonments,Townhouse,1,1.5,739," 1,230,000 ",7/4/2024,Under Offer,,2013,37,Daniel Owusu,,Agent Upload,
+PROP-00053,Osu,Townhouse,1,1,1167," 23,105,871 ",2/5/2024,Sold,Furnished,2004,1,Kwame Mensah,,Website,10/3/2026
+PROP-00546,East Legon,Apartment,1,1.5,889," 952,000 ",3/17/2025,For Sale,,2006,104,Kwame Mensah,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00069,Dzorwulu,Townhouse,3,2.5,1684," 1,565,000 ",3/5/2026,For Sale,Unfurnished,2026,63,Michael Asare,,Portal,2/15/2026
+PROP-01002,Cantonments,Townhouse,2,3,1606," 2,274,000 ",6/19/2024,For Sale,Unfurnished,2018,29,Efua Addo,(24) 555-0182,WhatsApp,
+PROP-00904,,Apartment,2,2,1318," 783,000 ",,Available,Unfurnished,2002,85,Daniel Owusu,(24) 555-0182,Agent Upload,
+PROP-00794,Tema,Studio,0,1,445," 128,000 ",3/19/2024,Available,,2007,65,Efua Addo,,Portal,2/15/2026
+PROP-00184,Dzorwulu,Apartment,2,2,1716," 1,106,000 ",6/12/2026,For Sale,Unfurnished,2026,51,Daniel Owusu,(55) 120-3344,Facebook,10/3/2026
+PROP-00138,Osu,Townhouse,4,3,2320," 2,281,000 ",6/14/2024,For Sale,Unfurnished,2026,1,Ama Boateng,(24) 555-0182,Agent Upload,
+PROP-01024,Adenta,Townhouse,4,3,2426," 1,248,000 ",6/14/2026,Sold,Furnished,2023,101,Nana Yaa,(55) 120-3344,Portal,1/10/2026
+PROP-00081,Osu,Apartment,1,1.5,1366," 1,008,000 ",6/10/2025,For Sale,Furnished,,6,Ama Boateng,(24) 555-0182,Facebook,
+PROP-01343,Labone,Studio,0,1,760," 623,000 ",2/6/2025,For Sale,Furnished,2015,113,Kofi Antwi,(20) 771-9921,Facebook,2/15/2026
+PROP-00106,Tema,Penthouse,2,2,1584," 1,361,000 ",5/19/2026,Under Offer,Furnished,2022,100,Efua Addo,,Portal,2/15/2026
+PROP-01198,Tema,Townhouse,2,2,1138," 606,000 ",4/27/2024,For Sale,Furnished,2015,63,Efua Addo,,Website,10/3/2026
+PROP-00542,Tema,Townhouse,4,4,2284," 1,229,000 ",9/14/2024,Sold,Unfurnished,2008,85,Michael Asare,(55) 120-3344,Website,10/3/2026
+PROP-00778,Dzorwulu,Townhouse,2,1.5,1401," 954,000 ",5/20/2025,For Sale,Furnished,2000,55,Efua Addo,,Portal,2/15/2026
+PROP-00481,,Townhouse,4,4.5,2205," 720,000 ",7/9/2026,For Sale,Unfurnished,2009,112,Kwame Mensah,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00166,Osu,Townhouse,2,2,1645," 1,484,000 ",7/17/2025,Sold,Furnished,2022,47,Kwame Mensah,(24) 555-0182,Facebook,10/3/2026
+PROP-00249,Achimota,Studio,0,1,494," 230,000 ",9/26/2024,Sold,Unfurnished,2022,1,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00308,Cantonments,Townhouse,1,1,1125," 2,042,000 ",2/5/2024,For Sale,Furnished,2017,81,Efua Addo,,Website,1/10/2026
+PROP-00447,Labone,Townhouse,3,3,2006," 1,689,000 ",2/10/2024,Under Offer,Unfurnished,2018,135,Michael Asare,(24) 555-0182,Agent Upload,
+PROP-00786,Spintex,Studio,0,1,558," 408,000 ",12/1/2024,Available,Unfurnished,2010,82,Ama Boateng,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00335,Dansoman,Townhouse,1,1,1028," 220,000 ",11/18/2024,Available,Unfurnished,2018,12,Efua Addo,,WhatsApp,2/15/2026
+PROP-00098,Airport Residential,Apartment,4,4,2206," 2,576,000 ",6/2/2025,Under Offer,Unfurnished,2021,60,Daniel Owusu,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00859,Dzorwulu,Townhouse,2,3,1392," 1,049,000 ",10/12/2024,For Sale,Unfurnished,2022,98,,(20) 771-9921,Facebook,2/15/2026
+PROP-00738,Spintex,Studio,0,1,559," 194,000 ",2/24/2024,For Sale,Unfurnished,2026,49,Efua Addo,(55) 120-3344,Website,2/15/2026
+PROP-00926,Airport Residential,Apartment,1,1,1113," 1,174,000 ",12/19/2025,Sold,Furnished,2014,62,Kwame Mensah,,Agent Upload,1/10/2026
+PROP-00883,Cantonments,Penthouse,3,3,," 3,591,000 ",5/31/2026,For Sale,Unfurnished,2004,96,Efua Addo,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00995,Adenta,Studio,0,1,473," 159,000 ",11/1/2024,For Sale,Partly Furnished,2001,130,Ama Boateng,(20) 771-9921,,2/15/2026
+PROP-00103,East Legon,Apartment,4,4.5,2304," 2,325,000 ",3/28/2025,For Sale,,2022,55,Kwame Mensah,(20) 771-9921,Facebook,
+PROP-00435,,Studio,0,1,724," 358,000 ",6/12/2024,For Sale,Furnished,2018,32,Nana Yaa,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00075,Labone,Studio,0,1,665," 386,000 ",7/10/2024,For Sale,Unfurnished,2011,1,Nana Yaa,(20) 771-9921,Portal,2/15/2026
+PROP-01382,,Apartment,3,3,1475," 613,000 ",3/14/2025,For Sale,Unfurnished,2007,118,Kofi Antwi,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00925,East Legon,Apartment,4,4,2143," 2,133,000 ",8/31/2024,For Sale,Unfurnished,2000,39,Kwame Mensah,(24) 555-0182,Website,
+PROP-01401,Dansoman,Penthouse,4,4,2310," 1,240,000 ",7/7/2025,For Sale,Partly Furnished,2024,1,Kofi Antwi,(20) 771-9921,Portal,1/10/2026
+PROP-00303,East Legon,Apartment,1,1.5,1139," 941,000 ",8/7/2025,Sold,furnished,2013,63,Michael Asare,(20) 771-9921,Portal,1/10/2026
+PROP-01332,Dansoman,Apartment,4,3,2391," 774,000 ",12/20/2025,For Sale,Partly Furnished,2016,18,Michael Asare,(55) 120-3344,Facebook,
+PROP-01301,Airport Residential,Townhouse,2,2,1625," 2,399,000 ",9/10/2025,For Sale,Unfurnished,2022,38,Michael Asare,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01260,Cantonments,Studio,0,1,605," 413,000 ",3/21/2025,For Sale,Unfurnished,2001,107,Michael Asare,(24) 555-0182,Portal,1/10/2026
+PROP-00763,Labone,Studio,0,1,751," 616,000 ",5/27/2024,Sold,Unfurnished,2002,124,Michael Asare,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00734,Osu,Townhouse,6,5.5,2952," 2,021,000 ",4/14/2025,Under Offer,furnished,2009,,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00389,Tema,Apartment,1,1,1135," 351,000 ",9/16/2024,Under Offer,Furnished,2008,9,Kofi Antwi,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00236,Adenta,Apartment,1,1.5,1258," 403,000 ",7/9/2024,Sold,furnished,1999,,Daniel Owusu,(24) 555-0182,Portal,
+PROP-01365,Tema,Townhouse,4,4,1884," 721,000 ",1/27/2025,Under Offer,furnished,,,Efua Addo,(24) 555-0182,Website,10/3/2026
+PROP-00268,East Legon,Apartment,3,3.5,," 1,860,000 ",8/20/2024,Available,furnished,2003,61,Ama Boateng,(55) 120-3344,Website,2/15/2026
+PROP-00306,Cantonments,Apartment,4,3.5,2350," 2,624,000 ",9/15/2024,For Sale,Unfurnished,2013,60,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00990,Tema,Apartment,2,1.5,1493," 521,000 ",3/25/2024,For Sale,Unfurnished,2016,140,Michael Asare,,Portal,2/15/2026
+PROP-00118,East Legon,Studio,0,1,447," 416,000 ",5/1/2024,Under Offer,Unfurnished,2010,138,Kwame Mensah,,Portal,2/15/2026
+PROP-01248,Airport Residential,Apartment,1,1,746," 788,000 ",1/24/2024,For Sale,Furnished,1998,66,Kwame Mensah,(55) 120-3344,Facebook,
+PROP-00674,Spintex,Apartment,3,3.5,1768," 1,064,000 ",2/22/2025,Sold,Furnished,2015,66,,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00250,East Legon,Studio,0,1,562," 538,000 ",6/14/2024,Available,Unfurnished,,69,Efua Addo,(24) 555-0182,Agent Upload,
+PROP-01221,Osu,Studio,0,1,618," 365,000 ",7/7/2024,Available,Furnished,2016,93,Nana Yaa,,WhatsApp,
+PROP-01107,Airport Residential,Townhouse,2,2,"1,406"," 1,320,000 ",7/15/2024,For Sale,Unfurnished,2024,135,Michael Asare,(24) 555-0182,Facebook,
+PROP-00072,Airport Residential,Townhouse,3,3.5,1888," 3,075,000 ",6/21/2026,Available,Furnished,2024,91,Efua Addo,,,10/3/2026
+PROP-00095,Spintex,Townhouse,3,4,2194," 1,262,000 ",7/16/2026,For Sale,Unfurnished,2001,138,Nana Yaa,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01373,Cantonments,Apartment,2,2.5,1453," 1,706,000 ",9/22/2025,For Sale,furnished,2024,122,Nana Yaa,(20) 771-9921,Website,10/3/2026
+PROP-00034,Achimota,Apartment,2,2,1584," 748,000 ",1/6/2025,Sold,Unfurnished,2011,1,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00800,Airport Residential,Studio,0,1,576," 500,000 ",9/27/2024,Available,Unfurnished,2013,8,Nana Yaa,(55) 120-3344,Facebook,
+LIST-00341,East Legon,Apartment,2,2,," 1,486,000 ",9/6/2025,Sold,Furnished,2009,,Ama Boateng,,Facebook,1/10/2026
+PROP-00449,,Apartment,4,4,," 1,635,000 ",4/20/2026,For Sale,Furnished,2011,116,Daniel Owusu,(24) 555-0182,Facebook,2/15/2026
+PROP-00446,East Legon,Apartment,1,1,856,,9/5/2024,Under Offer,Unfurnished,2023,57,Nana Yaa,(24) 555-0182,Portal,1/10/2026
+PROP-00772,Tema,Studio,0,1,350," 35,000 ",1/6/2024,Under Offer,Furnished,1998,155,Kofi Antwi,,Facebook,
+PROP-00717,Cantonments,Penthouse,1,1,1016," 2,318,000 ",1/24/2026,Under Offer,Furnished,2003,69,Kofi Antwi,(20) 771-9921,Facebook,
+PROP-01151,Kasoa,Townhouse,1,1,1118," 364,000 ",9/14/2025,For Sale,Unfurnished,2006,152,Michael Asare,,Website,1/10/2026
+PROP-01177,Tema,Townhouse,3,3,2200," 1,034,000 ",1/10/2025,Available,Unfurnished,2000,63,Daniel Owusu,(24) 555-0182,Facebook,1/10/2026
+PROP-01351,,Studio,0,1,491," 491,000 ",4/15/2024,Available,,2016,99,Kwame Mensah,(55) 120-3344,Facebook,10/3/2026
+PROP-01062,Adenta,Apartment,3,4,1930," 680,000 ",5/3/2026,Under Offer,Unfurnished,2002,68,Kwame Mensah,(20) 771-9921,Facebook,
+PROP-00078,Airport Residential,Penthouse,3,3.5,1633," 3,421,000 ",2/11/2024,For Sale,Unfurnished,2005,61,Daniel Owusu,(24) 555-0182,Website,2/15/2026
+PROP-00085,Cantonments,Townhouse,2,1.5,1569," 1,882,000 ",11/21/2024,For Sale,Unfurnished,2013,82,Michael Asare,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01299,Osu,Apartment,3,3.5,1975," 1,426,000 ",9/28/2024,For Sale,Furnished,2011,103,Kofi Antwi,,Portal,10/3/2026
+PROP-00083,Airport Residential,Studio,0,1,562," 634,000 ",12/14/2025,Under Offer,Unfurnished,1999,92,Ama Boateng,(20) 771-9921,Facebook,10/3/2026
+PROP-00458,Tema,Apartment,3,3.5,1931," 551,000 ",9/5/2025,For Sale,Unfurnished,2001,65,Efua Addo,(24) 555-0182,Facebook,
+PROP-00971,Cantonments,Apartment,2,1.5,1650," 1,934,000 ",9/6/2024,Available,Furnished,2024,1,Ama Boateng,(24) 555-0182,Website,10/3/2026
+PROP-00677,Labone,Apartment,2,2,1642," 1,549,000 ",5/17/2025,For Sale,Furnished,2022,29,Kofi Antwi,(55) 120-3344,Facebook,
+PROP-01485,Dzorwulu,Apartment,0,1,750," 535,000 ",5/8/2024,For Sale,Partly Furnished,2015,4,Daniel Owusu,,Facebook,1/10/2026
+PROP-01350,Dzorwulu,Apartment,1,1.5,1288," 1,033,000 ",10/21/2024,Sold,Unfurnished,1998,100,Daniel Owusu,(24) 555-0182,Portal,10/3/2026
+PROP-00437,East Legon,Apartment,1,1,886," 747,000 ",4/1/2025,Sold,,2010,127,Kwame Mensah,(24) 555-0182,Portal,10/3/2026
+PROP-00771,,Apartment,4,4,2034," 1,625,000 ",6/17/2026,Under Offer,Furnished,1998,75,Kwame Mensah,(24) 555-0182,Portal,1/10/2026
+PROP-00645,Osu,Townhouse,2,1.5,1565," 1,178,000 ",2/28/2026,For Sale,Furnished,2004,52,Nana Yaa,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00909,Kasoa,Apartment,3,,2161," 576,000 ",12/25/2025,For Sale,Unfurnished,2011,,Ama Boateng,(55) 120-3344,Facebook,10/3/2026
+PROP-01115,Dansoman,Townhouse,3,3.5,1778," 706,000 ",3/4/2025,For Sale,Unfurnished,2023,101,Daniel Owusu,(20) 771-9921,Website,1/10/2026
+PROP-01229,Airport Residential,Townhouse,3,3.5,2172," 2,939,000 ",1/10/2026,For Sale,Unfurnished,2023,92,Ama Boateng,,Agent Upload,2/15/2026
+PROP-01152,Labone,Studio,0,1,653," 592,000 ",6/30/2025,Sold,Furnished,2007,28,Daniel Owusu,(20) 771-9921,Portal,2/15/2026
+PROP-00405,Tema,Apartment,4,3,1835," 625,000 ",4/14/2026,Available,Unfurnished,1998,50,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-01342,Airport Residential,Apartment,2,1.5,1243," 1,465,000 ",7/17/2024,Under Offer,Partly Furnished,2022,48,Kofi Antwi,(20) 771-9921,Portal,2/15/2026
+PROP-00986,Labone,Studio,0,1,555," 380,000 ",1/18/2024,Available,Unfurnished,2008,64,Kwame Mensah,(55) 120-3344,Facebook,1/10/2026
+PROP-01228,Osu,Studio,0,1,658," 344,000 ",3/20/2025,Under Offer,Unfurnished,2013,146,Daniel Owusu,,Website,
+PROP-00105,Labone,Apartment,3,2.5,1781," 1,298,000 ",4/12/2024,For Sale,Furnished,2019,,,(24) 555-0182,Portal,2/15/2026
+PROP-00610,East Legon,Apartment,1,1.5,801," 1,009,000 ",9/1/2025,Under Offer,Furnished,2021,7,Michael Asare,,Agent Upload,
+PROP-01271,Labone,Apartment,3,3,2105," 1,833,000 ",7/14/2025,Sold,Partly Furnished,2012,5,Daniel Owusu,(55) 120-3344,Website,1/10/2026
+PROP-00689,Airport Residential,Studio,0,1,564," 477,000 ",9/27/2025,Sold,,2014,1,Kwame Mensah,(24) 555-0182,Facebook,
+PROP-01001,Dzorwulu,Townhouse,3,2.5,1757," 1,448,000 ",12/17/2025,For Sale,Furnished,1998,1,Ama Boateng,,Portal,1/10/2026
+PROP-00827,Airport Residential,Apartment,4,4.5,2621," 3,058,000 ",4/26/2024,For Sale,Unfurnished,2018,83,Daniel Owusu,(20) 771-9921,Website,
+PROP-00984,Spintex,Townhouse,3,3,1971," 1,512,000 ",3/19/2025,For Sale,Furnished,2016,116,Ama Boateng,,Website,1/10/2026
+PROP-00063,Osu,Apartment,2,2,1472," 1,165,000 ",8/18/2024,Sold,,2015,,Michael Asare,(55) 120-3344,Website,2/15/2026
+PROP-00282,East Legon,Apartment,2,2,1418," 1,511,000 ",6/14/2024,Under Offer,,1998,,Ama Boateng,(24) 555-0182,Portal,10/3/2026
+PROP-00779,Adenta,Apartment,3,2,1692," 623,000 ",3/18/2025,Available,Unfurnished,2020,1,Kofi Antwi,,Website,2/15/2026
+PROP-01044,Airport Residential,Apartment,3,3,1726," 1,956,000 ",3/28/2025,Sold,Partly Furnished,2004,1,Efua Addo,(24) 555-0182,Portal,
+PROP-00239,East Legon,Apartment,2,2.5,1400," 1,342,000 ",8/8/2024,For Sale,,2023,91,Efua Addo,(55) 120-3344,Portal,10/3/2026
+PROP-00224,Osu,Apartment,1,1,1034," 822,000 ",1/4/2025,For Sale,,2022,1,Nana Yaa,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00146,East Legon,Apartment,1,1.5,845," 837,000 ",1/29/2026,For Sale,Unfurnished,2025,44,Daniel Owusu,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01440,Dzorwulu,Studio,0,1,724,,7/7/2026,Sold,,2004,77,Daniel Owusu,(20) 771-9921,Agent Upload,1/10/2026
+PROP-00374,Achimota,Townhouse,2,2.5,1553," 864,000 ",8/7/2026,Sold,Unfurnished,1999,,Kwame Mensah,,Portal,2/15/2026
+PROP-01396,Labone,Studio,0,1,388," 203,000 ",2/28/2024,For Sale,Unfurnished,2021,117,Efua Addo,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00119,Dzorwulu,Studio,0,1,681," 354,000 ",7/12/2026,Under Offer,Unfurnished,2004,137,Nana Yaa,,Agent Upload,1/10/2026
+PROP-01160,Airport Residential,Apartment,3,3.5,1970," 2,013,000 ",3/16/2025,Sold,Unfurnished,2010,106,Daniel Owusu,(20) 771-9921,Website,10/3/2026
+PROP-00251,Adenta,Apartment,1,1,1110," 270,000 ",1/21/2026,For Sale,Unfurnished,2015,32,Daniel Owusu,,Facebook,1/10/2026
+PROP-01488,Cantonments,Apartment,3,3,1700," 2,034,000 ",12/15/2024,Available,,1999,57,Michael Asare,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01245,Achimota,Apartment,3,3,1991," 990,000 ",6/17/2025,For Sale,Unfurnished,1998,119,Efua Addo,,Website,10/3/2026
+PROP-00943,Spintex,Apartment,0,1,566," 267,000 ",6/25/2024,Under Offer,,2009,87,Daniel Owusu,(24) 555-0182,Facebook,
+PROP-00010,East Legon,Studio,0,1,692," 445,000 ",1/19/2024,Under Offer,furnished,2005,1,Michael Asare,(20) 771-9921,Portal,
+PROP-00450,Cantonments,Apartment,6,5,3228," 3,689,000 ",11/30/2025,Under Offer,Furnished,2022,64,Michael Asare,,Facebook,2/15/2026
+PROP-00932,Achimota,Studio,0,1,600," 310,000 ",12/1/2024,Under Offer,,2026,109,Efua Addo,(24) 555-0182,Website,1/10/2026
+PROP-00709,Adenta,Townhouse,2,2,1730," 712,000 ",1/30/2025,For Sale,Unfurnished,2021,96,Ama Boateng,(20) 771-9921,Agent Upload,
+PROP-00256,Achimota,Townhouse,3,3,1887," 957,000 ",4/8/2025,For Sale,Partly Furnished,2024,65,Kwame Mensah,(55) 120-3344,Website,
+PROP-00594,Osu,Apartment,1,1.5,1064," 663,000 ",1/27/2026,For Sale,Furnished,2005,1,Kofi Antwi,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00390,Osu,Penthouse,3,1.5,2133," 2,254,000 ",3/4/2025,For Sale,furnished,2006,124,Efua Addo,,WhatsApp,1/10/2026
+PROP-01010,Tema,Townhouse,2,2,1179," 606,000 ",5/23/2026,Under Offer,Furnished,2019,98,Nana Yaa,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01237,Osu,Penthouse,4,,2305," 3,132,000 ",1/28/2025,Under Offer,Furnished,2011,77,Nana Yaa,(24) 555-0182,Website,
+PROP-00558,Labone,Townhouse,2,2,1373," 1,387,000 ",7/11/2025,Available,Unfurnished,2008,32,Nana Yaa,(20) 771-9921,Portal,
+PROP-01326,Osu,Apartment,4,4,2408," 1,529,000 ",10/13/2025,For Sale,Unfurnished,2015,3,Ama Boateng,,Portal,1/10/2026
+PROP-00887,Achimota,Townhouse,1,1,1029,,4/10/2026,Under Offer,Furnished,2007,47,Nana Yaa,(20) 771-9921,Facebook,2/15/2026
+PROP-00461,Cantonments,Apartment,2,1.5,," 1,652,000 ",1/16/2026,For Sale,,2023,137,Kwame Mensah,(24) 555-0182,Website,2/15/2026
+PROP-00724,Cantonments,Townhouse,3,3,2161," 3,219,000 ",5/23/2024,For Sale,Unfurnished,2017,180,Kwame Mensah,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01423,East Legon,Townhouse,5,4.5,2900," 2,577,000 ",8/29/2025,For Sale,Furnished,1998,37,Kwame Mensah,,Facebook,10/3/2026
+PROP-00145,Achimota,Apartment,1,1,1291," 523,000 ",11/26/2024,Under Offer,Unfurnished,2011,40,Kwame Mensah,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00502,Dansoman,Studio,0,1,886," 306,000 ",4/27/2025,For Sale,Furnished,2017,136,Michael Asare,(20) 771-9921,WhatsApp,2/15/2026
+PROP-01129,Adenta,Townhouse,2,2,1300," 476,000 ",6/22/2025,For Sale,furnished,2016,143,Kwame Mensah,(24) 555-0182,Facebook,
+PROP-00740,Adenta,Townhouse,1,1,1110," 418,000 ",11/8/2024,Under Offer,,2000,106,Michael Asare,,Agent Upload,
+PROP-01426,Airport Residential,Townhouse,2,2,1401," 1,521,000 ",6/11/2026,For Sale,Unfurnished,2002,31,Kwame Mensah,(24) 555-0182,Portal,1/10/2026
+PROP-00869,East Legon,Townhouse,3,2.5,1929," 1,758,000 ",8/26/2025,Under Offer,Furnished,2001,213,,(20) 771-9921,Agent Upload,
+PROP-00732,Adenta,Apartment,3,3,2064,,1/22/2026,Available,furnished,1998,55,Nana Yaa,(20) 771-9921,Portal,1/10/2026
+PROP-00540,Tema,Townhouse,3,3,1809," 1,196,000 ",2/10/2024,Available,Unfurnished,2017,56,Daniel Owusu,(24) 555-0182,Portal,10/3/2026
+PROP-00178,Spintex,Townhouse,1,1,1165," 696,000 ",12/22/2025,For Sale,Unfurnished,2002,1,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-01490,Spintex,Townhouse,1,,1100," 1,002,000 ",5/9/2024,Available,Unfurnished,2022,127,Ama Boateng,(24) 555-0182,Website,1/10/2026
+PROP-00698,Achimota,Apartment,2,2.5,1680," 812,000 ",6/8/2025,Under Offer,Unfurnished,2017,123,Daniel Owusu,(55) 120-3344,Portal,1/10/2026
+PROP-01164,East Legon,Apartment,1,1.5,," 1,634,000 ",8/6/2025,Under Offer,Unfurnished,2017,25,Nana Yaa,(20) 771-9921,Website,
+PROP-01076,Achimota,Townhouse,3,3,1856," 1,017,000 ",11/22/2025,Under Offer,Furnished,2000,84,Nana Yaa,(24) 555-0182,Facebook,10/3/2026
+PROP-00924,Dzorwulu,Studio,0,1,981," 454,000 ",9/24/2025,For Sale,Unfurnished,2014,74,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00950,Tema,Townhouse,3,,2129," 995,000 ",2/2/2025,For Sale,Unfurnished,2003,49,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+LIST-01341,Adenta,Studio,0,1,653," 129,000 ",2/28/2026,Under Offer,Unfurnished,2008,1,Daniel Owusu,(20) 771-9921,,2/15/2026
+PROP-00008,East Legon,Apartment,2,2,1576," 1,530,000 ",6/6/2024,For Sale,Unfurnished,1998,106,Michael Asare,(55) 120-3344,WhatsApp,
+PROP-00911,Spintex,Apartment,3,3,1995," 956,000 ",5/9/2025,For Sale,Furnished,2000,241,Daniel Owusu,(55) 120-3344,Facebook,2/15/2026
+PROP-00668,Airport Residential,Studio,0,1,909," 688,000 ",4/23/2024,For Sale,Furnished,2020,100,Nana Yaa,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01389,Labone,Apartment,1,1.5,," 911,000 ",5/1/2024,Sold,,2019,157,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+PROP-00358,Osu,Penthouse,3,3,1717," 1,678,000 ",6/11/2026,Sold,Unfurnished,2012,88,Michael Asare,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00784,,Apartment,2,2,1507," 1,402,000 ",1/22/2025,Under Offer,Furnished,2015,10,Kwame Mensah,(55) 120-3344,Portal,10/3/2026
+PROP-00736,Labone,Penthouse,4,4.5,2201," 3,515,000 ",7/10/2025,Available,Furnished,,28,Daniel Owusu,(20) 771-9921,Facebook,2/15/2026
+PROP-00330,Spintex,Townhouse,2,2.5,1505," 813,000 ",1/28/2026,For Sale,Furnished,2024,220,Kofi Antwi,(24) 555-0182,Facebook,2/15/2026
+PROP-01352,Osu,Penthouse,1,1,771," 913,000 ",5/1/2026,For Sale,Furnished,2012,1,Nana Yaa,(24) 555-0182,Facebook,1/10/2026
+PROP-01183,Achimota,Townhouse,1,1,972," 526,000 ",5/18/2026,For Sale,Unfurnished,2005,54,Efua Addo,(20) 771-9921,Portal,1/10/2026
+PROP-01150,Spintex,Penthouse,4,4,2475," 2,576,000 ",1/15/2026,For Sale,Unfurnished,2018,53,Ama Boateng,,Facebook,
+PROP-00259,Adenta,Apartment,1,1,1000," 367,000 ",10/27/2024,For Sale,Unfurnished,2013,38,Nana Yaa,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00942,Achimota,Apartment,1,1.5,1164," 694,000 ",2/21/2024,For Sale,Unfurnished,2011,181,Michael Asare,,Facebook,
+PROP-01210,Adenta,Townhouse,3,3,," 753,000 ",4/2/2026,Sold,Unfurnished,2008,91,Kofi Antwi,(24) 555-0182,Facebook,1/10/2026
+PROP-00373,Labone,Townhouse,2,1.5,1084," 1,353,000 ",5/16/2025,Under Offer,Partly Furnished,2007,6,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01135,Tema,Townhouse,1,1.5,1233," 545,000 ",10/8/2025,Sold,Unfurnished,2003,89,Efua Addo,(24) 555-0182,Website,10/3/2026
+PROP-01058,Spintex,Apartment,,2,1517," 877,000 ",8/7/2026,For Sale,Furnished,,97,Michael Asare,(55) 120-3344,Website,
+PROP-00143,Adenta,Townhouse,1,1,1205," 663,000 ",11/30/2024,Available,,2009,64,Nana Yaa,(24) 555-0182,Website,2/15/2026
+PROP-00526,East Legon,Penthouse,3,2.5,1534," 2,623,000 ",3/24/2026,Sold,,2009,162,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-01171,Labone,Apartment,2,1.5,1782,,11/6/2025,Sold,Furnished,,99,Ama Boateng,,WhatsApp,1/10/2026
+PROP-00233,Adenta,Penthouse,6,4.5,3160," 2,223,000 ",12/2/2024,Available,Unfurnished,2015,62,Nana Yaa,(20) 771-9921,Portal,10/3/2026
+PROP-01341,Adenta,Studio,0,1,653," 129,000 ",2/28/2026,Under Offer,Unfurnished,2008,1,Daniel Owusu,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01465,East Legon,Penthouse,,1,1390," 2,262,000 ",1/8/2024,For Sale,Partly Furnished,2012,48,Nana Yaa,(55) 120-3344,Website,2/15/2026
+PROP-00441,Labone,Apartment,2,2.5,1775," 1,482,000 ",4/11/2026,Sold,Unfurnished,2017,1,Kofi Antwi,,Portal,
+PROP-00532,Dansoman,Townhouse,2,2,1455," 676,000 ",8/17/2025,For Sale,Furnished,2007,147,,(20) 771-9921,,2/15/2026
+PROP-01238,Adenta,Apartment,3,2.5,2251,,9/6/2024,For Sale,Partly Furnished,2021,63,Daniel Owusu,(24) 555-0182,,2/15/2026
+PROP-00227,Achimota,Apartment,2,2,1595," 717,000 ",2/10/2026,For Sale,Unfurnished,2019,17,Nana Yaa,(24) 555-0182,Website,
+PROP-01199,Airport Residential,Apartment,3,2.5,1723," 1,800,000 ",2/11/2025,Sold,Unfurnished,2009,104,Daniel Owusu,(24) 555-0182,Facebook,1/10/2026
+PROP-00229,Achimota,Apartment,2,1,1413," 655,000 ",1/8/2025,Sold,Unfurnished,2002,55,Kwame Mensah,(24) 555-0182,Portal,
+PROP-01318,Spintex,Townhouse,2,1.5,1637," 979,000 ",6/14/2025,For Sale,Furnished,2003,60,Ama Boateng,(55) 120-3344,,1/10/2026
+PROP-01336,Adenta,Studio,0,1,906," 219,000 ",4/23/2025,For Sale,furnished,2014,31,Kwame Mensah,(55) 120-3344,Facebook,
+PROP-00213,Adenta,Townhouse,3,3,2236," 1,004,000 ",12/24/2024,Under Offer,Unfurnished,2002,64,Nana Yaa,(24) 555-0182,Facebook,10/3/2026
+PROP-00886,Spintex,Townhouse,2,,1237," 884,000 ",6/27/2024,Under Offer,Partly Furnished,2010,16,Kofi Antwi,(20) 771-9921,WhatsApp,
+PROP-00080,Spintex,Apartment,1,1,1091," 546,000 ",9/25/2024,For Sale,Unfurnished,2007,60,Daniel Owusu,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00149,Dansoman,Apartment,1,1,1083," 356,000 ",4/18/2026,For Sale,furnished,2009,68,Nana Yaa,(20) 771-9921,Portal,1/10/2026
+PROP-00815,Cantonments,Apartment,3,3.5,1904," 2,338,000 ",6/16/2024,Available,Furnished,2009,11,Michael Asare,(20) 771-9921,Website,2/15/2026
+PROP-01480,Achimota,Studio,0,1,613," 158,000 ",10/10/2024,Sold,furnished,2011,164,Ama Boateng,,Website,
+PROP-00965,East Legon,Studio,0,1,558," 1,028,000 ",7/26/2025,For Sale,,2013,62,Kwame Mensah,(24) 555-0182,,2/15/2026
+PROP-00672,Cantonments,Apartment,4,3.5,2495," 3,019,000 ",1/24/2024,For Sale,Unfurnished,2014,101,Kofi Antwi,(20) 771-9921,WhatsApp,10/3/2026
+PROP-01190,Dansoman,Townhouse,5,4,2813," 837,000 ",,Under Offer,Furnished,2022,121,Ama Boateng,(24) 555-0182,Portal,
+PROP-00556,East Legon,Studio,0,1,21046," 502,000 ",5/22/2026,For Sale,Partly Furnished,,66,Efua Addo,,WhatsApp,2/15/2026
+PROP-01408,East Legon,Townhouse,3,2.5,1761," 2,297,000 ",1/14/2025,Under Offer,Unfurnished,2024,72,Nana Yaa,(20) 771-9921,Website,2/15/2026
+PROP-00134,Airport Residential,Studio,0,1,402," 381,000 ",12/3/2025,For Sale,Unfurnished,2006,29,Kofi Antwi,(24) 555-0182,Website,1/10/2026
+PROP-01218,Adenta,Apartment,4,3,2362," 736,000 ",1/19/2024,Under Offer,furnished,2015,1,Kwame Mensah,(20) 771-9921,Facebook,10/3/2026
+PROP-00934,Dzorwulu,Apartment,2,1.5,1490," 1,039,000 ",3/10/2026,Available,Furnished,2024,24,Kwame Mensah,,Facebook,10/3/2026
+PROP-01311,Adenta,Apartment,3,3,1595," 691,000 ",,Sold,,2004,48,Michael Asare,(24) 555-0182,Facebook,
+PROP-00824,Osu,Penthouse,5,5.5,2861," 3,156,000 ",7/23/2026,Sold,Unfurnished,2002,86,Daniel Owusu,(24) 555-0182,Website,2/15/2026
+PROP-00409,Adenta,Townhouse,2,,1220," 749,000 ",8/7/2026,Sold,Unfurnished,2016,171,Ama Boateng,(20) 771-9921,,1/10/2026
+PROP-00369,Airport Residential,Townhouse,3,3,1830," 2,132,000 ",7/19/2025,For Sale,Unfurnished,2024,37,Daniel Owusu,(55) 120-3344,Website,1/10/2026
+PROP-00508,Dzorwulu,Townhouse,1,1,1231," 949,000 ",4/7/2024,Under Offer,Unfurnished,2007,99,Michael Asare,(55) 120-3344,,10/3/2026
+PROP-01217,Dzorwulu,Apartment,2,,1596,,10/6/2024,For Sale,Unfurnished,2021,32,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-00505,Airport Residential,Apartment,4,3.5,2637," 3,114,000 ",8/2/2026,For Sale,Unfurnished,2024,71,Kofi Antwi,(55) 120-3344,Website,2/15/2026
+PROP-01371,Dzorwulu,Apartment,2,2.5,1093," 687,000 ",4/10/2025,For Sale,Unfurnished,2015,109,Kofi Antwi,,Portal,10/3/2026
+PROP-00348,Osu,Apartment,2,2,1595," 20,151,079 ",2/5/2024,For Sale,,2010,83,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00387,Labone,Apartment,1,1,1086," 1,048,000 ",6/10/2026,Sold,Furnished,2016,61,Kofi Antwi,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00001,Achimota,Townhouse,4,3.5,2095," 1,366,000 ",5/1/2024,Available,Unfurnished,2012,23,Daniel Owusu,(55) 120-3344,Portal,
+PROP-01027,East Legon,Apartment,1,1.5,837," 821,000 ",5/11/2024,For Sale,Unfurnished,2002,8,Nana Yaa,(55) 120-3344,Portal,1/10/2026
+PROP-00361,East Legon,Apartment,2,2,1496," 1,440,000 ",1/28/2026,Under Offer,Furnished,2023,62,Efua Addo,(20) 771-9921,Agent Upload,1/10/2026
+PROP-00895,Osu,Studio,0,1,787," 406,000 ",4/15/2024,For Sale,Unfurnished,2015,109,Michael Asare,(24) 555-0182,Facebook,
+PROP-00829,Achimota,Townhouse,4,3,2024," 921,000 ",7/23/2025,For Sale,Furnished,2016,139,Nana Yaa,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01457,Dansoman,Apartment,1,1.5,1367," 420,000 ",2/14/2024,For Sale,Partly Furnished,2009,95,Nana Yaa,,Website,10/3/2026
+PROP-00476,Airport Residential,Townhouse,2,2,1376," 2,190,000 ",3/22/2024,For Sale,Unfurnished,2008,83,Nana Yaa,,Agent Upload,10/3/2026
+PROP-01319,Cantonments,Apartment,6,5,3190," 3,766,000 ",1/6/2024,Sold,furnished,2010,136,Nana Yaa,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00058,Osu,Townhouse,2,1.5,1486," 13,807,344 ",1/2/2025,For Sale,Unfurnished,1998,65,,,Website,
+PROP-00638,Osu,Apartment,5,5.5,2549," 1,812,000 ",6/10/2026,Sold,Partly Furnished,2002,129,Daniel Owusu,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01345,Osu,Townhouse,2,2,1446," 1,322,000 ",2/29/2024,For Sale,furnished,2017,19,Michael Asare,(24) 555-0182,Portal,1/10/2026
+PROP-01080,Tema,Apartment,0,1,507," 189,000 ",1/2/2024,Available,Unfurnished,2020,118,Kofi Antwi,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01006,East Legon,Studio,0,1,694," 608,000 ",1/23/2026,For Sale,furnished,2009,113,Nana Yaa,(55) 120-3344,Portal,10/3/2026
+PROP-00173,Labone,Studio,0,1,762," 406,000 ",7/18/2026,For Sale,Furnished,2002,106,Kwame Mensah,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00451,Airport Residential,Townhouse,3,2,1953," 2,210,000 ",6/30/2024,For Sale,,2003,97,Kofi Antwi,(20) 771-9921,Portal,1/10/2026
+PROP-00126,Osu,Townhouse,4,4.5,2394," 2,683,000 ",7/23/2025,For Sale,Unfurnished,2020,23,Daniel Owusu,(20) 771-9921,WhatsApp,
+PROP-00039,Dansoman,Townhouse,3,3,1975," 945,000 ",7/3/2025,For Sale,Unfurnished,2010,128,Michael Asare,(24) 555-0182,Portal,1/10/2026
+PROP-00531,Adenta,Studio,0,1,610," 130,000 ",12/26/2025,Under Offer,,2000,116,Ama Boateng,(24) 555-0182,Website,
+PROP-00858,Achimota,Apartment,2,2,1343," 540,000 ",5/2/2026,For Sale,furnished,2007,80,Ama Boateng,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00714,East Legon,Penthouse,4,4,2290," 3,313,000 ",1/18/2024,Under Offer,Unfurnished,2010,117,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00091,Adenta,Apartment,1,1,897," 364,000 ",12/8/2025,For Sale,Unfurnished,1998,58,Efua Addo,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01494,Cantonments,Apartment,3,3,17792," 2,240,000 ",6/20/2024,For Sale,Furnished,2015,,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00182,Osu,Apartment,2,2,1443," 1,038,000 ",3/29/2026,Sold,Unfurnished,2006,75,Efua Addo,(24) 555-0182,Website,1/10/2026
+PROP-00876,Tema,Apartment,4,3.5,2408," 942,000 ",12/15/2024,Available,Furnished,1998,1,Michael Asare,,Portal,
+PROP-01041,Tema,Townhouse,1,1,," 413,000 ",2/14/2025,For Sale,,2011,1,Nana Yaa,(24) 555-0182,Portal,1/10/2026
+PROP-00787,Airport Residential,Townhouse,3,3.5,1770," 1,867,000 ",9/23/2025,For Sale,Unfurnished,2003,35,Nana Yaa,(55) 120-3344,Portal,10/3/2026
+PROP-00415,Airport Residential,Apartment,1,1.5,1142," 2,167,000 ",8/19/2024,For Sale,Unfurnished,2014,7,Kwame Mensah,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00252,Osu,Townhouse,1,2,1260," 988,000 ",3/7/2024,For Sale,,2014,1,Michael Asare,(20) 771-9921,,2/15/2026
+PROP-00070,,Townhouse,2,2,1721," 2,981,000 ",5/22/2024,For Sale,Unfurnished,2023,1,Kofi Antwi,(24) 555-0182,Website,2/15/2026
+PROP-00804,Airport Residential,Apartment,3,3,2071," 2,360,000 ",2/25/2026,For Sale,Unfurnished,2012,84,,(20) 771-9921,Facebook,1/10/2026
+PROP-00132,Osu,Apartment,0,1,749," 566,000 ",9/2/2025,Sold,Furnished,2020,,Michael Asare,(24) 555-0182,Website,2/15/2026
+PROP-00301,East Legon,Townhouse,3,3.5,2024," 1,789,000 ",1/5/2025,Under Offer,Unfurnished,2026,160,Efua Addo,(20) 771-9921,Portal,2/15/2026
+PROP-01376,Kasoa,Apartment,4,3,2392," 752,000 ",1/26/2025,For Sale,Furnished,2006,69,Nana Yaa,(55) 120-3344,Portal,1/10/2026
+PROP-00327,Spintex,Townhouse,4,4,2358," 1,522,000 ",5/16/2024,Under Offer,Unfurnished,2010,53,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+LIST-00131,Labone,Apartment,3,4,1853," 1,433,000 ",8/6/2026,For Sale,Unfurnished,2016,1,Kofi Antwi,(20) 771-9921,Website,1/10/2026
+PROP-01145,Airport Residential,Townhouse,,2,1507," 2,064,000 ",7/27/2024,For Sale,Furnished,2014,151,Daniel Owusu,(55) 120-3344,Portal,10/3/2026
+PROP-00500,Cantonments,Townhouse,3,2.5,17929," 2,974,000 ",10/6/2025,Under Offer,Unfurnished,2020,27,Efua Addo,(24) 555-0182,,
+PROP-00342,Adenta,Townhouse,1,1,1149," 649,000 ",4/16/2026,Sold,Unfurnished,,85,Kwame Mensah,(55) 120-3344,Agent Upload,
+PROP-00833,East Legon,Apartment,1,1.5,1079," 2,174,000 ",4/7/2025,Available,Furnished,,114,Nana Yaa,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00365,East Legon,Studio,0,1,507," 746,000 ",12/5/2025,Under Offer,furnished,2016,153,Nana Yaa,,Portal,2/15/2026
+PROP-00496,Osu,Apartment,3,2.5,1778," 1,409,000 ",9/3/2025,Sold,Furnished,2006,131,,,WhatsApp,2/15/2026
+PROP-01436,Dansoman,Townhouse,3,3,2102," 792,000 ",12/27/2025,For Sale,Furnished,2024,137,Michael Asare,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00339,Achimota,Townhouse,3,,2339," 1,266,000 ",9/8/2024,For Sale,Unfurnished,2007,124,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-00422,Cantonments,Apartment,2,1.5,1235," 1,557,000 ",7/7/2026,For Sale,,2020,135,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00165,Dansoman,Townhouse,0,1,350," 69,000 ",5/25/2024,Under Offer,furnished,2012,1,Kwame Mensah,(24) 555-0182,Facebook,1/10/2026
+PROP-00029,East Legon,Studio,0,1,922," 700,000 ",1/25/2026,For Sale,Partly Furnished,2026,14,Ama Boateng,(24) 555-0182,Website,10/3/2026
+PROP-00517,Osu,Townhouse,2,2.5,1781," 1,803,000 ",2/4/2024,For Sale,furnished,1998,35,Efua Addo,(55) 120-3344,Website,2/15/2026
+PROP-00194,Osu,Apartment,2,2.5,1589," 898,000 ",1/7/2025,For Sale,Furnished,2012,26,Efua Addo,(24) 555-0182,Portal,10/3/2026
+PROP-01025,Airport Residential,Townhouse,4,4.5,," 3,180,000 ",1/31/2025,Sold,Furnished,2016,104,Kwame Mensah,,Agent Upload,1/10/2026
+PROP-01403,East Legon,Studio,0,1,749," 556,000 ",8/6/2026,For Sale,Furnished,2018,37,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00946,Dzorwulu,Townhouse,3,2.5,1966,,8/26/2024,Available,Unfurnished,2019,83,Kofi Antwi,,Portal,
+PROP-01402,Airport Residential,Townhouse,2,2,1275," 1,763,000 ",12/8/2025,Sold,Furnished,2014,186,Ama Boateng,(24) 555-0182,Agent Upload,
+PROP-00170,Spintex,Apartment,0,1,788," 246,000 ",3/5/2025,For Sale,Unfurnished,2010,81,Daniel Owusu,(24) 555-0182,Portal,1/10/2026
+PROP-00168,Labone,Apartment,2,,1170," 961,000 ",10/28/2024,Sold,Unfurnished,2017,,Efua Addo,,Portal,2/15/2026
+PROP-00653,Tema,Townhouse,2,2.5,," 602,000 ",10/28/2025,Under Offer,Unfurnished,2017,70,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-00174,Cantonments,Townhouse,1,1.5,1072," 1,414,000 ",11/20/2025,Sold,Unfurnished,2025,66,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00519,Achimota,Apartment,2,2.5,1606," 677,000 ",10/5/2025,For Sale,Furnished,2022,57,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-01250,Airport Residential,Townhouse,4,4,2239," 2,673,000 ",11/25/2024,Under Offer,Unfurnished,2020,168,,(55) 120-3344,Facebook,2/15/2026
+PROP-01236,Tema,Townhouse,2,2.5,1522," 779,000 ",10/15/2025,Available,Unfurnished,2006,1,Nana Yaa,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00913,Osu,Apartment,0,1,799," 711,000 ",,For Sale,furnished,2005,176,Michael Asare,,Agent Upload,2/15/2026
+PROP-00492,East Legon,Apartment,1,1.5,1207," 1,251,000 ",7/13/2024,For Sale,Unfurnished,2006,102,Nana Yaa,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00954,Tema,Townhouse,4,4.5,2081," 1,168,000 ",7/29/2026,Available,Furnished,2011,92,Daniel Owusu,(24) 555-0182,WhatsApp,
+PROP-00074,Adenta,Townhouse,2,2,1401," 741,000 ",12/31/2025,For Sale,Furnished,2007,85,Daniel Owusu,(55) 120-3344,,
+PROP-01291,East Legon,Townhouse,3,3.5,2031," 1,810,000 ",12/28/2024,For Sale,,2000,19,Nana Yaa,,Website,
+PROP-00588,Spintex,Townhouse,1,1,1072," 583,000 ",5/20/2025,For Sale,Partly Furnished,2000,193,Ama Boateng,(24) 555-0182,Portal,1/10/2026
+PROP-00751,Cantonments,Studio,0,1,846," 691,000 ",10/10/2024,For Sale,Unfurnished,2001,85,Kwame Mensah,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00658,Tema,Townhouse,0,1,515," 192,000 ",3/14/2026,For Sale,Unfurnished,2012,63,Kofi Antwi,(24) 555-0182,Facebook,1/10/2026
+PROP-00843,Kasoa,Apartment,5,4,2681," 670,000 ",10/22/2024,Available,Furnished,2010,57,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00235,East Legon,Townhouse,6,6,3165," 2,943,000 ",10/7/2025,For Sale,Unfurnished,2013,57,,(55) 120-3344,Website,
+PROP-00733,Achimota,Penthouse,1,1,1114," 722,000 ",7/19/2025,Under Offer,furnished,2024,13,Ama Boateng,,,
+PROP-00215,Dansoman,Apartment,3,2.5,2091," 728,000 ",8/9/2025,For Sale,Unfurnished,2021,120,Efua Addo,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00163,Adenta,Townhouse,4,4.5,2189," 669,000 ",8/21/2024,Sold,,2018,55,Ama Boateng,(24) 555-0182,Website,
+PROP-00133,Achimota,Penthouse,6,6,3321," 2,396,000 ",7/29/2025,For Sale,Unfurnished,2021,56,Daniel Owusu,(55) 120-3344,Facebook,2/15/2026
+PROP-01456,Dzorwulu,Townhouse,2,2,1260," 1,004,000 ",9/9/2025,Sold,furnished,2001,1,Kofi Antwi,(55) 120-3344,Agent Upload,
+PROP-01264,Osu,Apartment,2,2,1768," 1,084,000 ",5/21/2025,For Sale,Unfurnished,2016,81,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00935,Tema,Townhouse,0,1,852," 211,000 ",4/27/2025,Under Offer,Unfurnished,2007,137,Michael Asare,,Agent Upload,
+PROP-00109,Labone,Apartment,2,1.5,1669," 1,474,000 ",7/22/2024,Under Offer,Unfurnished,2023,45,Efua Addo,(20) 771-9921,Website,
+PROP-00569,Adenta,Townhouse,2,2,1525," 787,000 ",1/18/2026,Available,Unfurnished,,56,Daniel Owusu,(24) 555-0182,Website,
+PROP-00891,Dzorwulu,Townhouse,5,5,2467," 1,497,000 ",9/9/2024,Available,Unfurnished,2007,1,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-00948,Labone,Apartment,2,2.5,1334," 1,211,000 ",1/15/2025,Under Offer,,2005,41,Kofi Antwi,(55) 120-3344,,
+PROP-01042,Adenta,Penthouse,2,1.5,1395," 666,000 ",5/30/2024,For Sale,Unfurnished,2017,70,Daniel Owusu,(55) 120-3344,Facebook,
+PROP-00885,Kasoa,Townhouse,2,2,1639," 647,000 ",2/4/2025,Under Offer,,2009,77,Kwame Mensah,,WhatsApp,10/3/2026
+PROP-01303,East Legon,Townhouse,5,4.5,2763," 2,644,000 ",7/30/2026,For Sale,Unfurnished,2014,30,Michael Asare,,WhatsApp,2/15/2026
+PROP-00851,Airport Residential,Townhouse,2,1.5,1606," 2,502,000 ",4/28/2026,For Sale,Unfurnished,2023,79,Nana Yaa,,Portal,
+PROP-00735,Osu,Townhouse,,3,2405," 1,539,000 ",8/27/2024,For Sale,Partly Furnished,2001,160,,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00718,Dansoman,Townhouse,0,1,619," 365,000 ",10/12/2024,For Sale,Unfurnished,2009,44,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00455,Achimota,Studio,0,1,674," 207,000 ",11/26/2025,Available,Furnished,2008,109,Efua Addo,(24) 555-0182,Portal,10/3/2026
+PROP-00265,Airport Residential,Apartment,3,3,1826," 1,907,000 ",7/3/2024,Under Offer,Unfurnished,,41,Kofi Antwi,(55) 120-3344,Facebook,
+PROP-00076,East Legon,Townhouse,5,5,2397," 2,750,000 ",10/13/2024,Sold,Unfurnished,2005,64,Kwame Mensah,,Website,10/3/2026
+PROP-00445,Cantonments,Apartment,3,3,2002," 2,375,000 ",1/21/2025,For Sale,Partly Furnished,1999,147,Kwame Mensah,,WhatsApp,2/15/2026
+PROP-00396,East Legon,Apartment,3,3.5,1833," 1,661,000 ",4/27/2024,For Sale,Unfurnished,2015,39,Kofi Antwi,,Agent Upload,
+PROP-00177,East Legon,Apartment,1,1,1200," 1,419,000 ",11/5/2025,Under Offer,Unfurnished,2002,9,Kofi Antwi,(20) 771-9921,Facebook,
+PROP-01043,East Legon,Apartment,2,,1300," 1,968,000 ",4/20/2024,Under Offer,Furnished,2005,142,Ama Boateng,(20) 771-9921,Portal,1/10/2026
+PROP-01349,Achimota,Apartment,5,3.5,2585," 1,264,000 ",4/19/2026,Under Offer,Unfurnished,2023,46,Daniel Owusu,(20) 771-9921,Portal,
+LIST-01107,Airport Residential,Townhouse,2,2,1406," 1,320,000 ",7/15/2024,For Sale,Unfurnished,2024,135,Michael Asare,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01066,Cantonments,Studio,0,1,690," 510,000 ",3/25/2026,Sold,Furnished,2026,21,Michael Asare,,WhatsApp,1/10/2026
+PROP-00596,Adenta,Apartment,0,1,786," 419,000 ",1/31/2026,For Sale,Unfurnished,2004,112,Nana Yaa,(24) 555-0182,Facebook,2/15/2026
+PROP-00062,East Legon,Townhouse,,1,1186," 1,116,000 ",1/29/2025,Sold,Furnished,2009,108,Kwame Mensah,(20) 771-9921,Website,2/15/2026
+PROP-00873,Achimota,Townhouse,3,2.5,1840," 1,350,000 ",8/4/2026,For Sale,Unfurnished,2013,1,,,Website,1/10/2026
+PROP-01437,Tema,Townhouse,2,1,1322," 579,000 ",12/7/2025,Sold,furnished,2011,1,Kwame Mensah,(20) 771-9921,WhatsApp,
+PROP-01448,Osu,Penthouse,4,4,2225," 2,712,000 ",11/29/2025,For Sale,,2013,108,Kwame Mensah,(20) 771-9921,WhatsApp,1/10/2026
+PROP-00279,Tema,Apartment,1,1,1157," 485,000 ",1/31/2026,For Sale,Unfurnished,2002,1,Efua Addo,(24) 555-0182,Agent Upload,
+PROP-00037,Achimota,Townhouse,4,3,2573," 1,180,000 ",3/19/2026,Under Offer,Furnished,2000,37,Efua Addo,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00663,Dzorwulu,Apartment,1,1,1171," 701,000 ",6/13/2025,Under Offer,Partly Furnished,2000,1,Ama Boateng,(24) 555-0182,Facebook,10/3/2026
+PROP-01393,Labone,Townhouse,3,3,1697," 2,276,000 ",7/5/2026,Under Offer,Unfurnished,2026,89,Efua Addo,(55) 120-3344,Facebook,10/3/2026
+PROP-01117,Adenta,Townhouse,3,4,2233," 927,000 ",6/12/2025,For Sale,Unfurnished,2003,32,Kwame Mensah,(20) 771-9921,Website,1/10/2026
+PROP-00978,Labone,Townhouse,2,2,1669," 1,496,000 ",10/16/2024,Available,,2012,76,Michael Asare,(24) 555-0182,Website,2/15/2026
+PROP-00739,Tema,Penthouse,4,4.5,2296," 1,405,000 ",6/11/2025,Available,Unfurnished,2017,38,Nana Yaa,(24) 555-0182,Facebook,1/10/2026
+PROP-00192,Adenta,Townhouse,1,1.5,903," 317,000 ",3/20/2024,For Sale,,2022,65,Ama Boateng,,Portal,
+PROP-00920,Adenta,Townhouse,3,2,1673," 478,000 ",1/1/2024,Available,Unfurnished,2023,57,Ama Boateng,,Website,
+PROP-00457,East Legon,Townhouse,3,3,2010," 2,626,000 ",7/1/2024,Available,Furnished,2010,162,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+PROP-00676,,Apartment,3,3,1909," 572,000 ",7/20/2024,For Sale,,2026,48,Ama Boateng,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00761,East Legon,Apartment,4,4,2240," 2,104,000 ",7/30/2024,Under Offer,Unfurnished,2025,156,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-01394,East Legon,Apartment,2,2,1292," 1,138,000 ",9/19/2024,For Sale,,2012,133,Kwame Mensah,(55) 120-3344,Portal,10/3/2026
+PROP-00729,East Legon,Studio,0,1,658," 591,000 ",11/10/2025,Under Offer,Furnished,2000,67,Kwame Mensah,(20) 771-9921,Portal,1/10/2026
+PROP-00413,Tema,Townhouse,3,2.5,1941," 724,000 ",8/23/2025,For Sale,Furnished,2026,101,Kofi Antwi,(24) 555-0182,Website,10/3/2026
+PROP-00826,Spintex,Apartment,4,3,2332," 1,252,000 ",5/28/2026,Under Offer,furnished,2002,38,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00617,Dzorwulu,,4,4,2147," 1,879,000 ",11/28/2024,Available,Unfurnished,2009,99,Daniel Owusu,(24) 555-0182,Website,
+PROP-00115,Spintex,Apartment,1,1,876," 572,000 ",1/19/2025,For Sale,Furnished,2003,92,Kofi Antwi,(20) 771-9921,Website,1/10/2026
+PROP-00418,Tema,Apartment,3,2.5,2078," 868,000 ",11/17/2024,For Sale,furnished,2022,98,Ama Boateng,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01470,Dzorwulu,Apartment,3,3,2022," 1,355,000 ",2/16/2025,For Sale,,2013,82,Efua Addo,,Portal,1/10/2026
+PROP-00970,Labone,Penthouse,5,6,2425," 3,314,000 ",10/30/2024,Sold,,2007,167,Michael Asare,(20) 771-9921,Portal,
+PROP-00605,Cantonments,Apartment,6,5.5,3332," 3,718,000 ",7/29/2025,Sold,Partly Furnished,2020,38,Daniel Owusu,,Facebook,2/15/2026
+PROP-01476,Achimota,Apartment,3,3,2096," 755,000 ",4/12/2025,For Sale,Unfurnished,2010,143,Ama Boateng,(24) 555-0182,Portal,2/15/2026
+PROP-00090,Tema,Apartment,,2.5,1389," 622,000 ",11/7/2024,For Sale,Unfurnished,2009,107,Michael Asare,(20) 771-9921,,1/10/2026
+PROP-00849,Tema,Townhouse,2,1.5,1711," 544,000 ",5/10/2024,For Sale,Furnished,2023,48,Kofi Antwi,(24) 555-0182,Website,2/15/2026
+PROP-01179,Spintex,Studio,0,1,759," 334,000 ",5/28/2026,Sold,Unfurnished,2020,55,Kwame Mensah,(20) 771-9921,Website,
+PROP-01475,Dansoman,Townhouse,1,1.5,1132," 23,026,375 ",6/3/2024,For Sale,Unfurnished,2018,105,Nana Yaa,(24) 555-0182,Website,1/10/2026
+PROP-00754,East Legon,Apartment,3,3,1992," 1,843,000 ",3/17/2026,Under Offer,,2012,112,Kwame Mensah,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00499,Osu,Townhouse,2,1.5,1250," 1,055,000 ",4/17/2025,Sold,Unfurnished,2026,97,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-00012,Spintex,Apartment,3,2,1727," 986,000 ",9/19/2024,For Sale,Unfurnished,2024,116,Nana Yaa,,Portal,1/10/2026
+PROP-00397,Tema,Townhouse,0,1,802," 497,000 ",10/1/2026,Available,Furnished,2011,40,Kwame Mensah,(20) 771-9921,Website,2/15/2026
+PROP-00285,Spintex,Studio,0,1,800," 415,000 ",1/27/2024,Sold,Furnished,2016,33,Kofi Antwi,(55) 120-3344,Portal,2/15/2026
+PROP-01067,Labone,Townhouse,2,2.5,1328," 1,661,000 ",1/28/2026,Sold,,2000,217,Daniel Owusu,(55) 120-3344,Portal,1/10/2026
+PROP-00691,Tema,Apartment,3,3,1738," 806,000 ",3/20/2024,For Sale,furnished,1999,88,Kofi Antwi,(20) 771-9921,Portal,
+PROP-01384,Dzorwulu,,1,1,1138," 713,000 ",4/10/2025,For Sale,Unfurnished,2009,1,Kofi Antwi,(24) 555-0182,,2/15/2026
+PROP-01445,Tema,Townhouse,0,1,613," 487,000 ",11/9/2025,For Sale,Unfurnished,2025,37,Daniel Owusu,(20) 771-9921,Agent Upload,2/15/2026
+PROP-00690,Labone,Studio,0,1,," 494,000 ",5/3/2024,For Sale,Furnished,2026,52,Michael Asare,,Agent Upload,1/10/2026
+PROP-00852,Airport Residential,Apartment,3,2,1960," 2,156,000 ",10/25/2024,Available,Furnished,2023,1,Ama Boateng,(24) 555-0182,Facebook,
+PROP-00160,Adenta,Apartment,0,1,619," 326,000 ",5/7/2025,Available,Unfurnished,2003,91,Michael Asare,(20) 771-9921,Agent Upload,
+PROP-00896,Achimota,Townhouse,1,1.5,1114," 805,000 ",3/5/2025,Under Offer,Unfurnished,2022,95,Kofi Antwi,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01323,East Legon,Apartment,1,1.5,834," 936,000 ",3/29/2024,For Sale,Unfurnished,,89,Nana Yaa,(55) 120-3344,,1/10/2026
+PROP-00258,Airport Residential,Townhouse,2,2,1613," 1,979,000 ",1/11/2024,Sold,Unfurnished,2009,1,Kwame Mensah,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00336,Cantonments,Townhouse,0,1,1013," 1,350,000 ",6/28/2024,Sold,Furnished,2022,91,Daniel Owusu,(20) 771-9921,Portal,
+PROP-01449,Kasoa,Townhouse,1,2,1034," 116,000 ",7/18/2026,Under Offer,Unfurnished,2024,1,Ama Boateng,(24) 555-0182,Facebook,
+PROP-01040,East Legon,Studio,0,1,350," 389,000 ",2/25/2024,Sold,Furnished,2012,76,Kwame Mensah,,Facebook,10/3/2026
+PROP-00516,Tema,Townhouse,2,2,1472," 517,000 ",1/9/2024,Under Offer,,,1,Daniel Owusu,(20) 771-9921,Website,2/15/2026
+PROP-01016,Dzorwulu,Townhouse,,2.5,1511," 1,349,000 ",2/21/2024,For Sale,Unfurnished,2021,1,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00769,East Legon,Apartment,1,1,1057," 1,229,000 ",7/31/2025,For Sale,Unfurnished,2020,73,Michael Asare,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01374,Tema,Townhouse,,1.5,1360," 660,000 ",2/4/2026,For Sale,Furnished,2011,71,Ama Boateng,(24) 555-0182,Website,1/10/2026
+PROP-00762,Spintex,Studio,0,1,427," 230,000 ",11/19/2024,For Sale,Unfurnished,2009,102,Daniel Owusu,,Website,10/3/2026
+PROP-01134,Kasoa,Apartment,2,3,1237," 271,000 ",9/19/2024,Under Offer,Unfurnished,2026,1,Daniel Owusu,(55) 120-3344,Portal,2/15/2026
+PROP-00522,Labone,Apartment,2,3,1366," 1,221,000 ",2/9/2025,For Sale,Furnished,2004,1,Kwame Mensah,(24) 555-0182,Facebook,10/3/2026
+PROP-00023,Airport Residential,Apartment,1,1,1022," 1,153,000 ",2/20/2024,Available,Unfurnished,2022,95,Michael Asare,,Portal,
+PROP-00357,,Apartment,0,1,745," 350,000 ",4/23/2026,Available,furnished,2019,86,Efua Addo,(55) 120-3344,Portal,10/3/2026
+PROP-01310,Tema,Penthouse,2,2,1064," 824,000 ",8/16/2024,Sold,,2015,55,Daniel Owusu,,Agent Upload,
+PROP-00341,East Legon,Apartment,2,2,1543," 1,486,000 ",9/6/2025,Sold,Furnished,2009,110,Ama Boateng,,Website,10/3/2026
+PROP-00432,Cantonments,Studio,0,1,717," 494,000 ",,Under Offer,Furnished,2011,1,Kofi Antwi,(24) 555-0182,Portal,10/3/2026
+PROP-00474,East Legon,Apartment,2,1.5,1483," 1,326,000 ",6/19/2026,For Sale,Unfurnished,2021,103,Daniel Owusu,(55) 120-3344,Portal,10/3/2026
+PROP-00218,Osu,Townhouse,4,4.5,," 1,392,000 ",6/8/2026,Sold,,2011,103,Nana Yaa,(20) 771-9921,Portal,
+PROP-00912,Cantonments,Penthouse,2,2.5,1337," 2,235,000 ",5/31/2026,For Sale,Unfurnished,2006,146,Michael Asare,(20) 771-9921,Agent Upload,
+PROP-01241,Airport Residential,Studio,0,1,543," 394,000 ",3/2/2024,Sold,Partly Furnished,2009,115,Daniel Owusu,(55) 120-3344,Facebook,
+PROP-01012,Adenta,Apartment,0,1,1109," 358,000 ",11/30/2024,For Sale,Unfurnished,2020,87,Michael Asare,(24) 555-0182,Portal,2/15/2026
+LIST-00350,Dansoman,Apartment,3,3.5,2064," 14,888,245 ",6/23/2024,Under Offer,Furnished,2018,49,Kofi Antwi,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00094,East Legon,Apartment,3,3,1836," 1,591,000 ",6/30/2025,For Sale,Unfurnished,2026,1,Nana Yaa,(20) 771-9921,Website,
+PROP-01009,Spintex,Apartment,1,1,," 393,000 ",5/13/2026,For Sale,,2020,62,Nana Yaa,(24) 555-0182,WhatsApp,1/10/2026
+PROP-01071,East Legon,Townhouse,3,3.5,1645," 2,064,000 ",7/23/2024,For Sale,Unfurnished,2000,99,Kofi Antwi,,Portal,10/3/2026
+PROP-01093,Labone,Apartment,3,3,1908," 1,622,000 ",5/18/2024,Sold,Furnished,2023,95,Ama Boateng,(55) 120-3344,Portal,2/15/2026
+PROP-00697,Kasoa,Penthouse,1,1.5,1224," 355,000 ",8/30/2025,Under Offer,Furnished,2000,1,Michael Asare,(24) 555-0182,Facebook,
+PROP-01383,Osu,Townhouse,1,1.5,924," 694,000 ",2/7/2026,For Sale,Furnished,2024,98,Daniel Owusu,,Facebook,
+PROP-00997,Tema,Townhouse,4,3,2361," 1,522,000 ",9/12/2024,Under Offer,Furnished,2003,1,Efua Addo,(55) 120-3344,Portal,2/15/2026
+PROP-00154,Spintex,Townhouse,4,4,2529," 1,451,000 ",5/16/2024,For Sale,Furnished,2000,125,Michael Asare,(20) 771-9921,Facebook,2/15/2026
+PROP-01100,Dansoman,Apartment,2,2,1458," 490,000 ",9/27/2024,Sold,Unfurnished,1998,112,Nana Yaa,(20) 771-9921,WhatsApp,
+LIST-00253,East Legon,Apartment,3,3,1950,,9/21/2024,Under Offer,Furnished,2013,109,Kofi Antwi,(20) 771-9921,,2/15/2026
+LIST-00434,,Apartment,4,3,," 644,000 ",7/16/2024,Under Offer,Furnished,1998,119,Ama Boateng,(55) 120-3344,Portal,2/15/2026
+PROP-00790,Airport Residential,Townhouse,2,2,1416," 2,040,000 ",6/17/2024,Available,Unfurnished,2012,19,Nana Yaa,(55) 120-3344,Portal,2/15/2026
+PROP-00581,Adenta,Apartment,3,,1771," 624,000 ",7/19/2025,For Sale,Partly Furnished,2026,155,Kwame Mensah,(20) 771-9921,Agent Upload,1/10/2026
+PROP-00704,Tema,Studio,0,1,622," 226,000 ",10/5/2024,Under Offer,Unfurnished,2003,14,Kofi Antwi,,Facebook,2/15/2026
+PROP-01297,Labone,Apartment,3,3,1751," 1,491,000 ",1/26/2026,Available,Furnished,2025,45,Michael Asare,(20) 771-9921,,
+PROP-00488,Labone,Apartment,3,2.5,1861," 1,777,000 ",2/20/2026,For Sale,furnished,2003,106,Michael Asare,(20) 771-9921,Portal,
+PROP-00560,Cantonments,Apartment,1,1,1277," 1,651,000 ",2/26/2024,For Sale,Unfurnished,2011,1,Kofi Antwi,(20) 771-9921,Facebook,1/10/2026
+PROP-01120,East Legon,Apartment,2,1.5,1741," 2,177,000 ",5/16/2025,Under Offer,Furnished,2004,146,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00802,Osu,Townhouse,0,1,547," 687,000 ",8/7/2024,Under Offer,Furnished,2016,33,Kofi Antwi,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00513,Cantonments,Apartment,0,1,752," 864,000 ",11/19/2025,For Sale,Unfurnished,2007,79,Daniel Owusu,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00634,Dansoman,Studio,0,1,652," 202,000 ",1/24/2025,Available,Unfurnished,1998,119,Kwame Mensah,(24) 555-0182,Facebook,1/10/2026
+PROP-01142,Achimota,Apartment,1,1.5,1237," 721,000 ",7/3/2026,Available,Furnished,2011,165,Kofi Antwi,(55) 120-3344,Facebook,2/15/2026
+PROP-01379,Achimota,Townhouse,3,2.5,2032," 1,193,000 ",10/7/2026,For Sale,,2004,125,Michael Asare,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00791,Cantonments,Townhouse,2,2,1845," 1,938,000 ",6/14/2026,Available,furnished,2003,70,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00117,East Legon,Studio,0,1,994," 737,000 ",5/23/2025,Sold,Unfurnished,2018,42,Nana Yaa,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00741,Adenta,Townhouse,5,4,2726," 1,030,000 ",6/3/2025,For Sale,,2009,55,Kofi Antwi,,Facebook,10/3/2026
+PROP-01082,Osu,Townhouse,6,5,3009," 2,129,000 ",9/2/2024,Under Offer,,2014,1,,(55) 120-3344,Website,1/10/2026
+PROP-00831,Airport Residential,Townhouse,3,3,1804," 2,264,000 ",1/24/2026,Under Offer,furnished,2004,66,Kwame Mensah,(20) 771-9921,Portal,10/3/2026
+PROP-00120,Labone,Apartment,1,1,900," 727,000 ",3/23/2024,For Sale,Furnished,2009,151,Kofi Antwi,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00657,Dzorwulu,Townhouse,2,1.5,," 1,855,000 ",12/5/2025,Sold,Furnished,1999,126,Kwame Mensah,,Agent Upload,10/3/2026
+PROP-01467,Tema,Apartment,2,2,1546," 527,000 ",,For Sale,Unfurnished,2016,31,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00636,Dansoman,Studio,0,1,422," 119,000 ",1/12/2025,For Sale,Unfurnished,2015,61,Daniel Owusu,(55) 120-3344,Agent Upload,1/10/2026
+PROP-00370,Labone,Apartment,3,2.5,1917," 1,707,000 ",10/5/2025,Available,Unfurnished,2002,68,Michael Asare,(24) 555-0182,Website,10/3/2026
+PROP-00269,Labone,Townhouse,1,1,1062," 1,427,000 ",9/8/2025,Sold,Furnished,2019,106,Daniel Owusu,(24) 555-0182,Website,1/10/2026
+PROP-00656,Dzorwulu,Apartment,0,1,575," 377,000 ",3/7/2025,For Sale,furnished,2007,82,Ama Boateng,(20) 771-9921,,
+PROP-00936,Airport Residential,Apartment,,3.5,1971," 2,137,000 ",5/23/2025,For Sale,Unfurnished,2015,72,Kwame Mensah,(20) 771-9921,Website,10/3/2026
+PROP-00823,Osu,Apartment,0,1,822," 661,000 ",11/5/2025,For Sale,Furnished,2018,124,Efua Addo,(20) 771-9921,Website,2/15/2026
+PROP-00867,Osu,Townhouse,2,2,1423," 937,000 ",10/7/2025,Under Offer,Furnished,2020,1,Ama Boateng,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00047,East Legon,Apartment,2,2.5,1059," 919,000 ",8/19/2024,Sold,Partly Furnished,2005,24,Michael Asare,(20) 771-9921,Portal,1/10/2026
+PROP-01329,Dansoman,Townhouse,3,2.5,1851," 920,000 ",,For Sale,,2007,93,Kwame Mensah,,Portal,
+PROP-00992,Airport Residential,Apartment,1,1,1148," 1,104,000 ",1/29/2026,For Sale,Unfurnished,2012,166,Daniel Owusu,(55) 120-3344,Agent Upload,
+PROP-00877,Osu,,2,1.5,0," 1,211,000 ",2/19/2024,Sold,Unfurnished,2005,111,Michael Asare,,Website,10/3/2026
+PROP-00774,Achimota,Studio,0,1,1083," 477,000 ",6/21/2026,For Sale,,2017,134,Ama Boateng,,Website,
+LIST-01263,Spintex,Studio,0,1,1044," 427,000 ",1/5/2025,Available,Unfurnished,2005,1,Kwame Mensah,(24) 555-0182,,2/15/2026
+PROP-00005,Airport Residential,Apartment,3,2.5,1852," 1,999,000 ",6/24/2025,For Sale,furnished,2012,54,Kwame Mensah,(55) 120-3344,Facebook,
+PROP-01004,Dzorwulu,Apartment,1,1,952," 810,000 ",5/25/2026,Available,Unfurnished,2005,1,Kofi Antwi,(24) 555-0182,Website,10/3/2026
+PROP-01340,Tema,Apartment,2,2,1619," 719,000 ",,For Sale,Furnished,2010,150,Daniel Owusu,,Portal,1/10/2026
+PROP-00264,Achimota,Apartment,2,2.5,1337," 694,000 ",,Under Offer,furnished,1999,81,Ama Boateng,,Facebook,1/10/2026
+PROP-01261,Dzorwulu,Apartment,3,3,1595," 1,172,000 ",8/17/2025,Under Offer,Unfurnished,2020,9,Daniel Owusu,,,
+PROP-01411,Achimota,Studio,0,1,361," 110,000 ",6/28/2025,Available,Unfurnished,2005,28,Michael Asare,(55) 120-3344,Website,2/15/2026
+PROP-00444,East Legon,Townhouse,3,3.5,1895," 2,669,000 ",7/3/2026,For Sale,Unfurnished,2005,91,Daniel Owusu,(20) 771-9921,Website,10/3/2026
+PROP-01003,Dzorwulu,Townhouse,1,1,1193," 947,000 ",6/28/2024,Sold,Unfurnished,2012,33,Michael Asare,(55) 120-3344,Facebook,10/3/2026
+PROP-01078,Cantonments,Penthouse,4,4.5,2571," 4,975,000 ",4/1/2025,Under Offer,Unfurnished,2017,148,Kwame Mensah,(24) 555-0182,Agent Upload,
+PROP-00838,,Apartment,2,3,," 1,214,000 ",1/21/2024,For Sale,,1999,63,,,Agent Upload,10/3/2026
+PROP-01381,Airport Residential,Apartment,3,3,1967," 2,247,000 ",6/5/2025,Sold,Furnished,2021,1,Ama Boateng,,WhatsApp,10/3/2026
+PROP-00305,Adenta,Apartment,1,1,1172," 345,000 ",2/28/2024,For Sale,Furnished,2006,126,Ama Boateng,(20) 771-9921,Portal,10/3/2026
+PROP-01209,Adenta,Townhouse,3,3.5,1733," 445,000 ",7/25/2024,For Sale,Partly Furnished,2013,91,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00314,Cantonments,Townhouse,3,3,2022," 2,401,000 ",1/14/2024,For Sale,furnished,2026,57,Ama Boateng,(24) 555-0182,Website,2/15/2026
+PROP-00150,Labone,Townhouse,1,1.5,1000," 1,473,000 ",6/24/2026,Under Offer,Unfurnished,2010,1,Kofi Antwi,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01149,,Townhouse,4,4,1996," 1,351,000 ",8/25/2025,Available,Partly Furnished,1998,27,Michael Asare,,Portal,1/10/2026
+PROP-00575,Spintex,Townhouse,2,2,1401," 1,015,000 ",4/13/2024,Sold,Unfurnished,2026,135,Michael Asare,(24) 555-0182,,
+PROP-00051,Kasoa,Townhouse,5,5,2878," 911,000 ",2/22/2025,Sold,,2021,23,Michael Asare,(24) 555-0182,Facebook,
+PROP-01206,East Legon,Apartment,1,1,1443," 1,391,000 ",6/24/2024,Sold,Unfurnished,1998,37,Michael Asare,(20) 771-9921,Agent Upload,
+PROP-00727,Achimota,Penthouse,1,1,1087," 974,000 ",4/25/2025,For Sale,Furnished,2020,140,Kwame Mensah,(24) 555-0182,Facebook,
+PROP-00834,Osu,Apartment,2,2,1270," 912,000 ",3/14/2024,For Sale,Partly Furnished,2001,62,Efua Addo,(24) 555-0182,Portal,1/10/2026
+PROP-01116,East Legon,Penthouse,3,3,1836," 2,288,000 ",5/19/2026,Sold,Unfurnished,2009,,Daniel Owusu,(55) 120-3344,Facebook,10/3/2026
+PROP-01167,East Legon,Studio,0,1,685," 552,000 ",7/14/2026,Under Offer,Unfurnished,,68,Ama Boateng,(24) 555-0182,Portal,1/10/2026
+PROP-00471,Cantonments,Townhouse,3,2,2051," 2,736,000 ",10/15/2024,Under Offer,Unfurnished,2016,109,Ama Boateng,(24) 555-0182,Portal,10/3/2026
+PROP-00972,Osu,Studio,0,1,716," 544,000 ",3/20/2025,For Sale,Unfurnished,2016,20,Daniel Owusu,(24) 555-0182,Facebook,1/10/2026
+PROP-00654,Adenta,Studio,0,1,822,,7/31/2025,For Sale,Furnished,2014,168,Nana Yaa,(24) 555-0182,Facebook,1/10/2026
+PROP-00400,East Legon,Studio,0,1,," 410,000 ",9/11/2025,Sold,Unfurnished,2009,31,Ama Boateng,(20) 771-9921,Portal,10/3/2026
+PROP-00512,Osu,Townhouse,2,2,1490," 1,026,000 ",5/5/2024,Under Offer,Unfurnished,2025,38,Kofi Antwi,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00321,Tema,Penthouse,3,3,1822," 1,494,000 ",9/14/2024,Under Offer,Partly Furnished,2006,1,Kofi Antwi,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00020,Spintex,Townhouse,1,1,1523," 1,516,000 ",2/14/2025,For Sale,Furnished,1998,54,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00685,Osu,Studio,0,1,544," 254,000 ",3/18/2026,Available,Unfurnished,2026,1,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00036,Kasoa,Townhouse,0,1,350," 54,000 ",8/20/2024,For Sale,Furnished,2003,1,Kofi Antwi,,Portal,2/15/2026
+PROP-00903,Cantonments,Studio,0,1,577," 455,000 ",6/9/2026,Sold,,1998,1,Nana Yaa,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00828,Tema,Townhouse,0,1,642," 264,000 ",11/22/2024,Available,Unfurnished,2023,54,Nana Yaa,(55) 120-3344,WhatsApp,
+PROP-01386,Labone,Apartment,2,3,1413," 1,263,000 ",6/29/2025,For Sale,Partly Furnished,2019,63,,(55) 120-3344,Facebook,10/3/2026
+PROP-00408,Adenta,Townhouse,1,1,1100," 569,000 ",11/1/2024,For Sale,Unfurnished,2010,39,Michael Asare,(24) 555-0182,Agent Upload,
+PROP-00921,East Legon,Townhouse,5,4,2866," 4,276,000 ",4/19/2026,Available,furnished,1999,1,Efua Addo,(55) 120-3344,Portal,1/10/2026
+PROP-00538,Osu,Townhouse,1,1.5,1047," 903,000 ",8/20/2024,Available,Unfurnished,2001,160,Michael Asare,,WhatsApp,
+PROP-00759,Osu,Townhouse,1,1,1239," 843,000 ",11/25/2024,For Sale,furnished,2002,154,Daniel Owusu,(24) 555-0182,Website,
+PROP-01063,Tema,Townhouse,3,2.5,1599," 589,000 ",11/23/2024,For Sale,Unfurnished,2024,67,Michael Asare,,Website,
+PROP-00246,East Legon,Townhouse,3,4,1714," 1,763,000 ",11/13/2025,Sold,,2017,154,Efua Addo,(20) 771-9921,Portal,10/3/2026
+PROP-01128,,Apartment,4,3.5,2311," 2,711,000 ",6/13/2024,Under Offer,Unfurnished,2005,125,Kofi Antwi,(20) 771-9921,Agent Upload,1/10/2026
+PROP-00785,Dzorwulu,Apartment,3,3,2109," 1,494,000 ",6/14/2024,For Sale,Unfurnished,1998,161,Ama Boateng,(24) 555-0182,Website,
+PROP-00490,East Legon,Townhouse,6,6,3168," 2,940,000 ",3/10/2026,Available,Unfurnished,2004,127,Nana Yaa,(20) 771-9921,Portal,2/15/2026
+PROP-00155,Achimota,Townhouse,0,1,548," 205,000 ",8/18/2025,For Sale,Unfurnished,2009,94,Michael Asare,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00962,,Apartment,3,2.5,," 1,264,000 ",3/14/2026,For Sale,Furnished,2025,1,Nana Yaa,,Portal,1/10/2026
+PROP-00854,East Legon,Townhouse,3,3.5,1900," 1,722,000 ",8/29/2025,Under Offer,Unfurnished,2024,127,Kwame Mensah,(20) 771-9921,,2/15/2026
+PROP-00626,Kasoa,Townhouse,3,2.5,1888," 538,000 ",6/26/2024,Sold,,2012,87,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-00686,Adenta,Apartment,2,2,1154," 422,000 ",5/11/2026,For Sale,Unfurnished,2013,26,Efua Addo,(24) 555-0182,Website,2/15/2026
+PROP-00570,Spintex,Apartment,3,2,2057," 1,089,000 ",10/31/2024,For Sale,Furnished,2001,23,Efua Addo,(20) 771-9921,Agent Upload,
+PROP-01468,Labone,Apartment,2,2,1700," 1,414,000 ",10/25/2025,For Sale,Partly Furnished,2002,85,Michael Asare,(24) 555-0182,Facebook,1/10/2026
+PROP-00018,East Legon,Apartment,1,1,1061," 916,000 ",1/31/2025,For Sale,Furnished,,2,Kwame Mensah,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00128,Airport Residential,Apartment,2,2.5,1629," 1,719,000 ",1/18/2026,For Sale,Furnished,2002,118,Daniel Owusu,(24) 555-0182,Facebook,
+LIST-00587,Tema,Apartment,5,4,2863," 1,087,000 ",7/26/2026,Under Offer,Unfurnished,2012,1,Daniel Owusu,(20) 771-9921,Portal,2/15/2026
+PROP-00928,Dansoman,Townhouse,3,3,1833," 353,000 ",7/1/2026,For Sale,Furnished,2007,57,Kofi Antwi,,Portal,10/3/2026
+PROP-00981,Dzorwulu,Penthouse,2,2,1864," 1,945,000 ",7/16/2025,For Sale,Furnished,2013,136,Kwame Mensah,(55) 120-3344,Agent Upload,1/10/2026
+LIST-00824,Osu,Penthouse,5,5.5,2861," 3,156,000 ",7/23/2026,Sold,Unfurnished,2002,86,Daniel Owusu,(24) 555-0182,Facebook,2/15/2026
+PROP-00191,Spintex,Townhouse,4,4,2345," 1,216,000 ",4/5/2026,For Sale,Furnished,2013,82,Nana Yaa,(24) 555-0182,Agent Upload,
+PROP-01140,Tema,Apartment,4,,2480," 1,049,000 ",3/10/2025,Under Offer,Furnished,2015,102,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00993,Spintex,Studio,0,1,," 436,000 ",11/29/2024,Sold,Furnished,2022,23,Ama Boateng,,Facebook,2/15/2026
+LIST-00323,Adenta,Studio,0,1,350," 61,000 ",2/6/2025,Sold,Unfurnished,2013,86,Daniel Owusu,(20) 771-9921,Portal,1/10/2026
+PROP-01289,Spintex,Studio,0,1,538," 313,000 ",11/12/2025,For Sale,Unfurnished,2017,108,Efua Addo,(24) 555-0182,Facebook,1/10/2026
+PROP-00607,Spintex,,3,3,1745," 1,823,000 ",2/18/2024,For Sale,Unfurnished,2008,62,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-00181,East Legon,Studio,0,1,788," 536,000 ",1/29/2026,Available,Furnished,2019,147,Efua Addo,(55) 120-3344,Website,10/3/2026
+PROP-00302,Labone,Penthouse,1,1.5,"1,134"," 1,517,000 ",1/4/2024,Available,Unfurnished,2021,66,Nana Yaa,,Portal,10/3/2026
+PROP-00497,Cantonments,Apartment,1,1,930," 1,129,000 ",9/14/2025,For Sale,Partly Furnished,2016,1,Michael Asare,(55) 120-3344,Website,1/10/2026
+PROP-01330,Labone,Townhouse,2,2,1582," 1,546,000 ",9/28/2024,For Sale,Furnished,2000,1,Michael Asare,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01294,East Legon,Studio,0,1,640," 818,000 ",9/13/2025,Available,Unfurnished,2020,81,Ama Boateng,(20) 771-9921,Portal,2/15/2026
+PROP-01274,East Legon,Townhouse,3,3.5,1899," 1,734,000 ",8/6/2025,Under Offer,Partly Furnished,2019,112,Daniel Owusu,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00518,Tema,Townhouse,2,,1629,,5/24/2025,For Sale,Furnished,2003,118,Kwame Mensah,(20) 771-9921,,10/3/2026
+PROP-01070,Tema,Townhouse,3,2.5,1845," 553,000 ",4/15/2026,For Sale,Partly Furnished,2007,,Efua Addo,,WhatsApp,2/15/2026
+PROP-00477,Tema,Apartment,1,1,930," 414,000 ",4/2/2024,Sold,Unfurnished,1999,3,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00158,Dansoman,Studio,0,1,724," 220,000 ",6/30/2025,Available,Unfurnished,2026,74,Michael Asare,(55) 120-3344,Portal,10/3/2026
+PROP-01196,Osu,Studio,0,1,," 340,000 ",11/15/2024,Available,,2023,105,Daniel Owusu,,Website,10/3/2026
+PROP-00017,Cantonments,Apartment,4,3,2593," 2,923,000 ",10/21/2024,For Sale,Unfurnished,2006,105,Kofi Antwi,(20) 771-9921,Website,
+PROP-01073,East Legon,Townhouse,3,4,1969," 2,339,000 ",12/21/2024,For Sale,Furnished,2011,93,Kwame Mensah,,Agent Upload,
+LIST-00464,Cantonments,Townhouse,2,1,1580," 2,581,000 ",7/2/2025,For Sale,,2019,40,Michael Asare,(55) 120-3344,WhatsApp,
+PROP-00547,Tema,Studio,0,1,639," 158,000 ",2/3/2024,For Sale,Unfurnished,2025,110,Efua Addo,(24) 555-0182,Facebook,2/15/2026
+PROP-00659,Adenta,Townhouse,5,5.5,2665," 839,000 ",11/4/2025,Available,Unfurnished,2019,114,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-01263,Spintex,Studio,0,1,1044," 427,000 ",1/5/2025,Available,Unfurnished,2005,1,Kwame Mensah,(24) 555-0182,WhatsApp,1/10/2026
+PROP-01020,Kasoa,Townhouse,3,3,2013," 531,000 ",10/1/2024,For Sale,Furnished,2021,56,Efua Addo,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01458,East Legon,Studio,0,1,940," 692,000 ",11/24/2025,For Sale,Furnished,2007,53,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-00960,Dzorwulu,Townhouse,2,1.5,1500," 1,006,000 ",2/6/2026,For Sale,Furnished,2006,1,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-01451,Adenta,Apartment,,3.5,1959," 703,000 ",9/19/2024,For Sale,Furnished,2023,101,Nana Yaa,,Facebook,10/3/2026
+PROP-00284,Osu,Apartment,4,4,2505," 2,100,000 ",9/23/2025,Available,Furnished,2012,98,Nana Yaa,(55) 120-3344,WhatsApp,10/3/2026
+PROP-00798,Spintex,Townhouse,1,1,1202," 1,014,000 ",3/18/2024,Sold,Unfurnished,2000,38,Nana Yaa,,Facebook,10/3/2026
+PROP-00226,Tema,Apartment,3,3,1732," 670,000 ",8/11/2024,Sold,Unfurnished,2006,70,Ama Boateng,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00027,Labone,Apartment,2,2,1724," 1,571,000 ",4/1/2025,For Sale,Unfurnished,2022,134,Nana Yaa,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00438,Airport Residential,Penthouse,4,3.5,2300," 3,819,000 ",10/30/2025,For Sale,Unfurnished,2003,160,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+LIST-00696,East Legon,Apartment,1,1.5,869," 684,000 ",7/11/2026,For Sale,Unfurnished,2007,111,Kofi Antwi,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00230,Labone,Apartment,2,2,1771,,10/13/2024,Sold,Furnished,2014,1,Ama Boateng,(55) 120-3344,Facebook,1/10/2026
+PROP-00038,,Studio,0,1,735," 206,000 ",1/25/2025,For Sale,Furnished,2005,1,Efua Addo,(24) 555-0182,Website,
+PROP-00750,Labone,Townhouse,3,1.5,1581," 1,918,000 ",9/7/2025,For Sale,Furnished,2011,31,Kofi Antwi,(20) 771-9921,Agent Upload,
+PROP-01046,Osu,Apartment,1,1,956," 585,000 ",4/23/2024,Available,Furnished,2024,76,Michael Asare,(55) 120-3344,Portal,1/10/2026
+PROP-00470,East Legon,Apartment,2,2.5,1745," 1,725,000 ",7/10/2026,Available,Furnished,2018,113,Michael Asare,(20) 771-9921,Agent Upload,1/10/2026
+PROP-01317,Dzorwulu,Townhouse,2,1.5,1280," 925,000 ",5/24/2025,Sold,Furnished,2023,62,Michael Asare,(55) 120-3344,Facebook,1/10/2026
+LIST-00546,East Legon,Apartment,1,1.5,889," 952,000 ",3/17/2025,For Sale,Partly Furnished,2006,104,Kwame Mensah,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00688,,Townhouse,,2.5,1513," 1,823,000 ",1/21/2024,Sold,furnished,2021,86,Ama Boateng,(24) 555-0182,Website,2/15/2026
+PROP-01420,Labone,Apartment,0,1,604," 552,000 ",1/3/2024,Sold,Furnished,2019,43,Kofi Antwi,(24) 555-0182,Website,10/3/2026
+PROP-00640,Cantonments,Townhouse,,3.5,2257," 2,725,000 ",7/10/2024,Under Offer,Furnished,2009,78,Ama Boateng,(24) 555-0182,Website,10/3/2026
+LIST-00146,East Legon,Apartment,1,1.5,845," 837,000 ",1/29/2026,For Sale,Unfurnished,2025,44,,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01219,Adenta,Apartment,2,2,1647," 338,000 ",8/6/2024,For Sale,Partly Furnished,2003,1,Ama Boateng,,Portal,1/10/2026
+PROP-01159,Cantonments,Apartment,1,1.5,1244," 1,447,000 ",3/29/2026,For Sale,Unfurnished,2003,41,Efua Addo,,Portal,2/15/2026
+PROP-01288,Spintex,Apartment,4,,2422," 1,317,000 ",7/2/2024,For Sale,Furnished,2022,106,Michael Asare,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01405,East Legon,Apartment,1,1.5,1174," 1,187,000 ",10/22/2025,Available,Unfurnished,2021,12,Nana Yaa,(24) 555-0182,WhatsApp,
+PROP-00801,Adenta,Apartment,0,1,539," 352,000 ",2/9/2026,For Sale,Furnished,2017,48,Michael Asare,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00161,East Legon,Penthouse,4,3,"2,452"," 3,388,000 ",7/11/2024,For Sale,Partly Furnished,2024,39,Efua Addo,,Agent Upload,1/10/2026
+PROP-00957,Dzorwulu,Apartment,0,1,708," 542,000 ",11/16/2024,For Sale,Unfurnished,2011,28,Efua Addo,(24) 555-0182,,
+PROP-01187,Osu,Townhouse,4,3,2397," 1,686,000 ",5/5/2026,Available,Unfurnished,2012,75,Ama Boateng,(24) 555-0182,Website,
+PROP-00822,Labone,Townhouse,0,1,735," 809,000 ",12/5/2025,Under Offer,Unfurnished,2007,65,Michael Asare,(20) 771-9921,,1/10/2026
+PROP-01309,Labone,Apartment,2,2,1576," 50,000 ",4/20/2025,For Sale,Furnished,2020,93,Michael Asare,(55) 120-3344,Agent Upload,
+PROP-00878,East Legon,Townhouse,6,6,2923," 2,822,000 ",2/10/2026,Sold,Unfurnished,2016,30,Daniel Owusu,(24) 555-0182,Website,1/10/2026
+PROP-00914,Dansoman,Townhouse,3,3,1767," 734,000 ",1/3/2026,For Sale,Furnished,2025,,Daniel Owusu,(20) 771-9921,Website,
+PROP-00153,Airport Residential,Penthouse,2,2,1797," 4,105,000 ",4/12/2025,Available,Furnished,2024,81,Michael Asare,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01415,Kasoa,Townhouse,3,3.5,2014," 657,000 ",2/14/2025,Sold,Furnished,2025,85,Kwame Mensah,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00510,Tema,Apartment,1,1,1195," 285,000 ",1/22/2024,Available,,2008,93,Nana Yaa,(20) 771-9921,Portal,10/3/2026
+PROP-01136,Dzorwulu,Apartment,,1.5,1518," 966,000 ",2/14/2025,For Sale,Furnished,2026,6,Kofi Antwi,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01251,,,2,1.5,1559," 756,000 ",9/26/2024,For Sale,Furnished,2017,126,Kwame Mensah,(20) 771-9921,WhatsApp,10/3/2026
+PROP-01296,Adenta,Apartment,4,4.5,2360," 882,000 ",6/20/2026,Under Offer,furnished,2001,124,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-00104,Airport Residential,Apartment,1,1,982," 1,300,000 ",6/20/2024,For Sale,Unfurnished,2014,34,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00587,Tema,,5,4,2863," 1,087,000 ",7/26/2026,Under Offer,Unfurnished,2012,1,Daniel Owusu,(20) 771-9921,Facebook,10/3/2026
+PROP-01367,Tema,Apartment,1,1.5,623," 223,000 ",10/3/2025,For Sale,Partly Furnished,2016,119,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01144,Airport Residential,Townhouse,6,5,2996," 3,849,000 ",5/3/2024,For Sale,furnished,2004,80,Ama Boateng,(24) 555-0182,Website,2/15/2026
+PROP-00054,Tema,Townhouse,4,4.5,2373,,8/9/2024,Sold,Furnished,2017,149,Kofi Antwi,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00152,East Legon,Townhouse,3,3,1720," 1,607,000 ",8/4/2026,For Sale,Unfurnished,2016,3,Efua Addo,(55) 120-3344,Website,
+PROP-00404,Adenta,Townhouse,2,1.5,1589," 611,000 ",6/24/2024,Available,Unfurnished,2005,39,Kwame Mensah,(55) 120-3344,Facebook,2/15/2026
+PROP-01498,Dansoman,Townhouse,2,2,2," 199,000 ",1/3/2026,Sold,Unfurnished,2005,37,Ama Boateng,,WhatsApp,1/10/2026
+PROP-00208,Adenta,Apartment,2,1.5,1439," 669,000 ",1/13/2026,For Sale,Furnished,2015,46,Ama Boateng,(24) 555-0182,Agent Upload,
+PROP-01459,Cantonments,Penthouse,2,2,1486," 2,791,000 ",8/13/2025,Under Offer,Unfurnished,2016,122,Efua Addo,(24) 555-0182,Agent Upload,10/3/2026
+PROP-01123,Achimota,Studio,0,1,773," 199,000 ",6/18/2024,For Sale,Unfurnished,2004,146,Kofi Antwi,,Facebook,1/10/2026
+PROP-01357,East Legon,Townhouse,3,3,1900," 1,868,000 ",8/14/2024,Available,Unfurnished,2020,64,Nana Yaa,(20) 771-9921,Portal,
+PROP-00009,,Apartment,1,1.5,907," 758,000 ",7/9/2026,For Sale,Unfurnished,2020,50,Efua Addo,(55) 120-3344,Portal,10/3/2026
+PROP-01015,Airport Residential,Studio,0,1,572," 391,000 ",4/7/2026,For Sale,Unfurnished,2016,84,Ama Boateng,(24) 555-0182,WhatsApp,1/10/2026
+PROP-01385,Osu,Apartment,3,3,1663," 1,045,000 ",7/19/2024,Under Offer,,2018,92,Ama Boateng,(24) 555-0182,Facebook,
+PROP-01061,East Legon,Apartment,1,1,1198," 1,217,000 ",4/23/2024,Available,Unfurnished,2001,20,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-00453,Spintex,Townhouse,2,1.5,," 943,000 ",1/5/2026,Available,furnished,2001,18,,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00254,Airport Residential,Apartment,3,2.5,23440," 2,227,000 ",3/18/2026,Sold,Partly Furnished,2007,80,Michael Asare,(24) 555-0182,Facebook,
+PROP-00897,Spintex,Apartment,3,3,1863," 1,059,000 ",6/19/2025,For Sale,Furnished,2009,133,Ama Boateng,,Portal,2/15/2026
+PROP-01347,Osu,Apartment,2,2,1368," 1,101,000 ",12/13/2024,For Sale,Furnished,1998,195,Ama Boateng,(24) 555-0182,,1/10/2026
+PROP-00881,Tema,Apartment,2,,1384," 498,000 ",4/13/2024,For Sale,Furnished,2001,78,Michael Asare,,WhatsApp,10/3/2026
+PROP-01455,Tema,Townhouse,5,5.5,2870," 1,450,000 ",5/7/2026,For Sale,Furnished,2014,68,Efua Addo,(20) 771-9921,Website,2/15/2026
+PROP-00624,Tema,Penthouse,1,1,1277," 783,000 ",11/30/2024,For Sale,Furnished,2013,138,Kwame Mensah,(24) 555-0182,,10/3/2026
+PROP-00346,Airport Residential,Townhouse,2,2.5,," 2,645,000 ",5/16/2024,Available,Furnished,2026,60,Kwame Mensah,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01325,Achimota,Apartment,5,5,3053," 1,378,000 ",4/13/2026,For Sale,Unfurnished,2002,140,Michael Asare,(55) 120-3344,Portal,2/15/2026
+PROP-00263,Airport Residential,Studio,0,1,990," 1,192,000 ",2/10/2024,Available,Unfurnished,2018,134,Efua Addo,(20) 771-9921,Website,2/15/2026
+PROP-00151,Achimota,Apartment,1,1,951," 376,000 ",10/2/2024,For Sale,Partly Furnished,2005,104,Michael Asare,(24) 555-0182,Website,1/10/2026
+PROP-00473,Spintex,Apartment,2,2,1746," 1,046,000 ",12/8/2024,Sold,Unfurnished,2003,107,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-00641,Spintex,Townhouse,6,5.5,3202," 2,158,000 ",12/15/2024,Available,,2011,63,Nana Yaa,(24) 555-0182,Website,10/3/2026
+LIST-00642,Kasoa,Townhouse,2,2,1250," 429,000 ",9/18/2025,Under Offer,Unfurnished,2003,1,Nana Yaa,,Facebook,1/10/2026
+PROP-01478,Osu,Apartment,3,3,1721," 1,215,000 ",6/22/2024,Sold,Unfurnished,2011,78,Kofi Antwi,(20) 771-9921,Portal,1/10/2026
+PROP-00551,Dansoman,Penthouse,2,2.5,1663," 854,000 ",11/27/2024,Sold,Furnished,2020,138,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-00929,East Legon,Apartment,1,1.5,921," 1,071,000 ",4/4/2026,For Sale,Unfurnished,2024,86,Efua Addo,(55) 120-3344,Facebook,
+PROP-00489,East Legon,Apartment,2,2.5,1493," 2,044,000 ",6/23/2025,For Sale,Unfurnished,2016,93,Kofi Antwi,,Portal,1/10/2026
+PROP-01398,,Townhouse,2,1.5,"1,720"," 9,483,705 ",8/2/2026,For Sale,Unfurnished,2000,46,Michael Asare,(20) 771-9921,Website,2/15/2026
+PROP-01172,Dzorwulu,Studio,0,1,865,,11/8/2025,Under Offer,Unfurnished,2022,1,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00147,Dansoman,Townhouse,3,,2252," 687,000 ",8/31/2025,For Sale,Unfurnished,1999,126,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00403,Spintex,Townhouse,3,3,2038," 1,334,000 ",4/20/2025,Sold,furnished,2018,113,Nana Yaa,(20) 771-9921,Facebook,10/3/2026
+PROP-00955,Adenta,Townhouse,3,3,1656," 617,000 ",2/17/2026,For Sale,Furnished,1999,,Kofi Antwi,(55) 120-3344,Portal,
+PROP-01447,Airport Residential,Studio,0,1,750," 656,000 ",9/18/2024,For Sale,Unfurnished,2005,44,Ama Boateng,(24) 555-0182,Website,
+PROP-00660,Tema,Townhouse,2,1.5,1435," 775,000 ",6/22/2024,For Sale,,2004,166,Kofi Antwi,(24) 555-0182,Website,1/10/2026
+PROP-00464,Cantonments,Townhouse,2,1,1580," 2,581,000 ",7/2/2025,For Sale,,2019,40,Michael Asare,(55) 120-3344,WhatsApp,
+PROP-00187,Labone,Townhouse,2,2,1499," 1,536,000 ",2/6/2024,For Sale,furnished,2015,49,Daniel Owusu,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01148,Airport Residential,Townhouse,3,3,1613," 1,825,000 ",3/20/2024,Sold,Partly Furnished,2013,57,Daniel Owusu,(20) 771-9921,Agent Upload,1/10/2026
+PROP-01225,Cantonments,Studio,0,1,867," 771,000 ",5/26/2026,For Sale,Unfurnished,2004,40,Efua Addo,,Agent Upload,10/3/2026
+PROP-00609,Tema,Apartment,3,2.5,2000," 888,000 ",5/30/2024,For Sale,Unfurnished,2018,62,Kofi Antwi,(24) 555-0182,Facebook,1/10/2026
+PROP-00144,Osu,Penthouse,2,2,1202," 1,380,000 ",7/16/2024,For Sale,Partly Furnished,2000,57,Daniel Owusu,(55) 120-3344,Website,
+PROP-00752,Adenta,Townhouse,3,2.5,1607," 487,000 ",3/8/2024,For Sale,Unfurnished,2018,6,Ama Boateng,,Facebook,10/3/2026
+PROP-00982,Tema,Townhouse,1,1.5,791," 130,000 ",4/16/2024,Under Offer,,2011,8,Ama Boateng,(55) 120-3344,Facebook,1/10/2026
+PROP-00198,Dzorwulu,Apartment,2,2,1838," 1,196,000 ",1/15/2025,For Sale,Unfurnished,1999,141,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00884,East Legon,Penthouse,4,3.5,," 4,175,000 ",3/8/2026,For Sale,Unfurnished,2009,50,Kofi Antwi,(24) 555-0182,,
+PROP-00280,Spintex,Apartment,5,4,2633," 1,619,000 ",11/13/2024,Available,Unfurnished,2022,21,Efua Addo,(24) 555-0182,,
+PROP-00294,Achimota,Townhouse,3,3,1934," 1,003,000 ",8/3/2025,Available,furnished,2001,70,Kwame Mensah,(20) 771-9921,Portal,
+PROP-01406,Spintex,Townhouse,2,1.5,1512," 1,218,000 ",5/14/2025,Available,Unfurnished,2010,102,Michael Asare,,Portal,10/3/2026
+PROP-00401,Dansoman,Penthouse,,2,1409," 725,000 ",9/17/2024,Available,Furnished,2019,142,Daniel Owusu,,,10/3/2026
+PROP-00123,Labone,Townhouse,2,2,1522," 1,244,000 ",2/17/2025,Under Offer,Furnished,2002,120,Efua Addo,(55) 120-3344,Agent Upload,
+PROP-01208,Tema,Apartment,3,2.5,1910," 791,000 ",3/31/2026,For Sale,furnished,2002,1,Michael Asare,(55) 120-3344,Facebook,10/3/2026
+PROP-00203,Labone,Studio,0,1,736," 674,000 ",4/11/2024,Sold,Furnished,2008,131,Nana Yaa,,Agent Upload,2/15/2026
+PROP-00836,East Legon,Studio,0,1,955," 615,000 ",6/14/2025,For Sale,Unfurnished,2006,165,Nana Yaa,(24) 555-0182,Website,1/10/2026
+PROP-00247,Labone,Apartment,1,1,832," 676,000 ",6/9/2024,Under Offer,Unfurnished,2026,91,Daniel Owusu,(20) 771-9921,Agent Upload,
+PROP-01464,East Legon,Apartment,2,2,1687," 1,680,000 ",9/1/2024,Available,,2020,77,Ama Boateng,(55) 120-3344,Facebook,2/15/2026
+PROP-01450,Spintex,Apartment,1,1,1326," 579,000 ",11/7/2024,Under Offer,Unfurnished,2022,86,Daniel Owusu,(55) 120-3344,Portal,2/15/2026
+PROP-01154,Cantonments,Townhouse,1,1,1026," 1,661,000 ",11/13/2025,Under Offer,Furnished,2022,23,Kwame Mensah,(20) 771-9921,,10/3/2026
+PROP-00385,Spintex,Townhouse,1,1.5,907," 428,000 ",11/10/2024,For Sale,Unfurnished,2024,,Michael Asare,(55) 120-3344,Agent Upload,1/10/2026
+PROP-01361,East Legon,Studio,0,1,612," 386,000 ",6/15/2024,For Sale,,2024,105,Efua Addo,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00855,Airport Residential,Apartment,2,1.5,1486,,10/30/2025,For Sale,Furnished,,137,Michael Asare,(24) 555-0182,Facebook,2/15/2026
+PROP-00220,Cantonments,Townhouse,1,2,1134," 1,975,000 ",7/9/2025,Sold,Partly Furnished,2020,162,Ama Boateng,(20) 771-9921,Portal,1/10/2026
+PROP-00642,Kasoa,Townhouse,2,2,1250," 429,000 ",9/18/2025,Under Offer,,2003,1,Nana Yaa,,,2/15/2026
+PROP-00002,Achimota,Townhouse,1,1,1228," 777,000 ",3/5/2024,Sold,Unfurnished,2016,32,Michael Asare,(55) 120-3344,Agent Upload,2/15/2026
+PROP-00113,East Legon,Apartment,2,1.5,," 2,203,000 ",1/31/2025,Sold,Unfurnished,2001,5,Efua Addo,(24) 555-0182,Website,
+PROP-00699,Airport Residential,Studio,0,1,517," 681,000 ",5/14/2025,For Sale,Furnished,2013,13,Michael Asare,(20) 771-9921,Website,2/15/2026
+PROP-01473,Spintex,Apartment,3,2.5,1977," 1,181,000 ",6/11/2026,For Sale,Furnished,2020,113,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00952,Adenta,Penthouse,1,1,919," 350,000 ",4/29/2024,For Sale,Partly Furnished,2021,,Kwame Mensah,(24) 555-0182,,10/3/2026
+PROP-01356,Cantonments,Townhouse,3,3,1681," 1,976,000 ",10/31/2025,Under Offer,Unfurnished,2014,70,Nana Yaa,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01292,,Studio,0,1,963," 832,000 ",1/11/2025,Sold,Unfurnished,2015,1,,(24) 555-0182,WhatsApp,1/10/2026
+PROP-01395,East Legon,Townhouse,3,3,1706," 1,620,000 ",4/16/2024,Sold,Unfurnished,2019,1,Nana Yaa,(24) 555-0182,Agent Upload,10/3/2026
+PROP-00442,Spintex,Townhouse,1,1.5,957," 317,000 ",6/19/2026,For Sale,Furnished,2019,,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-01137,Spintex,Apartment,3,4,2121," 1,143,000 ",11/22/2024,Sold,Furnished,2010,1,Michael Asare,,Facebook,2/15/2026
+PROP-01257,Tema,Apartment,2,2.5,1500," 502,000 ",6/18/2024,Sold,Furnished,2018,19,Efua Addo,(55) 120-3344,Website,2/15/2026
+PROP-00664,Airport Residential,Apartment,1,1,1103," 1,016,000 ",12/1/2025,Sold,Unfurnished,2006,69,,(24) 555-0182,Website,2/15/2026
+PROP-01469,Achimota,Penthouse,3,3.5,1940," 1,596,000 ",6/17/2024,Under Offer,Partly Furnished,2001,121,Efua Addo,(24) 555-0182,Portal,2/15/2026
+PROP-01258,East Legon,Apartment,3,3,2105," 2,009,000 ",6/7/2024,Sold,Furnished,2023,96,Michael Asare,(24) 555-0182,WhatsApp,
+PROP-01486,Spintex,Studio,0,1,771," 328,000 ",7/17/2024,For Sale,,2005,103,Nana Yaa,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00318,Kasoa,Apartment,2,2,1480," 276,000 ",1/13/2024,For Sale,,2022,29,Kwame Mensah,(24) 555-0182,,1/10/2026
+PROP-00649,Labone,Townhouse,2,2.5,1455," 1,396,000 ",11/22/2025,For Sale,furnished,2022,68,Kofi Antwi,(20) 771-9921,WhatsApp,
+PROP-00710,Osu,Apartment,4,3,2403," 1,758,000 ",10/21/2025,Sold,Unfurnished,2021,58,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-01283,Spintex,Apartment,0,1,627," 215,000 ",7/17/2024,Under Offer,Furnished,1999,26,Nana Yaa,,,1/10/2026
+PROP-00973,Cantonments,Apartment,3,2.5,2027," 2,442,000 ",10/13/2024,Sold,Unfurnished,2003,3,Kofi Antwi,(24) 555-0182,WhatsApp,
+PROP-00628,Tema,Studio,0,1,899," 314,000 ",9/29/2025,Under Offer,furnished,2013,45,Efua Addo,(20) 771-9921,WhatsApp,
+PROP-00633,Osu,Apartment,4,3,2251," 1,719,000 ",9/9/2025,Available,Unfurnished,2001,108,,(24) 555-0182,Portal,2/15/2026
+PROP-01307,Dansoman,Apartment,1,1,1182," 363,000 ",12/5/2025,Available,Unfurnished,2015,100,Nana Yaa,(55) 120-3344,Website,
+PROP-01249,Osu,,2,2,," 1,469,000 ",5/7/2026,For Sale,Furnished,2015,37,Nana Yaa,(55) 120-3344,Facebook,1/10/2026
+LIST-01129,Adenta,Townhouse,2,2,1309," 476,000 ",6/22/2025,For Sale,furnished,2016,143,Kwame Mensah,(24) 555-0182,Website,1/10/2026
+PROP-01255,East Legon,Apartment,3,3,1970," 1,831,000 ",2/14/2025,Under Offer,Unfurnished,2016,112,Ama Boateng,(20) 771-9921,Website,1/10/2026
+PROP-01372,East Legon,Apartment,2,2,1255," 1,224,000 ",5/22/2026,Under Offer,Unfurnished,2026,,Ama Boateng,(20) 771-9921,Agent Upload,10/3/2026
+PROP-01355,Cantonments,Apartment,6,6.5,2984," 3,593,000 ",8/29/2024,Available,Unfurnished,2001,1,Daniel Owusu,(20) 771-9921,Portal,2/15/2026
+LIST-01456,Dzorwulu,Townhouse,2,2,1260," 1,004,000 ",9/9/2025,Sold,furnished,2001,1,Kofi Antwi,(55) 120-3344,Portal,
+PROP-01425,East Legon,Studio,0,1,742," 466,000 ",5/29/2025,For Sale,,2004,1,Efua Addo,(24) 555-0182,,2/15/2026
+PROP-00796,Adenta,Apartment,3,3,1945," 527,000 ",6/1/2024,Available,Unfurnished,2016,1,Kwame Mensah,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00646,East Legon,Apartment,4,4,2294," 2,065,000 ",1/13/2026,Available,Unfurnished,2023,48,Ama Boateng,(24) 555-0182,Facebook,
+PROP-01013,East Legon,Penthouse,3,2.5,1875," 2,869,000 ",9/4/2025,For Sale,Unfurnished,2026,3,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00557,Achimota,Townhouse,2,2.5,1134," 710,000 ",2/4/2026,For Sale,Unfurnished,2020,192,Ama Boateng,(24) 555-0182,Portal,
+PROP-00682,East Legon,Apartment,2,2,1095," 1,272,000 ",12/21/2025,For Sale,Unfurnished,2021,9,Michael Asare,(24) 555-0182,,
+PROP-00578,Achimota,Studio,0,1,509," 285,000 ",2/14/2024,Available,Unfurnished,2019,98,Michael Asare,(20) 771-9921,,
+PROP-01110,Airport Residential,Townhouse,3,2.5,1825,,10/9/2025,For Sale,Partly Furnished,2007,82,Kofi Antwi,,Website,2/15/2026
+PROP-01267,Osu,Apartment,1,1,935," 767,000 ",2/3/2024,For Sale,Furnished,2014,191,Efua Addo,(20) 771-9921,Portal,
+PROP-01184,Kasoa,Apartment,2,2,1700," 620,000 ",5/20/2024,For Sale,Partly Furnished,2010,35,Michael Asare,,Facebook,10/3/2026
+PROP-00525,East Legon,Apartment,1,1,1000," 964,000 ",9/15/2025,For Sale,Unfurnished,2017,140,Efua Addo,(55) 120-3344,Website,2/15/2026
+PROP-01060,Osu,Apartment,3,3,1873," 1,274,000 ",10/10/2024,Available,Unfurnished,2003,79,Kwame Mensah,(24) 555-0182,Portal,
+PROP-00541,,Studio,0,1,389," 156,000 ",4/19/2024,For Sale,Unfurnished,2014,74,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-01195,Tema,Townhouse,2,2,1283," 388,000 ",12/19/2024,For Sale,Partly Furnished,2003,64,Daniel Owusu,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00749,Achimota,Townhouse,3,3,1809," 878,000 ",10/7/2024,For Sale,,2004,70,Daniel Owusu,(55) 120-3344,WhatsApp,
+PROP-01428,Achimota,Townhouse,4,3.5,2620," 1,421,000 ",1/18/2026,For Sale,Furnished,2002,1,Daniel Owusu,(24) 555-0182,Facebook,1/10/2026
+PROP-00485,Achimota,Townhouse,4,4,," 1,171,000 ",5/8/2025,Available,,2017,90,Michael Asare,,Agent Upload,10/3/2026
+PROP-00096,Adenta,Apartment,3,3,2144," 851,000 ",11/9/2025,Under Offer,Unfurnished,1999,151,Ama Boateng,,Agent Upload,2/15/2026
+PROP-01021,Cantonments,Apartment,1,1,1054," 1,155,000 ",12/14/2025,For Sale,Unfurnished,2005,73,Kofi Antwi,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00564,East Legon,Apartment,1,1.5,719," 633,000 ",2/18/2025,For Sale,Furnished,1999,78,Michael Asare,,,10/3/2026
+PROP-01265,Kasoa,Townhouse,2,2,1543," 646,000 ",6/22/2025,Under Offer,Furnished,2015,109,Ama Boateng,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00743,Spintex,Penthouse,0,1,600," 584,000 ",6/12/2024,For Sale,Unfurnished,2015,1,Efua Addo,,,1/10/2026
+PROP-00864,Dansoman,Townhouse,3,3,1593," 722,000 ",1/4/2025,For Sale,Unfurnished,2012,1,Ama Boateng,,WhatsApp,10/3/2026
+PROP-00892,Airport Residential,Apartment,2,2,1621," 1,911,000 ",11/20/2024,Under Offer,,2021,62,Ama Boateng,(55) 120-3344,Portal,1/10/2026
+PROP-01039,Achimota,Studio,0,1,675," 233,000 ",8/28/2025,Sold,Unfurnished,2023,58,Daniel Owusu,,Facebook,10/3/2026
+PROP-00207,,Apartment,2,1,1393,,7/16/2025,For Sale,Unfurnished,2009,1,Efua Addo,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00393,Osu,Penthouse,3,2,1824," 2,263,000 ",,For Sale,Unfurnished,2009,78,Nana Yaa,,Facebook,10/3/2026
+PROP-00795,Osu,Studio,0,1,619," 237,000 ",4/12/2024,For Sale,furnished,2015,99,Ama Boateng,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00871,Spintex,Apartment,1,1,985," 523,000 ",4/26/2025,For Sale,,2019,51,Kwame Mensah,(24) 555-0182,Website,10/3/2026
+PROP-00398,Adenta,Penthouse,1,1,854," 88,000 ",3/26/2025,For Sale,,2010,44,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-00767,Osu,Apartment,1,1.5,1303," 1,027,000 ",7/3/2025,For Sale,Partly Furnished,2026,117,Daniel Owusu,(20) 771-9921,Website,
+PROP-01418,,Studio,0,1,478," 164,000 ",12/25/2024,Under Offer,,2004,173,Nana Yaa,,Facebook,
+PROP-01242,Airport Residential,Apartment,2,2,1116," 1,392,000 ",2/6/2026,For Sale,Unfurnished,1999,123,Michael Asare,(55) 120-3344,WhatsApp,10/3/2026
+PROP-01029,Tema,Townhouse,1,1.5,1031," 137,000 ",7/11/2024,Available,Unfurnished,2009,63,Ama Boateng,,Portal,10/3/2026
+PROP-00643,East Legon,Apartment,2,1.5,1390," 2,147,000 ",8/1/2024,For Sale,Unfurnished,2025,1,Michael Asare,(55) 120-3344,Portal,2/15/2026
+PROP-00613,Tema,Apartment,5,4.5,2860," 1,236,000 ",4/21/2026,For Sale,Unfurnished,2000,169,Michael Asare,,Portal,
+PROP-00961,East Legon,,4,4,2053," 2,111,000 ",4/27/2024,Under Offer,Unfurnished,2009,19,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-00726,Labone,Studio,0,1,722," 436,000 ",9/28/2025,Under Offer,,1999,86,Daniel Owusu,(55) 120-3344,Facebook,2/15/2026
+PROP-00684,,Apartment,4,4,2394," 1,337,000 ",7/2/2026,Under Offer,Unfurnished,2015,66,Ama Boateng,(24) 555-0182,Facebook,1/10/2026
+PROP-00099,Spintex,Townhouse,2,1,1392," 771,000 ",4/22/2024,For Sale,Furnished,2025,96,Ama Boateng,(24) 555-0182,,10/3/2026
+PROP-00805,Spintex,Studio,0,1,673," 472,000 ",2/19/2024,For Sale,Furnished,2006,30,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00407,Osu,Townhouse,0,1,635," 613,000 ",9/21/2025,Available,Unfurnished,2022,2,Daniel Owusu,(24) 555-0182,Website,10/3/2026
+PROP-00503,Airport Residential,Apartment,2,2.5,1572," 1,939,000 ",12/23/2025,Sold,Partly Furnished,,204,Kwame Mensah,(20) 771-9921,Agent Upload,
+PROP-01072,,Townhouse,0,1,362," 434,000 ",5/24/2026,Available,Furnished,2006,113,Michael Asare,(24) 555-0182,WhatsApp,10/3/2026
+PROP-01057,Tema,Apartment,3,3,1562,,1/10/2024,Under Offer,Unfurnished,2018,95,Nana Yaa,(55) 120-3344,Portal,2/15/2026
+PROP-00930,Labone,Apartment,2,2,1511," 1,391,000 ",2/8/2024,For Sale,furnished,2010,7,Michael Asare,,WhatsApp,2/15/2026
+PROP-00780,Airport Residential,Apartment,1,1.5,933," 1,293,000 ",5/1/2024,For Sale,Furnished,2016,93,Ama Boateng,(24) 555-0182,,1/10/2026
+PROP-00201,Achimota,Studio,0,1,916," 298,000 ",12/7/2024,For Sale,,2022,59,Michael Asare,,Website,2/15/2026
+PROP-00135,Kasoa,Apartment,3,3,1795," 327,000 ",9/8/2024,Sold,,2014,110,Nana Yaa,(55) 120-3344,Portal,1/10/2026
+PROP-01052,Adenta,Studio,0,1,717," 138,000 ",11/27/2024,For Sale,Unfurnished,2011,1,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00041,Airport Residential,Townhouse,2,1.5,1838,,6/21/2025,Available,furnished,2008,47,Michael Asare,(55) 120-3344,WhatsApp,1/10/2026
+PROP-01018,East Legon,Studio,0,1,354," 337,000 ",4/17/2024,For Sale,,2018,188,Michael Asare,(24) 555-0182,Portal,2/15/2026
+PROP-00231,Labone,Townhouse,1,1,1026," 1,029,000 ",11/18/2025,For Sale,Unfurnished,1999,1,Kwame Mensah,(20) 771-9921,,
+PROP-00379,Cantonments,Apartment,2,2.5,1698," 2,063,000 ",11/18/2025,Sold,,1999,31,Ama Boateng,(55) 120-3344,WhatsApp,2/15/2026
+PROP-00289,East Legon,Apartment,2,2,1083," 1,224,000 ",2/8/2024,For Sale,Unfurnished,1999,1,Kofi Antwi,(24) 555-0182,Portal,1/10/2026
+PROP-00419,Airport Residential,Apartment,2,2.5,1776," 1,945,000 ",8/11/2024,For Sale,furnished,2003,100,Ama Boateng,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00392,East Legon,Studio,0,1,730," 678,000 ",1/5/2026,Sold,Unfurnished,2002,160,Kwame Mensah,(24) 555-0182,Portal,2/15/2026
+PROP-00593,Adenta,Townhouse,3,2.5,2033," 941,000 ",6/29/2025,For Sale,furnished,2018,,Efua Addo,(24) 555-0182,Website,2/15/2026
+PROP-01163,Osu,Townhouse,2,2,1470," 1,467,000 ",1/26/2025,Sold,Unfurnished,2023,19,Nana Yaa,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01087,Osu,Apartment,1,1.5,1051," 651,000 ",3/8/2026,For Sale,furnished,2009,38,Daniel Owusu,,Portal,2/15/2026
+PROP-00648,Spintex,Townhouse,2,2,1426," 1,064,000 ",2/13/2024,Sold,,2014,34,Nana Yaa,(24) 555-0182,Portal,
+PROP-01153,Osu,Studio,0,1,914," 572,000 ",8/12/2024,For Sale,Unfurnished,2014,83,Michael Asare,(55) 120-3344,Website,2/15/2026
+PROP-01368,Osu,Penthouse,6,5,3279," 4,458,000 ",5/21/2025,For Sale,Furnished,1999,1,Ama Boateng,(24) 555-0182,Agent Upload,1/10/2026
+PROP-00521,Airport Residential,Apartment,1,1,1439," 1,923,000 ",2/16/2025,Sold,Unfurnished,2011,25,Nana Yaa,,Website,2/15/2026
+PROP-00065,East Legon,Apartment,1,1,735," 1,013,000 ",8/11/2025,Sold,Unfurnished,2013,98,Efua Addo,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00015,Cantonments,Studio,0,1,500," 500,000 ",2/12/2024,Sold,Unfurnished,2013,2,,(24) 555-0182,Portal,2/15/2026
+PROP-01181,East Legon,Studio,0,1,521," 754,000 ",6/3/2025,For Sale,Unfurnished,2008,84,Kofi Antwi,(24) 555-0182,WhatsApp,2/15/2026
+PROP-01065,East Legon,Apartment,4,4.5,2373," 2,180,000 ",4/4/2024,Available,Furnished,2014,153,Kofi Antwi,,Facebook,
+PROP-00493,Dansoman,Townhouse,0,1,708," 508,000 ",7/13/2025,Available,Furnished,2022,83,Efua Addo,(55) 120-3344,Facebook,
+PROP-00380,Cantonments,,2,1.5,1585," 2,358,000 ",6/27/2024,For Sale,,2020,116,Michael Asare,(20) 771-9921,Portal,1/10/2026
+PROP-00188,Dansoman,Townhouse,4,3,2691," 929,000 ",3/4/2026,For Sale,Unfurnished,2000,109,Nana Yaa,(24) 555-0182,Facebook,1/10/2026
+PROP-00764,Dansoman,Penthouse,2,2.5,1461," 835,000 ",2/3/2024,For Sale,Furnished,2015,58,Kwame Mensah,(20) 771-9921,Portal,2/15/2026
+PROP-00217,Tema,Penthouse,1,1,745,,4/1/2024,Sold,Furnished,2008,49,Daniel Owusu,(24) 555-0182,Portal,1/10/2026
+PROP-00792,East Legon,Apartment,1,1.5,1065," 955,000 ",6/26/2024,For Sale,,2013,57,Ama Boateng,(24) 555-0182,Portal,
+PROP-01077,Kasoa,Apartment,0,1,601," 204,000 ",6/19/2024,Under Offer,Furnished,2003,59,Daniel Owusu,(20) 771-9921,Facebook,10/3/2026
+PROP-00879,Tema,Townhouse,3,3,1775," 778,000 ",12/19/2025,Sold,Furnished,2012,1,Kwame Mensah,(20) 771-9921,Website,2/15/2026
+PROP-00338,Adenta,Townhouse,4,4,2350," 931,000 ",9/15/2025,For Sale,,2016,80,Nana Yaa,(24) 555-0182,Facebook,2/15/2026
+PROP-00720,Osu,Townhouse,0,1,788," 613,000 ",4/4/2026,For Sale,,2010,48,Ama Boateng,(55) 120-3344,Portal,10/3/2026
+PROP-00296,Achimota,Townhouse,4,3,2341," 1,175,000 ",12/25/2024,Sold,Unfurnished,2013,51,Nana Yaa,(24) 555-0182,Facebook,10/3/2026
+PROP-01017,Osu,Townhouse,1,1.5,1000," 770,000 ",5/13/2025,Available,Unfurnished,2010,160,Kwame Mensah,(24) 555-0182,Portal,10/3/2026
+PROP-01276,Dzorwulu,Apartment,1,1,," 757,000 ",9/21/2024,For Sale,Unfurnished,2002,82,Ama Boateng,(20) 771-9921,WhatsApp,10/3/2026
+PROP-00456,Airport Residential,Apartment,4,5,1982," 2,215,000 ",1/17/2025,For Sale,,2025,108,Michael Asare,(20) 771-9921,Portal,2/15/2026
+LIST-01388,Dansoman,Apartment,3,3,1923," 638,000 ",1/4/2025,For Sale,Unfurnished,2021,1,Daniel Owusu,(20) 771-9921,Portal,10/3/2026
+PROP-00816,Adenta,Townhouse,2,2,1386," 650,000 ",7/23/2026,Sold,Unfurnished,2003,105,Michael Asare,(24) 555-0182,,1/10/2026
+PROP-00270,East Legon,Apartment,2,2.5,1844," 1,719,000 ",8/3/2025,For Sale,Unfurnished,1999,236,Kwame Mensah,(24) 555-0182,Website,2/15/2026
+PROP-00996,East Legon,Apartment,2,2,1252," 1,304,000 ",11/17/2024,For Sale,Unfurnished,2021,128,Kofi Antwi,(24) 555-0182,Portal,
+PROP-00202,Airport Residential,Apartment,2,2.5,1483," 1,658,000 ",7/12/2024,For Sale,Unfurnished,2005,4,Efua Addo,(24) 555-0182,Facebook,
+PROP-00162,Spintex,Apartment,2,1.5,1620," 1,037,000 ",12/7/2024,For Sale,Unfurnished,2025,44,Nana Yaa,(55) 120-3344,Facebook,
+PROP-00730,Spintex,Apartment,3,2,1910," 1,065,000 ",4/10/2026,Sold,Unfurnished,1999,92,Kwame Mensah,(24) 555-0182,Website,1/10/2026
+PROP-00402,,Penthouse,3,3,1793," 2,287,000 ",3/16/2024,For Sale,Partly Furnished,2003,1,Nana Yaa,(20) 771-9921,Website,
+PROP-00703,East Legon,Apartment,2,2,1304," 1,441,000 ",,Under Offer,Unfurnished,2017,97,Kofi Antwi,(24) 555-0182,Agent Upload,
+PROP-01130,Achimota,,4,4,2328," 1,054,000 ",5/1/2024,Sold,Unfurnished,2001,31,Michael Asare,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00566,Dzorwulu,Townhouse,4,4,2370,,5/16/2025,For Sale,Unfurnished,2016,61,Kwame Mensah,(20) 771-9921,Facebook,
+PROP-01414,Achimota,Studio,0,1,669," 245,000 ",7/14/2026,For Sale,Furnished,2020,1,Ama Boateng,(20) 771-9921,Website,
+PROP-01022,Osu,Apartment,2,1.5,1413," 913,000 ",1/20/2025,For Sale,Furnished,2016,107,Efua Addo,(20) 771-9921,,2/15/2026
+PROP-01026,East Legon,Studio,0,1,624," 497,000 ",8/19/2025,For Sale,Furnished,1998,1,Daniel Owusu,(55) 120-3344,Portal,
+PROP-01412,Osu,Studio,0,1,734," 459,000 ",1/16/2024,For Sale,Furnished,2017,166,Efua Addo,(55) 120-3344,WhatsApp,1/10/2026
+PROP-01105,Cantonments,Townhouse,2,2,22155," 2,268,000 ",11/29/2024,Available,Unfurnished,2021,156,Daniel Owusu,(24) 555-0182,Portal,10/3/2026
+PROP-00206,Osu,Studio,0,1,755," 687,000 ",9/28/2024,Under Offer,Partly Furnished,2013,85,Kofi Antwi,(20) 771-9921,Agent Upload,
+PROP-00035,Dzorwulu,Apartment,6,6,3306," 2,172,000 ",1/28/2024,For Sale,Furnished,2023,31,Ama Boateng,,Portal,1/10/2026
+PROP-00776,Tema,Penthouse,1,1.5,1151," 775,000 ",11/20/2025,Under Offer,Unfurnished,2001,29,Kwame Mensah,(55) 120-3344,Portal,1/10/2026
+PROP-00509,Labone,Apartment,4,3.5,2439," 1,956,000 ",3/31/2024,Available,Unfurnished,2025,106,Nana Yaa,,WhatsApp,10/3/2026
+PROP-01452,Cantonments,Townhouse,2,2.5,1566," 3,039,000 ",7/6/2024,For Sale,Furnished,1998,122,Kofi Antwi,(24) 555-0182,Website,
+PROP-01479,Kasoa,Townhouse,2,2,1477," 516,000 ",6/15/2025,For Sale,furnished,2022,147,Efua Addo,(55) 120-3344,Website,1/10/2026
+LIST-01451,Adenta,Apartment,3,3.5,1959," 703,000 ",9/19/2024,For Sale,Furnished,2023,101,,,Website,1/10/2026
+PROP-01391,Adenta,Townhouse,3,3,1834," 662,000 ",10/25/2025,Under Offer,Furnished,2014,53,,(24) 555-0182,,10/3/2026
+PROP-00092,Cantonments,Townhouse,2,2,1462," 2,647,000 ",6/26/2025,For Sale,Furnished,2011,132,Kwame Mensah,(24) 555-0182,Agent Upload,1/10/2026
+PROP-01364,Airport Residential,Apartment,1,1.5,1194," 1,852,000 ",7/1/2025,For Sale,,2025,56,Ama Boateng,,WhatsApp,10/3/2026
+PROP-00898,Dansoman,Studio,0,1,704," 163,000 ",10/21/2024,Under Offer,,2002,26,Nana Yaa,(24) 555-0182,Website,10/3/2026
+PROP-00565,Osu,Apartment,3,3.5,2219," 1,665,000 ",7/15/2025,Sold,Unfurnished,2005,36,Michael Asare,,Website,10/3/2026
+PROP-01370,Labone,Townhouse,4,4,2445," 2,657,000 ",1/16/2024,For Sale,,2006,52,Ama Boateng,(24) 555-0182,Website,
+PROP-00777,Adenta,,4,3.5,2492," 1,042,000 ",7/31/2026,For Sale,Unfurnished,2004,20,Ama Boateng,(24) 555-0182,WhatsApp,10/3/2026
+PROP-00242,,Townhouse,2,1.5,1200," 1,862,000 ",11/10/2024,For Sale,Furnished,2004,116,Nana Yaa,,Portal,10/3/2026
+PROP-00014,Cantonments,Townhouse,3,3.5,1820," 2,242,000 ",6/3/2025,For Sale,Unfurnished,2017,30,Nana Yaa,,Website,10/3/2026
+PROP-00316,Airport Residential,Studio,0,1,759," 578,000 ",7/30/2024,For Sale,furnished,2024,74,Daniel Owusu,(55) 120-3344,Agent Upload,10/3/2026
+PROP-00601,Labone,Apartment,2,1.5,1205," 1,024,000 ",9/4/2024,For Sale,,2026,1,Ama Boateng,(24) 555-0182,Website,2/15/2026
+PROP-00388,Dzorwulu,Apartment,1,1,1257," 698,000 ",10/30/2025,Available,Furnished,2016,57,Efua Addo,(24) 555-0182,Facebook,10/3/2026
+PROP-01298,East Legon,Townhouse,6,5,3141," 3,830,000 ",6/18/2025,Under Offer,Furnished,2007,9,Nana Yaa,(55) 120-3344,Website,10/3/2026
+PROP-00167,Dzorwulu,Apartment,4,3,2100," 1,374,000 ",10/20/2025,Available,,2000,1,Ama Boateng,(55) 120-3344,Portal,1/10/2026
+PROP-00841,Spintex,Townhouse,3,2,1931," 1,667,000 ",11/1/2025,Available,furnished,1999,69,Kwame Mensah,,Portal,
+PROP-00021,East Legon,Penthouse,3,2.5,," 2,544,000 ",2/8/2025,Sold,Unfurnished,2024,64,Kofi Antwi,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00647,Cantonments,Penthouse,2,2.5,1539," 3,186,000 ",3/10/2025,Available,Furnished,,111,Kofi Antwi,(55) 120-3344,WhatsApp,
+PROP-01155,Adenta,Apartment,0,1,882," 410,000 ",10/30/2025,For Sale,Unfurnished,,137,Michael Asare,(55) 120-3344,Facebook,1/10/2026
+PROP-00832,Airport Residential,Penthouse,2,2,1452," 2,979,000 ",7/13/2025,Under Offer,Partly Furnished,2012,1,Daniel Owusu,(24) 555-0182,Portal,2/15/2026
+PROP-01268,Achimota,Apartment,2,2,1377," 391,000 ",3/25/2025,For Sale,Furnished,2015,73,Kwame Mensah,(55) 120-3344,Facebook,
+PROP-00563,Achimota,Townhouse,4,5,"2,148"," 1,258,000 ",1/22/2026,For Sale,Unfurnished,2004,138,Michael Asare,(24) 555-0182,Agent Upload,10/3/2026
+LIST-00338,,Townhouse,4,4,2350," 931,000 ",9/15/2025,For Sale,Unfurnished,2016,80,Nana Yaa,(24) 555-0182,Portal,2/15/2026
+PROP-00687,Labone,Townhouse,5,5,2855," 3,130,000 ",2/29/2024,For Sale,Unfurnished,2000,152,Michael Asare,(55) 120-3344,,10/3/2026
+PROP-00958,Cantonments,Apartment,0,1,600," 693,000 ",3/16/2025,Available,Unfurnished,2007,100,Michael Asare,,Portal,10/3/2026
+PROP-00190,Kasoa,Townhouse,0,1,826," 333,000 ",2/25/2025,Available,Furnished,2013,,Michael Asare,(55) 120-3344,Portal,10/3/2026
+PROP-00976,Adenta,Apartment,3,2,1800," 556,000 ",4/1/2026,For Sale,furnished,2004,82,Efua Addo,(55) 120-3344,WhatsApp,1/10/2026
+PROP-00700,Airport Residential,Apartment,4,3.5,2457," 2,934,000 ",10/18/2024,Under Offer,Unfurnished,2023,129,Daniel Owusu,(24) 555-0182,WhatsApp,1/10/2026
+PROP-01500,Adenta,Apartment,3,3,1889," 917,000 ",10/30/2024,Under Offer,Unfurnished,2001,41,,(20) 771-9921,Agent Upload,10/3/2026
+PROP-00511,Airport Residential,Penthouse,4,3,2617," 4,676,000 ",7/24/2025,Available,Unfurnished,2025,26,,(24) 555-0182,Portal,
+PROP-01083,Achimota,Townhouse,2,2,1503," 771,000 ",5/2/2024,Under Offer,Unfurnished,2009,7,Nana Yaa,,Website,10/3/2026
+PROP-00475,Dzorwulu,Townhouse,4,3,," 1,827,000 ",7/3/2025,For Sale,Unfurnished,2026,66,Daniel Owusu,(20) 771-9921,Portal,1/10/2026
+PROP-00857,Achimota,Apartment,2,2.5,1224," 528,000 ",10/11/2024,For Sale,Unfurnished,2026,73,Ama Boateng,(24) 555-0182,WhatsApp,2/15/2026
+PROP-00748,Airport Residential,Studio,0,1,707," 497,000 ",9/21/2025,For Sale,Furnished,2006,106,Daniel Owusu,(24) 555-0182,Portal,
+PROP-00253,East Legon,Apartment,3,3,1950," 1,998,000 ",9/21/2024,Under Offer,Furnished,2013,109,Kofi Antwi,(20) 771-9921,Portal,10/3/2026
+PROP-00022,Airport Residential,Townhouse,4,3,2263," 2,535,000 ",10/29/2024,For Sale,Furnished,2005,165,Kofi Antwi,,Agent Upload,
+PROP-01338,Tema,Townhouse,0,1,524," 201,000 ",6/5/2026,Available,,2002,44,Kofi Antwi,(24) 555-0182,Website,
+PROP-00460,Airport Residential,Townhouse,3,3,2269," 3,541,000 ",5/19/2026,Sold,Unfurnished,2023,70,Ama Boateng,(24) 555-0182,Facebook,2/15/2026
+PROP-01185,Tema,,2,2,1344," 503,000 ",3/6/2026,Sold,Unfurnished,2004,64,Michael Asare,,Facebook,10/3/2026
+PROP-00277,Spintex,Townhouse,2,2.5,1190," 525,000 ",6/14/2026,For Sale,,2001,,Ama Boateng,(24) 555-0182,WhatsApp,1/10/2026
+PROP-00956,Spintex,Penthouse,5,5.5,2726," 2,641,000 ",10/3/2024,Sold,Furnished,2020,134,Ama Boateng,(24) 555-0182,Agent Upload,2/15/2026
+PROP-01216,East Legon,Apartment,2,2,1636," 2,191,000 ",1/20/2026,Under Offer,,2004,57,Kofi Antwi,(55) 120-3344,Website,10/3/2026
+PROP-00386,Adenta,Townhouse,2,,1633," 514,000 ",2/13/2025,For Sale,furnished,2026,158,Efua Addo,(20) 771-9921,Website,10/3/2026
+PROP-00806,Tema,Apartment,3,3,1868," 572,000 ",1/14/2024,For Sale,Unfurnished,2015,153,Nana Yaa,(55) 120-3344,Agent Upload,1/10/2026
+PROP-01438,Dzorwulu,Apartment,2,2.5,1553," 1,142,000 ",12/1/2024,Available,Unfurnished,2007,74,Kofi Antwi,(24) 555-0182,Portal,
+LIST-00439,Cantonments,Apartment,2,2,1475," 1,675,000 ",,For Sale,Furnished,2013,96,Nana Yaa,(24) 555-0182,Facebook,
+PROP-00344,Cantonments,Townhouse,2,2,1536," 2,596,000 ",4/9/2025,Available,Unfurnished,2024,79,Michael Asare,,Portal,2/15/2026
+PROP-00770,Spintex,Apartment,2,2,1721," 885,000 ",3/21/2025,For Sale,,2006,1,,(20) 771-9921,WhatsApp,2/15/2026
+PROP-01333,Dzorwulu,Penthouse,3,2.5,1889," 1,952,000 ",6/26/2026,Available,Unfurnished,2023,35,Kwame Mensah,(24) 555-0182,Agent Upload,2/15/2026
+PROP-00131,Labone,Apartment,3,4,1853," 1,433,000 ",8/6/2026,For Sale,Unfurnished,2016,1,Kofi Antwi,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00872,Dansoman,Townhouse,1,1,1145," 288,000 ",7/13/2026,Available,Unfurnished,2006,64,Nana Yaa,(24) 555-0182,WhatsApp,
+PROP-01124,Tema,Penthouse,2,2,1564," 635,000 ",9/7/2024,For Sale,Unfurnished,2008,114,Kwame Mensah,(20) 771-9921,WhatsApp,1/10/2026
+PROP-01397,Airport Residential,Townhouse,3,1.5,1788," 1,927,000 ",7/4/2024,For Sale,Unfurnished,2015,47,Kofi Antwi,(20) 771-9921,WhatsApp,2/15/2026
+PROP-00088,Adenta,Townhouse,0,1,559," 54,000 ",6/12/2024,For Sale,Unfurnished,2017,13,Efua Addo,(24) 555-0182,WhatsApp,
+PROP-01483,Kasoa,Studio,0,1,614," 60,000 ",11/18/2025,Available,Unfurnished,2000,,Kofi Antwi,(24) 555-0182,Portal,10/3/2026
+PROP-00331,,Townhouse,1,1,863," 1,163,000 ",2/8/2025,Available,furnished,2001,3,Kofi Antwi,(24) 555-0182,Portal,10/3/2026
+PROP-01239,Kasoa,Apartment,4,3,2084," 527,000 ",6/14/2026,For Sale,Furnished,2001,83,Daniel Owusu,(20) 771-9921,Portal,
+PROP-00467,Spintex,Penthouse,2,2,1362," 1,096,000 ",10/25/2025,Available,furnished,2011,78,Daniel Owusu,(55) 120-3344,Website,2/15/2026
+PROP-00122,Spintex,Townhouse,1,2,787," 695,000 ",3/24/2025,For Sale,Unfurnished,2024,23,Michael Asare,,Agent Upload,
+PROP-01045,Achimota,Townhouse,3,2.5,1900," 798,000 ",9/1/2024,Sold,Partly Furnished,2026,168,Efua Addo,(24) 555-0182,,1/10/2026
+PROP-01096,East Legon,Apartment,2,2,2034," 2,065,000 ",11/16/2024,Under Offer,Furnished,2009,143,Efua Addo,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01131,Osu,Townhouse,,3,1847," 1,492,000 ",11/30/2025,For Sale,Partly Furnished,2015,180,Michael Asare,(24) 555-0182,Facebook,10/3/2026
+PROP-01295,Spintex,Apartment,3,3,," 1,131,000 ",7/11/2025,For Sale,Unfurnished,1998,69,Kwame Mensah,(24) 555-0182,Agent Upload,
+PROP-00861,Adenta,,2,2,1583," 1,076,000 ",4/19/2025,For Sale,Furnished,2006,69,Daniel Owusu,(20) 771-9921,Agent Upload,2/15/2026
+PROP-01460,Cantonments,Townhouse,2,2,1388," 1,862,000 ",2/22/2026,Under Offer,Partly Furnished,2008,16,Kofi Antwi,(55) 120-3344,Portal,2/15/2026
+PROP-01127,Tema,Apartment,1,1.5,1268," 446,000 ",12/19/2025,For Sale,Furnished,2013,138,Daniel Owusu,,WhatsApp,
