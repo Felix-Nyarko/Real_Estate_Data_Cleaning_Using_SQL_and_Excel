@@ -456,4 +456,19 @@ ORDER BY
 | Studio | 709.39 |
 
 3. Are expensive properties necessarily larger?
-4. Which segments could represent an opportunity?
+To determine whether expensive properties are necessarily larger, first we need to examine the relationship between property price and property area using correlation.
+```sql
+SELECT
+  CORR(` Price_GHS `, Area_ft) AS Price_Area_Correlation
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+  ` Price_GHS ` IS NOT NULL
+  AND Area_ft IS NOT NULL
+  AND ` Price_GHS ` > 0
+  AND Area_ft > 0;
+```
+The correlation coefficient is 0.1664. Since the correlation coefficient is greater than 0 but less than 1, it signifies there is a little linear relationship that exist between property price and property area(size). 
+
+
+5. Which segments could represent an opportunity?
