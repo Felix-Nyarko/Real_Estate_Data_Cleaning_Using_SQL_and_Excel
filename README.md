@@ -362,6 +362,7 @@ ORDER BY
 | Nana Yaa | 32 | 216 | 15.0 |
 | Efua Addo | 29 | 209 | 14.0 |
 
+*Table showing agents and proportion of properties sold*
 
 ### 3. The properties that have been sitting on the market longest are
 ```sql
