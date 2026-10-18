@@ -468,7 +468,33 @@ WHERE
   AND ` Price_GHS ` > 0
   AND Area_ft > 0;
 ```
-The correlation coefficient is 0.1664. Since the correlation coefficient is greater than 0 but less than 1, it signifies there is a little linear relationship that exist between property price and property area(size). 
+**The correlation coefficient is 0.1664**. Since the correlation coefficient is greater than 0 but less than 1, it signifies there is a little linear relationship that exist between property price and property area(size). 
 
+Alternatively,
+```sql
+SELECT
+  CASE
+    WHEN Area_ft < 800 THEN 'Small (<800 sqft)'
+    WHEN Area_ft < 1500 THEN 'Medium (800–1499 sqft)'
+    WHEN Area_ft < 2500 THEN 'Large (1500–2499 sqft)'
+    ELSE 'Extra Large (2500+ sqft)'
+  END AS Property_Size,
+  COUNT(*) AS Number_of_Properties,
+  ROUND(AVG(` Price_GHS `), 2) AS Average_Price_GHS
+FROM
+  `new-tutorials.Cleaned_Real_Estate_Data.Real Estate Analysis`
+WHERE
+  ` Price_GHS ` > 0
+  AND Area_ft > 0
+GROUP BY
+  Property_Size
+ORDER BY
+  CASE Property_Size
+    WHEN 'Small (<800 sqft)' THEN 1
+    WHEN 'Medium (800–1499 sqft)' THEN 2
+    WHEN 'Large (1500–2499 sqft)' THEN 3
+    ELSE 4
+  END;
+```
 
 5. Which segments could represent an opportunity?
