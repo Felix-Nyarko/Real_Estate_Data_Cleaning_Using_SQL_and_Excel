@@ -39,34 +39,6 @@ For my deep dive into the real estate synthetic data, I harnessed the power of s
 - **Github** : Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking
 
 # DATA CLEANING IN SQL
-We want to understand our property market, identify the most attractive locations and property types, understand pricing, and improve our sales strategy.
-
-Start data audit with command
-```sql
-SELECT
-      *
-FROM
-      `YOUR_PROJECT_ID.real_estate_analysis.raw_property_listings`
-LIMIT 20;
-```
-
-STAGES OF CLEANING
-
-   ↓
-CLEANING & TRANSFORMATION
-   ↓
-clean_property_listings
-   ↓
-ANALYSIS
-   ↓
-SQL ANALYTICAL QUERIES
-   ↓
-POWER BI
-   ↓
-INSIGHTS
-   ↓
-BUSINESS RECOMMENDATIONS
-
 
 1. Standardizing the string columns such as location, property type, status, furnished, agent name and source
 ```sql 
@@ -168,6 +140,22 @@ An ideal approach to be dealing with the null are as follows;
       (i. Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
       (ii. Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid)
 
+STAGES OF CLEANING
+
+   ↓
+CLEANING & TRANSFORMATION
+   ↓
+clean_property_listings
+   ↓
+ANALYSIS
+   ↓
+SQL ANALYTICAL QUERIES
+   ↓
+POWER BI
+   ↓
+INSIGHTS
+   ↓
+BUSINESS RECOMMENDATIONS
 
 # SQL Analytical Queries (The Analysis)
 Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - *The Market, Sales and Investment*. 
