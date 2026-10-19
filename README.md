@@ -52,7 +52,6 @@ SELECT
 FROM
       `new-tutorials.Real_Estate_Data_Set.Real_Estate`;
 ```
-The above code is not applicable in MYSQL Workbench
 
 Alternatively, the case statement can be applied to standardize the string columns;
 ```sql
@@ -69,7 +68,7 @@ CASE
 FROM
       real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
-it is applicable to workbench
+*The above query can be ran on MYSQL Workbench*
 
 2. Working on the date column
 ```sql
@@ -92,7 +91,9 @@ FROM
    real_estate_sql_cleaning.messy_real_estate_listings_ghana;
 ```
 
-4. Finding and removing duplicates
+4. Removing duplicates
+
+    Using the above query as a CTE which captures the duplicates, all rn(row-number) greater than 2 were removed.
 ```sql
 SELECT
    *
