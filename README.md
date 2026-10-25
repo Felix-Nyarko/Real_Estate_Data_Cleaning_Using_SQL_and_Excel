@@ -141,22 +141,6 @@ An ideal approach I adopted when working the null values were as follows;
       (i. Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
       (ii. Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid)
 
-STAGES OF CLEANING
-
-   ↓
-CLEANING & TRANSFORMATION
-   ↓
-clean_property_listings
-   ↓
-ANALYSIS
-   ↓
-SQL ANALYTICAL QUERIES
-   ↓
-POWER BI
-   ↓
-INSIGHTS
-   ↓
-BUSINESS RECOMMENDATIONS
 
 # SQL Analytical Queries (The Analysis)
 Each query for this project is aimed at investigating specific aspects of the real estate market across these 3 categories - *The Market, Sales and Investment*. 
