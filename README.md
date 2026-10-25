@@ -133,7 +133,7 @@ WHERE
 
 7. Handling null values
 
-   An ideal approach I adopted when working the null values were as follows;
+   An ideal approach I adopted when working on the null values were as follows;
    -  Identifying where the nulls are
    -  Replacing nulls with meaningful values (using coalesce) and finding averages 
    -  Applying domain knowledge where necessary
