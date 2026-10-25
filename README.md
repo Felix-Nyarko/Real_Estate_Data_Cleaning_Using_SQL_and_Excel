@@ -133,13 +133,13 @@ WHERE
 
 7. Handling null values
 
-An ideal approach I adopted when working the null values were as follows;
-   i. Identifying where the nulls are
-   2. Deciding what to do with the null
-   3. replacing nulls with meaninful values (using coalesce)
-   4. Filling the null based on a business generated from the data
-      (i. Studio properties are assigned 0 bedrooms because a studio does not contain a separate bedroom
+   An ideal approach I adopted when working the null values were as follows;
+   -  Identifying where the nulls are
+   -  Replacing nulls with meaningful values (using coalesce) and finding averages 
+   -  Applying domain knowledge where necessary
+      (i. For example, bedroom with 0 rooms were considered to be studio properties or apartments.
       (ii. Negative area values were determined to be typographical errors, so the negative sign should be removed rather than treating the records as invalid)
+   - Other empty cells were flagged waiting to be corrected at source
 
 
 # SQL Analytical Queries (The Analysis)
